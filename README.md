@@ -1,6 +1,11 @@
 # Πολυμέσα
 
+Οι διαθέσιμες [εργασίες](https://courses-ionio.github.io/projects/) είναι αυτές που έχουν τον κωδικό MM δίπλα στον τίτλο τους
+
 [Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
+
+[Ανακοινώσεις και πρόγραμμα συναντήσεων](https://github.com/courses-ionio/help/issues/13)
+
 
 ## Syllabus
 
