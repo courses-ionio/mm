@@ -2,8 +2,8 @@
 
 
 ##Παραδοτέο 1
-repository link :https://github.com/agiosZafiris/D3js-uk-political-donations
-github pages link : https://agioszafiris.github.io/D3js-uk-political-donations/
+repository link :https://github.com/agiosZafiris/D3js-uk-political-donations  <br />
+github pages link : https://agioszafiris.github.io/D3js-uk-political-donations/  <br />
 ...
 
 ##Παραδοτέο 2
