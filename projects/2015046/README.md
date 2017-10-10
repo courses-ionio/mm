@@ -2,7 +2,8 @@
 
 <h2>Παραδοτέο 1</h2>
 
- <h3>Forked Repositories</h3> </br> - [Multimedia]: https://github.com/Manolis-Tasiopoulos/mm
+ <h3>Forked Repositories</h3> 
+ * [Multimedia]: https://github.com/Manolis-Tasiopoulos/mm
  
 <h2>Παραδοτέο 2</h2>
 
