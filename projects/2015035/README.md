@@ -2,9 +2,9 @@
 
 ##Παραδοτέο 1
 
-ΑΠΟΘΕΤΗΡΙΟ MM : https://github.com/p15theo2/mm
-ΑΠΟΘΕΤΗΡΙΟ PACMAN: https://github.com/p15theo2/pacman
-LINK PACMAN : https://p15theo2.github.io/pacman/
+ΑΠΟΘΕΤΗΡΙΟ MM : https://github.com/p15theo2/mm<br>
+ΑΠΟΘΕΤΗΡΙΟ PACMAN: https://github.com/p15theo2/pacman<br>
+LINK PACMAN : https://p15theo2.github.io/pacman/<br>
 
 ##Παραδοτέο 2
 
