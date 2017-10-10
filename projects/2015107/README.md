@@ -5,7 +5,7 @@
 
 ΑΜ: Π2015107
 
-Link στο αποθετήριο του κώδικα: https://github.com/ioniodi/Super-Mario
+Link στο αποθετήριο του κώδικα: https://github.com/randomperson19/Super-Mario
 
 Link στο εκτέλεσιμο: https://randomperson19.github.io/Super-Mario/
 
