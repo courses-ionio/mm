@@ -2,8 +2,14 @@
 
 <h2>Παραδοτέο 1</h2>
 
- <h3>Forked Repositories</h3> 
- * [Multimedia]: https://github.com/Manolis-Tasiopoulos/mm
+ - Forked Repository 
+  [Multimedia]: https://github.com/Manolis-Tasiopoulos/mm
+  
+  - Forked Repository
+  [PacMan Repository]: https://github.com/Manolis-Tasiopoulos/pacman
+  
+  - GH-Pages
+  [Pacman Game]: https://manolis-tasiopoulos.github.io/pacman/
  
 <h2>Παραδοτέο 2</h2>
 
