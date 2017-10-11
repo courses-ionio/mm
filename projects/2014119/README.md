@@ -1,5 +1,7 @@
 #Pacman, Αγγελος Γεωρργιος, Χαρμπας, Π2014119
-
+https://github.com/p14char1/mm
+https://github.com/p14char1/pacman
+https://p14char1.github.io/pacman/
 ##Παραδοτέο 1
 
 ...
