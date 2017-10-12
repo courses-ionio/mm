@@ -1,11 +1,9 @@
 Οπτικοποίηση δεδομένων χορηγιών (UK), Μπαλαμπανίδης Δανιήλ , ΑΜ:Π2015147
+repository link : https://github.com/p15bala/D3js-uk-political-donations
 
 ##Παραδοτέο 1 
 
-repository link : https://github.com/p15bala/D3js-uk-political-donations
 
-github pages link : https://p15bala.github.io/D3js-uk-political-donations/
- 
 
 ##Παραδοτέο 2
 
