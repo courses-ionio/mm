@@ -1,7 +1,9 @@
 #Οπτικοποίηση δεδομένων χορηγιών (UK), Αθανασίου Αθανάσιος Π2015073
 
-##Παραδοτέο 1 repository link : https://github.com/p15atha/D3js-uk-political-donations
-                              https://ioniodi.github.io/D3js-uk-political-donations/full-viz
+##Παραδοτέο 1 repository link :
+https://github.com/p15atha/D3js-uk-political-donations
+
+https://ioniodi.github.io/D3js-uk-political-donations/full-viz
 ...
 
 ##Παραδοτέο 2
