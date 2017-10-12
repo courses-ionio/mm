@@ -11,7 +11,7 @@
 
 
 # Επιλογή Εργασίας
-## Sentiment Analysis on Twitter
+## Οπτικοποίηση δεδομένων χορηγιών (UK)
 
 Αχιλλέας Καπετάνιος
 ΑΜ: Π2015201
@@ -23,10 +23,8 @@
 
 Drafts Branch: https://github.com/achkap/mm/tree/drafts
 
-Εφαρμογής: https://github.com/achkap/twitter-stream-globe
+Εφαρμογής: https://github.com/achkap/D3js-uk-political-donations
 
-Develop Branch: https://github.com/achkap/twitter-stream-globe/tree/develop
+Develop Branch: https://github.com/achkap/D3js-uk-political-donations/tree/develop
 
-Gh-Pages Branch: https://github.com/achkap/twitter-stream-globe/tree/gh-pages
-
-Σύνδεσμος Εφαρμογής: https://moodtonight.herokuapp.com/
+Σύνδεσμος Εφαρμογής: https://achkap.github.io/D3js-uk-political-donations/
