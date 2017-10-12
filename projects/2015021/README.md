@@ -1,7 +1,7 @@
 # Data Visualization, Κωνσταντίνος, Αφεντούλης, Π2015021
 
-## Forked Repository [Multimedia]: https://github.com/p15afen/mm
-## Forked Repository [D3 Repository]: https://github.com/p15afen/d3
+### Forked Repository [Multimedia]: https://github.com/p15afen/mm
+### Forked Repository [D3 Repository]: https://github.com/p15afen/d3
 
 ## Παραδοτέο 1
 
