@@ -14,6 +14,9 @@
 
 https://github.com/p15taso/D3js-uk-political-donations/tree/Π2015092---ΠΑΡΑΔΟΤΕΟ-1
 
+Πήγα στο repository μου, πάτησα στο edit και άλλαξα το link σε http://p15taso.github.io/D3js-uk-political-donations/full-viz .
+Τώρα δεν καταλήγει σε ".html".
+
 ## Παραδοτέο 2
 
 https://github.com/p15taso/D3js-uk-political-donations/tree/Π2015092-ΠΑΡΑΔΟΤΕΟ-2
