@@ -1,13 +1,22 @@
-# Super Mario
+# Μάθημα: Πολυμέσα
+Ma
 
-Όνομα: Αστέριος
+### Ονοματεπώνυμο: Αστέριος Παπαμιχαήλ
 
-Επώνυμο: Παπαμιχαήλ
+### Αριθμός Μητρώου: Π2015059
 
-ΑΜ: Π2015059
+## Παραδοτέο 1
 
-##
 
-Αποθετήριο Κώδικα: https://github.com/AsteriosP/Super-Mario
+### -Link demo για το Super Mario: https://github.com/AsteriosP/Super-Mario
 
-Εκτελέσιμο Link: https://AsteriosP.github.io/Super-Mario/
+
+### -Αποθετήριο κώδικα για το Super Mario: https://AsteriosP.github.io/Super-Mario/
+
+
+### Προσθήκες στο παραδοτέο
+* Νέα πίστα στο παιχνίδι με τη χρήση του Tiled
+* Αλλαγή χαρακτήρα για πρωταγωνιστή του παιχνιδιού.
+* Αλλαγή της εμφάνισης των coins και του amimation τους.
+* Προσθήκη ήχων και μουσικής καθώς.
+* Επέκταση του παιχνιδιού με score, ζωές και bonus.
