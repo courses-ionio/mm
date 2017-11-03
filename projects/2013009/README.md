@@ -1,4 +1,4 @@
 Σιδηροπούλου Δέσποινα Π2013009
-Θέμα: Συνεργατική Κατασκευή Ιστοσελίδας
+Αλλαγή Θέματος: Super-Mario
 
-Προσωπικό αποθετήριο: https://github.com/p13sidi/site-bilingual
+Προσωπικό αποθετήριο: https://github.com/p13sidi/Super-Mario
