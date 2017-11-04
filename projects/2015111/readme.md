@@ -16,7 +16,7 @@ Demo Pacman: https://p15zerv.github.io/pacman/
 
 ## Παραδοτέο 2
 
-### Αποθετήριο κώδικα: https://github.com/p15zerv/pacman/tree/Deliωerable2
+### Αποθετήριο κώδικα: https://github.com/p15zerv/pacman/tree/Deliverable2
 
 ### Τελικό αποτέλεσμα
 
