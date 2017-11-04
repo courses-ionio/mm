@@ -12,11 +12,11 @@ Demo Pacman: https://p15zerv.github.io/pacman/
 
 ## Παραδοτέο 1
 
-### Αποθετήριο κώδικα: https://github.com/p15zerv/pacman/tree/Deliberable1
+### Αποθετήριο κώδικα: https://github.com/p15zerv/pacman/tree/Deliverable1
 
 ## Παραδοτέο 2
 
-### Αποθετήριο κώδικα: https://github.com/p15zerv/pacman/tree/Deliberable2
+### Αποθετήριο κώδικα: https://github.com/p15zerv/pacman/tree/Deliωerable2
 
 ### Τελικό αποτέλεσμα
 
