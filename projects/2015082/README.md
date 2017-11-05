@@ -3,18 +3,21 @@
 ### Παραδοτέο 1
 
 + Αποθετήριο Πολυμέσων: https://github.com/p15zach1/mm
-![kl](https://user-images.githubusercontent.com/22659306/31491196-25da6eea-af4f-11e7-9210-aa71afcc6e8f.png)
 
 + Αποθετήριο Data Visualizer: https://github.com/p15zach1/D3js-uk-political-donations
-![hj](https://user-images.githubusercontent.com/22659306/31490882-2db04c26-af4e-11e7-9559-1274176920c8.jpg)
 
-
-+ Link Data Visualizer: https://p15zach1.github.io/D3js-uk-political-donations/full-viz
-![ghj](https://user-images.githubusercontent.com/22659306/31514530-8e46372a-af9a-11e7-8212-16724ae84698.png)
++ Link Data Visualizer: https://p15zach1.github.io/D3js-uk-political-donations
 
 ### Παραδοτέο 2
 
-...
++ Αλλαγή χρωμάτων στις μπάλες δεδομένων και αναζήτηση στην ιστοσελίδα Google για κάθε δωρητή αντίστοιχα κάθε φορά που κάνεις κλικ σε κάποια μπάλα
+https://github.com/p15zach1/D3js-uk-political-donations/blob/master/chart.js
+
++ Αλλαγή χρωμάτων στα πεδία ομαδοποίησης Split by party
+https://github.com/p15zach1/D3js-uk-political-donations/blob/master/style.css
+
++ Προσθήκη ήχου που ακούγεται κάθε φορά που κάνεις κλικ σε κάποια επιλογή ομαδοποίησης δεδομένων
+https://github.com/p15zach1/D3js-uk-political-donations/blob/master/index.html
 
 ### Παραδοτέο 3
 
