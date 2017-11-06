@@ -8,7 +8,7 @@
 ## Παραδοτέο 2
  Link προς Demo: https://p15githubstudent.github.io/Super-Mario
  Link αποθετερίου κώδικα : https://github.com/P15GitHubStudent/Super-Mario
- Προσθήκες για το Παραδοτέο2
+### Προσθήκες για το Παραδοτέο2
  * Νέα πίστα με το tiled
  * Πρόσθεσα καινούργιο sprite για τα νομίσματα
  * Προσθήκη animations για τα νομίσματα
