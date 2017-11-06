@@ -18,7 +18,7 @@
  * Bonus2 τοποθέτηση fire sprite σε διάφορα σημεία της πίστας οταν ο παίκτης το πάρει τοτε θα μπορεί να ρίχνει 
  * φωτιές απο τα χέρια του για ενα σύντομο χρονικό διάστημα 
 * πρόσθηκη lives για το παιχνίδι.
-##Εικόνες για το παραδοτέο
+
 ![pic3](https://user-images.githubusercontent.com/22703561/32443906-574da0f0-c309-11e7-842e-5757cd0e698a.png)
 ![par2](https://user-images.githubusercontent.com/22703561/32443907-57944d3e-c309-11e7-97b8-65262a3d8ccf.png)
 ![pic1](https://user-images.githubusercontent.com/22703561/32443908-57bca8d8-c309-11e7-886e-9394e6dc4afe.png)
