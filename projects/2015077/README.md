@@ -3,15 +3,15 @@
 ### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
 ### Αριθμός Μητρώου: Π2015077
 
-### -Link demo, με τις πιο πρόσφατες αλλαγές: https://dimitristria.github.io/Super-Mario/
-### -Αποθετήριο κώδικα, με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/Super-Mario/tree/gh-pages
+#### -Link demo, με τις πιο πρόσφατες αλλαγές: https://dimitristria.github.io/Super-Mario/
+#### -Αποθετήριο κώδικα, με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/Super-Mario/tree/gh-pages
 
 ## Παραδοτέο 1
 
 ### Δήλωση θέματος: Super Mario
 
-### -Link demo: https://dimitristria.github.io/Super-Mario/
-### -Αποθετήριο κώδικα για το Super Mario: https://github.com/DimitrisTria/Super-Mario
+#### -Link demo: https://dimitristria.github.io/Super-Mario/
+#### -Αποθετήριο κώδικα για το Super Mario: https://github.com/DimitrisTria/Super-Mario
 
 ## Παραδοτέο 2
 
