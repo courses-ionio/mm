@@ -6,8 +6,8 @@
 ### -Link demo για το Super Mario:  https://p15githubstudent.github.io/Super-Mario
 ### -Αποθετήριο κώδικα για το Super Mario:https://github.com/P15GitHubStudent/Super-Mario/tree/gh-pages
 ## Παραδοτέο 2
- Link προς Demo: https://p15githubstudent.github.io/Super-Mario
- Link αποθετερίου κώδικα : https://github.com/P15GitHubStudent/Super-Mario
+### Link προς Demo: https://p15githubstudent.github.io/Super-Mario
+### Link αποθετερίου κώδικα : https://github.com/P15GitHubStudent/Super-Mario
 ### Προσθήκες για το Παραδοτέο2
  * Νέα πίστα με το tiled
  * Πρόσθεσα καινούργιο sprite για τα νομίσματα
