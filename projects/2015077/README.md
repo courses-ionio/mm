@@ -24,12 +24,13 @@
   2) Μανιτάρι
   3) Αντικείμενο για το μπόνους
   
-  * Τα αντικείμενα πάρθηκαν από το tileset
-  link 1: https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/
-  link 2: http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html
+  Τα αντικείμενα πάρθηκαν από το tileset
+  * link 1: https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/
+  * link 2: http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html
 
 * Προσθήκη ήχων και μουσικής καθώς και νέων
-  1) Ήχων από το αυθεντικό Super Mario Bros
+  1) Προσθήκη νέων ήχων από το αυθεντικό Super Mario Bros
+  2) Προσθήκη μουσικής από τα assets της εργασίας
   
   *link: https://scratch.mit.edu/projects/49905542/
   
