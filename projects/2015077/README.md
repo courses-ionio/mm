@@ -21,7 +21,10 @@
   
   link χαρακτήρα: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
 
-* Αλλαγή της εμφάνισης των coins και του amimation τους. 
+* Αλλαγή της εμφάνισης των coins και του amimation τους.
+
+   ![](https://github.com/DimitrisTria/Super-Mario/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2/assets/sprites    /rotated_coin.png)
+
   * link περιστρεφόμενου νομίσματος: 
 
 * Προσθήκη νέων αντικειμένων
