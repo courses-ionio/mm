@@ -27,7 +27,7 @@
 * Προσθήκη νέων αντικειμένων
   1) Δύο νέα είδη από σύννεφα.
   2) Μανιτάρι.
-  3) Αντικείμενο για το μπόνους [?].
+  3) Αντικείμενο για το μπόνους ([?]).
   
   Τα αντικείμενα πάρθηκαν από το tileset
   * link 1: https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/
