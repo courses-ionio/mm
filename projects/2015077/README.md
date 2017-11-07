@@ -25,7 +25,7 @@
 
     ![](https://github.com/DimitrisTria/Super-Mario/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2/assets/sprites/rotated_coin.png)
 
-  * link περιστρεφόμενου νομίσματος: 
+  * link περιστρεφόμενου νομίσματος: http://s11.postimg.org/p9sml5v4z/Coins.png
 
 * Προσθήκη νέων αντικειμένων
   1) Δύο νέα είδη από σύννεφα.
