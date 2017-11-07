@@ -3,6 +3,9 @@
 ### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
 ### Αριθμός Μητρώου: Π2015077
 
+### -Link demo, με τις πιο πρόσφατες αλλαγές: https://dimitristria.github.io/Super-Mario/
+### -Αποθετήριο κώδικα, με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/Super-Mario/tree/gh-pages
+
 ## Παραδοτέο 1
 
 ### Δήλωση θέματος: Super Mario
@@ -32,13 +35,13 @@
   1) Προσθήκη νέων ήχων από το αυθεντικό Super Mario Bros
   2) Προσθήκη μουσικής από τα assets της εργασίας
   
-  *link: https://scratch.mit.edu/projects/49905542/
+  * link: https://scratch.mit.edu/projects/49905542/
   
 * Επέκταση του παιχνιδιού με score, ζωές και bonus.
   1)
 
 
-### -Αποθετήριο κώδικα για το Παραδοτέο 2: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
+* Αποθετήριο κώδικα για το Παραδοτέο 2: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
 
 ## Παραδοτέο 3
 ...
