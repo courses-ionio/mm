@@ -22,22 +22,22 @@
   link χαρακτήρα: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
 
 * Αλλαγή της εμφάνισης των coins και του amimation τους.
-  1) Περιστρεφόμενο νόμισμα
+  1) Περιστρεφόμενο νόμισμα.
   
   * link: 
 
 * Προσθήκη νέων αντικειμένων
-  1) Δύο νέα είδη από σύννεφα
-  2) Μανιτάρι
-  3) Αντικείμενο για το μπόνους
+  1) Δύο νέα είδη από σύννεφα.
+  2) Μανιτάρι.
+  3) Αντικείμενο για το μπόνους.
   
   Τα αντικείμενα πάρθηκαν από το tileset
   * link 1: https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/
   * link 2: http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html
 
 * Προσθήκη ήχων και μουσικής καθώς και νέων
-  1) Προσθήκη νέων ήχων από το αυθεντικό Super Mario Bros
-  2) Προσθήκη μουσικής από τα assets της εργασίας
+  1) Προσθήκη νέων ήχων από το αυθεντικό Super Mario Bros.
+  2) Προσθήκη μουσικής από τα assets της εργασίας.
   
   * link: https://scratch.mit.edu/projects/49905542/
   
@@ -50,7 +50,7 @@
 
 * Tα υπόλοιπα, εκτός από αυτά που ήρθαν με το παιχνίδι στην εργασία, δημιουργήθηκαν από εμένα.
 
-#### -Αποθετήριο κώδικα για το Παραδοτέο 2: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
+#### -Αποθετήριο κώδικα για το Παραδοτέο 2:
 
 ## Παραδοτέο 3
 ...
