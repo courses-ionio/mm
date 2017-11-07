@@ -11,7 +11,7 @@
 ### Δήλωση θέματος: Super Mario
 
 ### -Link demo: https://dimitristria.github.io/Super-Mario/
- ### -Αποθετήριο κώδικα για το Super Mario: https://github.com/DimitrisTria/Super-Mario
+### -Αποθετήριο κώδικα για το Super Mario: https://github.com/DimitrisTria/Super-Mario
 
 ## Παραδοτέο 2
 
@@ -41,7 +41,7 @@
   1)
 
 
-* Αποθετήριο κώδικα για το Παραδοτέο 2: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
+#### -Αποθετήριο κώδικα για το Παραδοτέο 2: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
 
 ## Παραδοτέο 3
 ...
