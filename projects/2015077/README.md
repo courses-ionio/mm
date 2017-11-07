@@ -21,10 +21,8 @@
   
   link χαρακτήρα: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
 
-* Αλλαγή της εμφάνισης των coins και του amimation τους.
-  1) Περιστρεφόμενο νόμισμα.
-  
-  * link: 
+* Αλλαγή της εμφάνισης των coins και του amimation τους. 
+  * link περιστρεφόμενου νομίσματος.: 
 
 * Προσθήκη νέων αντικειμένων
   1) Δύο νέα είδη από σύννεφα.
@@ -45,9 +43,7 @@
   1) score
   2) ζωές
   3) bonus
-  
   * link bonus: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
-
 
 * Tα υπόλοιπα, εκτός από αυτά που ήρθαν με το παιχνίδι στην εργασία, δημιουργήθηκαν από εμένα.
 
