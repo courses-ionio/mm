@@ -27,7 +27,7 @@
 * Προσθήκη νέων αντικειμένων
   1) Δύο νέα είδη από σύννεφα.
   2) Μανιτάρι.
-  3) Αντικείμενο για το μπόνους.
+  3) Αντικείμενο για το μπόνους [?].
   
   Τα αντικείμενα πάρθηκαν από το tileset
   * link 1: https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/
@@ -40,9 +40,11 @@
   * link: https://scratch.mit.edu/projects/49905542/
   
 * Επέκταση του παιχνιδιού
-  1) score, link: 
-  2) ζωές
-  3) bonus, link: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
+  1) score, 10 πόντους για νόμισμα και 15 πόντους για goomba.
+  2) 5 ζωές συνολικά στο παιχνίδι.
+  3) Τρία είδη bonus: αόρατος, διπλά νομίσματα και διπλό score στα kills για σύντομο χρονικό διάστημα.
+  
+  * link bonus: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
 
 * Tα υπόλοιπα, εκτός από αυτά που ήρθαν με το παιχνίδι στην εργασία, δημιουργήθηκαν από εμένα.
 
