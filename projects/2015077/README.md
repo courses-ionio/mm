@@ -29,10 +29,13 @@
 
 * Προσθήκη νέων αντικειμένων
   1) Δύο νέα είδη από σύννεφα.
+  
     ![screenshot-2017-11-7 super-mario_2](https://user-images.githubusercontent.com/22676085/32500875-4a0d3eec-c3df-11e7-957b-e2ecbf7c9114.png)
+
 
   2) Μανιτάρι.
   3) Αντικείμενο για το μπόνους ([?]).
+  
   ![screenshot-2017-11-7 super-mario_3](https://user-images.githubusercontent.com/22676085/32501130-dd7f10ba-c3df-11e7-8575-8c2b65a2a688.png)
   
   Τα αντικείμενα πάρθηκαν από το tileset
