@@ -22,6 +22,10 @@
   link χαρακτήρα: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
 
 * Αλλαγή της εμφάνισης των coins και του amimation τους.
+  1) Περιστρεφόμενο νόμισμα
+  
+  * link: 
+
 * Προσθήκη νέων αντικειμένων
   1) Δύο νέα είδη από σύννεφα
   2) Μανιτάρι
@@ -37,9 +41,14 @@
   
   * link: https://scratch.mit.edu/projects/49905542/
   
-* Επέκταση του παιχνιδιού με score, ζωές και bonus.
-  1)
+* Επέκταση του παιχνιδιού
+  1) score
+  2) ζωές
+  3) bonus
+  
+  * link bonus: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
 
+* Tα υπόλοιπα, εκτός από αυτά που ήρθαν με το παιχνίδι στην εργασία, δημιουργήθηκαν από εμένα.
 
 #### -Αποθετήριο κώδικα για το Παραδοτέο 2: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
 
