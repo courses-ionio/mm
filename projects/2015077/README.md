@@ -20,6 +20,8 @@
     ![super_mario_map2](https://user-images.githubusercontent.com/22676085/32542521-83f6e62a-c47b-11e7-8271-5cfc5a66e49a.png)
 
 * Αλλαγή χαρακτήρα για πρωταγωνιστή του παιχνιδιού.
+
+    ![player](https://user-images.githubusercontent.com/22676085/32542777-5ba8b378-c47c-11e7-9f01-6705d5a01311.png)
   
   link χαρακτήρα: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
 
