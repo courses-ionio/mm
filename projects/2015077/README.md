@@ -38,7 +38,7 @@
   2) Μανιτάρι.
   3) Αντικείμενο για το μπόνους ([?]).
   
-  ![screenshot-2017-11-7 super-mario_3](https://user-images.githubusercontent.com/22676085/32501130-dd7f10ba-c3df-11e7-8575-8c2b65a2a688.png)
+    ![screenshot-2017-11-8 super-mario_3](https://user-images.githubusercontent.com/22676085/32542088-3a969bb6-c47a-11e7-8811-edaefa435495.png)
   
   Τα αντικείμενα πάρθηκαν από το tileset
   * link 1: https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/
@@ -52,7 +52,7 @@
   
 * Επέκταση του παιχνιδιού
 
-    ![screenshot-2017-11-7 super-mario_1](https://user-images.githubusercontent.com/22676085/32501015-8f38aec0-c3df-11e7-9792-48237469bcfd.png)
+    ![screenshot-2017-11-8 super-mario_4](https://user-images.githubusercontent.com/22676085/32542089-3abb0730-c47a-11e7-9143-198dab12e0fe.png)
 
   1) score, 10 πόντους για νόμισμα και 15 πόντους για goomba.
   2) 5 ζωές συνολικά στο παιχνίδι.
