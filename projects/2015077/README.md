@@ -17,7 +17,7 @@
 
 ### Προσθήκες στο παραδοτέο
 * Νέα πίστα στο παιχνίδι με τη χρήση του Tiled
-    ![super_mario_map2](https://user-images.githubusercontent.com/22676085/32542237-93936906-c47a-11e7-815b-997bd7768ee1.png)
+    ![super_mario_map2](https://user-images.githubusercontent.com/22676085/32542521-83f6e62a-c47b-11e7-8271-5cfc5a66e49a.png)
 
 * Αλλαγή χαρακτήρα για πρωταγωνιστή του παιχνιδιού.
   
