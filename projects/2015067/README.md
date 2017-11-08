@@ -28,8 +28,7 @@
 
 Pic1                       |     Pic2                  |       newMap                |  questionBox
 :-------------------------:|:-------------------------:|----------------------------:|----------------------------:
-![pick3](https://user-images.githubusercontent.com/22703561/32443906-574da0f0-c309-11e7-842e-5757cd0e698a.png)  |  ![pick1](https://user-images.githubusercontent.com/22703561/32443908-57bca8d8-c309-11e7-886e-9394e6dc4afe.png)   | ![newMapSample](https://user-images.githubusercontent.com/22703561/32541843-8964ace8-c479-11e7-816f-bfde7a6b4646.png)
-   | ![questionbox](https://user-images.githubusercontent.com/22703561/32498847-84273b1a-c3d9-11e7-847c-94bba21a11e7.png)
+![pick3](https://user-images.githubusercontent.com/22703561/32443906-574da0f0-c309-11e7-842e-5757cd0e698a.png)  |  ![pick1](https://user-images.githubusercontent.com/22703561/32443908-57bca8d8-c309-11e7-886e-9394e6dc4afe.png)   | ![newmapsample](https://user-images.githubusercontent.com/22703561/32443987-b1237302-c309-11e7-8c4a-f45b01b9d029.PNG)   | ![questionbox](https://user-images.githubusercontent.com/22703561/32498847-84273b1a-c3d9-11e7-847c-94bba21a11e7.png)
 
 ## Links εικόνων 
 https://opengameart.org/content/kenney-16x16
