@@ -30,7 +30,9 @@
 * Προσθήκη νέων αντικειμένων
   1) Δύο νέα είδη από σύννεφα.
   
-    ![screenshot-2017-11-7 super-mario_2](https://user-images.githubusercontent.com/22676085/32500875-4a0d3eec-c3df-11e7-957b-e2ecbf7c9114.png)
+    ![screenshot-2017-11-8 super-mario](https://user-images.githubusercontent.com/22676085/32542086-3a571c7a-c47a-11e7-945e-4908eb9b40bb.png)
+    
+    ![screenshot-2017-11-8 super-mario_2](https://user-images.githubusercontent.com/22676085/32542087-3a76fd88-c47a-11e7-9e36-ced8c79e49f3.png)
 
 
   2) Μανιτάρι.
