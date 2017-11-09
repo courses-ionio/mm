@@ -13,6 +13,7 @@ GH-Pages pacman: https://p15diak.github.io/pacman/
 -αλλαγή sprite dot!
 
 link: https://p15diak.github.io/pacman/
+
 ##Παραδοτέο 3
 
 ...
