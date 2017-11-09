@@ -13,6 +13,10 @@ https://p15geor1.github.io/pacman/
 έγινε αλλαγή του χαρακτήρα του pacman με διαφορετικό καθώς και των dots,
 προστέθηκε μουσική καθώς και score.
 
+https://github.com/p15geor1/mm</br>
+https://github.com/p15geor1/pacman</br>
+https://p15geor1.github.io/pacman/
+
 Παραδοτέο 3
 
 ...
