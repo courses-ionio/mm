@@ -15,7 +15,7 @@ Github Page: https://raby97.github.io/Super-Mario/<br>
 * Προσθήκη ήχων και μουσικής.
 * Επέκταση του παιχνιδιού με score, ζωές και bonus.
 
-  https://raby97.github.io/Super-Mario/
+ Github Page: https://raby97.github.io/Super-Mario/
 
 ##Παραδοτέο 3
 
