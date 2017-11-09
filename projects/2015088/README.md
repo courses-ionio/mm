@@ -7,10 +7,11 @@ GH-Pages pacman: https://p15diak.github.io/pacman/
 
 
 ##Παραδοτέο 2
-- Προσθήκη νεου χάρτη!
+- Προσθήκη νεου χάρτη που δημιουργήθηκε με το tiled!
 - εισαγωγή score, ζωες , bonus και μουσική!
 - αλλαγή χαρακτήρα!
-- αλλαγή sprite dot!
+- αλλαγή sprite dot oπου το σκαφος μαζεύει stormtrooper!
+- εισαγωγή χρόνου(timer)!
 
 link: https://p15diak.github.io/pacman/
 
