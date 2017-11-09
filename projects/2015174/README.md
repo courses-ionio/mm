@@ -2,7 +2,7 @@
 
 Παραδοτέο 1</strong>
 <br>Forked Repository (Multimedia): https://github.com/Dimitris-Stamatis/mm
-<br>Forked Repository (Pac-Man): https://github.com/Dimitris-Stamatis/pacman
+<br>Forked Repository (Pac-Man): https://github.com/Dimitris-Stamatis/pacman/tree/gh-pages
 <br>GH-Pages (Pacman): https://dimitris-stamatis.github.io/pacman/
 
 
