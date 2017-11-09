@@ -17,10 +17,10 @@ Github Page: https://raby97.github.io/Super-Mario/<br>
 
  Github Page: https://raby97.github.io/Super-Mario/
 
-##Παραδοτέο 3
+## Παραδοτέο 3
 
 ...
 
-##Παραδοτέο 4 - Tελική Αναφορά
+## Παραδοτέο 4 - Tελική Αναφορά
 
 ...
