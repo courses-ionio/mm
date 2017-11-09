@@ -10,15 +10,15 @@ Pacman executable: https://panosath.github.io/pacman/
 
 Δημιουργία μιας πίστας Pacman με το πρόγραμμα Tiled.
 
-  [ScreenShot](screenshot.png)
+  ![ScreenShot](screenshot.png)
 
 Αλλαγή του εικονιδίου pacman έπειτα απο αναζήτηση στο Google Images. 
 
-  [ScreenShot](flowerpacman.png)
+  ![ScreenShot](flowerpacman.png)
 
 Αλλαγή του εικονιδίου dot έπειτα απο αναζήτηση στο Google Images.
 
-  [ScreenShot](dotwow.png)
+  ![ScreenShot](dotwow.png)
 
 Προσθήκη ήχου έπειτα απο αναζήτηση στο Youtube.
 
