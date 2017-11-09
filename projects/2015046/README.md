@@ -34,22 +34,10 @@
    ```  
    - __Προσθηκη animation οταν ο χαρακτηρας κινηται προς οποιαδιποτε κατευθινση__
         
-  ![Front](front.png)
-  ```
-  Front movment
-   ```    
-  ![Back](back.png)
-  ```
- Back movment
- ``` 
- ![Right](right.png)
- ```
- right movment
- ``` 
- ![left](left.png)
- ```
- left movment
- ``` 
+  ![Front](front.png)    ![Back](back.png)
+ 
+ ![Right](right.png) ![left](left.png)
+ 
          
  - __Αλλαγη των Dots που θα μαζευει ο χαρακτηρας__ 
    
