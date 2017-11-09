@@ -16,7 +16,7 @@ Pacman executable: https://panosath.github.io/pacman/
 
 Αλλαγή του εικονιδίου dot έπειτα απο αναζήτηση στο Google Images.
 
-  <dotwow.png>
+  [ScreenShot](dotwow.png)
 
 Προσθήκη ήχου έπειτα απο αναζήτηση στο Youtube.
 
