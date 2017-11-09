@@ -3,12 +3,9 @@
 
 -Αλλάγη της εμφάνισης του super mario
 
--Αλλαγή των coins
+-Αλλαγή τoυ χρώματος των coins
 
--Προσθήκη μουσικής
-
-Αποθετήριο κώδικα
-https://github.com/p15gkou/Super-Mario/blob/2015090/index.html
+-Προσθήκη μουσικής 
 
 Εκτελέσιμο
 https://p15gkou.github.io/Super-Mario/
