@@ -1,8 +1,9 @@
-Triantafyllidis Vasilis
-Paradoteo 1 - data visualization
-Polumesa 
+Τριανταφυλλίδης Βασίλης Π2013135
 
-paradoteo 2
+Παραδοτέο 1 - Data Visualization
+Μάθημα Πολυμέσα - Polymesa 
+
+Παραδοτέο 2
 
  Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα
  https://github.com/p13tria/D3js-uk-political-donations/blob/gh-pages/chart.js
