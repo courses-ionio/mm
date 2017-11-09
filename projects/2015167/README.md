@@ -20,9 +20,15 @@ Pacman executable: https://panosath.github.io/pacman/
 
   ![ScreenShot](dotwow.png)
 
-Προσθήκη ήχου έπειτα απο αναζήτηση στο Youtube.
+Προσθήκη ήχου έπειτα απο αναζήτηση στο Youtube. Πήρα τον ήχο από ενα παλιό παιχνίδι pokemon και το έκοψα ωστε να γίνεται loop.
 
   <pacmusic.mp3>
+  
+Προσθήκη σκόρ
+
+Προσθήκη ήχου όταν o pacman τρώει τα dots. Ο ήχος είναι το collision sound effect από ένα παλιό παιχνίδι pokemon.
+
+  <bump.mp3>
 
 
 
