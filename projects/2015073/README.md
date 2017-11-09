@@ -21,7 +21,7 @@ https://github.com/p15atha/D3js-uk-political-donations/blob/gh-pages/style.css
 #Google links:
 https://github.com/p15atha/D3js-uk-political-donations/blob/gh-pages/chart.js
 
-https://ioniodi.github.io/D3js-uk-political-donations/full-viz
+https://p15atha.github.io/D3js-uk-political-donations/
 ...
 
 ##Παραδοτέο 3
