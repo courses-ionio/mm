@@ -1,10 +1,12 @@
 παραδοτέο 2 
 Π2014104 Ανθή Δρουγκάνη
 Super Mario
+gh-pages https://anthidrougani.github.io/develop/
+repository https://github.com/anthidrougani/develop
 
+Στο repository περιέχονται screenshots με τις αλλαγες
 
-https://github.com/anthidrougani/develop/tree/master
-
-https://github.com/anthidrougani/develop/blob/master/index.html
-
-https://github.com/anthidrougani/develop/tree/2014104
+δημιουργία πίστας
+αλλαγή coins αλλαγή tileset
+αλλαγή ήρωα
+προσθήκη ηχων ,bonus, score και ζωων
