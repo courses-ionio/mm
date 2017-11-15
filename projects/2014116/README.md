@@ -4,9 +4,11 @@
 
 ΑΜ: **Π2014116**
 
-[Fork του αποθετηρίου του παιχνιδιού:](https://github.com/ConstantineXipol/pacman)
+[Github Pages Αναφοράς](https://constantinexipol.github.io/mm/)
 
-[Εδώ τρέχει το παιχνίδι:](https://constantinexipol.github.io/pacman)
+[Fork του αποθετηρίου του παιχνιδιού](https://github.com/ConstantineXipol/pacman)
+
+[Εδώ τρέχει το παιχνίδι](https://constantinexipol.github.io/pacman)
 
 # Τελική Αναφορά - Συμπεράσματα
 
