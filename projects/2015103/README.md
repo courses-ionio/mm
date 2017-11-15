@@ -1,10 +1,24 @@
 ##ΠΟΛΥΜΕΣΑ
 
-#Σπύρος Βέργης
-#Π2015103
+##Σπύρος Βέργης
+##Π2015103
 
-#Εργασία:Super Mario
+##Εργασία:Super Mario
 
- Link master:https://github.com/Spirosvw/Super-Mario/tree/master
- Link videogame:https://spirosvw.github.io/Super-Mario/
- Link κώδικα:https://github.com/Spirosvw/Super-Mario/blob/master/index.html
+ *Link master:https://github.com/Spirosvw/Super-Mario/tree/master
+ 
+ *Link videogame:https://spirosvw.github.io/Super-Mario/
+ 
+ *Link κώδικα:https://github.com/Spirosvw/Super-Mario/blob/master/index.html
+
+#Δημιούργησα μια νέα πίστα για το παιχνίδι χρησιμοποιώντας το Tiled.
+#Χρησιμοποίησα έναν άλλο χαρακτήρα για πρωταγωνιστή του παιχνιδιού.
+#Άλλαξα την εμφάνιση των coins και το animation τους π.χ. θα μπορούσαν να περιστρέφονται
+#Πρόσθεσα ήχους και μουσική.
+#Πρόσθεσα score, bonus και ζωές.
+
+Χρησιμοποίησα το ιδιο tileset και δημιούργησα μια νέα πίστα.
+Χρησιμοποίησα άλλο χαρακτήρα για πρωταγωνιστή.
+Άλλαξα τα coins και το animation.
+Χρησιμοποίησα κάποιους ήχους του παιχνιδιού άλλα πρόσθεσα και νέους.
+Πρόσθεσα score και ζωές. Tο bonus είναι μία έξτα ζωή κάθε 100 βαθμούς που κερδίζεις.
