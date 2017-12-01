@@ -69,6 +69,23 @@
 #### -Αποθετήριο κώδικα για το Παραδοτέο 2: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2
 
 ## Παραδοτέο 3
-...
+
+* Πρσθήκη επιπλέον εχθρών.
+
+    1)εχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
+    
+    Fireball: ![fireball](https://user-images.githubusercontent.com/22676085/33483734-e4f7be20-d6a7-11e7-8b42-866793675d33.png)
+
+    2)Βρίσκεται στον αέρα και πυροβολά ανά διαστήματα τον παίκτη.
+    
+    UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
+
+* Δυνατότητα teleport για τον πρωταγωνιστή σε συγκεκριμένα σημεία της πίστας.
+
+* Προσθήκη Μenu στην αρχή για επιλογή πίστας και start of level.
+
+* Προσθήκη animation για το end of level.
+
+
 ## Παραδοτέο 4 - Tελική Αναφορά
 ...
