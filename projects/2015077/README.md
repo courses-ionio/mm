@@ -72,21 +72,43 @@
 
 * Πρσθήκη επιπλέον εχθρών.
 
-    1)Νέος εχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
+    1) Νέος εχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
     
     Fireball: ![fireball](https://user-images.githubusercontent.com/22676085/33483734-e4f7be20-d6a7-11e7-8b42-866793675d33.png)
 
-    2)Νέος εχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά, ανά διαστήματα, τον παίκτη.
+    2) Νέος εχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά, ανά διαστήματα, τον παίκτη.
     
     UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
 
 * Δυνατότητα teleport για τον πρωταγωνιστή σε συγκεκριμένα σημεία της πίστας.
     
-    1)Ο παίκτης για να ενεργοποιήσει τη λειτουργία teleport στη πίστα χρειάζεται να συλλέξει το αντικείμενο: ![teleport](https://user-images.githubusercontent.com/22676085/33485137-f60c9cc0-d6ad-11e7-8207-570955ef6da2.png) από τα bonus boxes: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png).
+    1) Ο παίκτης για να ενεργοποιήσει τη λειτουργία teleport στη πίστα χρειάζεται να συλλέξει το αντικείμενο: ![teleport](https://user-images.githubusercontent.com/22676085/33485137-f60c9cc0-d6ad-11e7-8207-570955ef6da2.png) από τα bonus boxes: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png).
 
-* Προσθήκη Μenu στην αρχή για επιλογή πίστας και start of level.
+* Προσθήκη Μenu στην αρχή του παιχνιδιού.
 
-    1)
+    ![menu](https://user-images.githubusercontent.com/22676085/33485705-0d36538a-d6b0-11e7-9047-f32a5026227a.png)
+
+    1) Πρώτο κουμπί: Play
+     * Ξεκινάει τη παιχνίδι από τη πρώτη πίστα.
+      
+    2) Δεύτερο κουμπί: Levels
+     * Επιλογή πίστας από το χρήστη.
+      
+    ![levels](https://user-images.githubusercontent.com/22676085/33485715-1713001a-d6b0-11e7-9db6-87d0b9f9a173.png)
+    
+    * Επιπλέον κουμπιά
+    3) Τρίτο κουμπί (μη τελικό): Help
+     * Οδηγίες του παιχνιδιού.
+      
+    ![help](https://user-images.githubusercontent.com/22676085/33485809-76d6c982-d6b0-11e7-9835-3999b48fe908.png)
+    
+    4) Τέταρτο κουμπί (μη τελικό): Settings
+     * Κουμπί για επιλογή σίγασης των ήχων στο παιχνίδι.
+     * Κουμπί για επιλογή δυσκολίας στο παιχνίδι όπου μέχρι στιγμής επιρεάζει τις ζωές και την ταχύτητα μετακίνησης
+      1)  
+    
+    ![settings](https://user-images.githubusercontent.com/22676085/33485995-21ef7968-d6b1-11e7-8dc5-a2bec0f6c25e.png)
+
 
 * Προσθήκη animation για το end of level.
 
