@@ -132,7 +132,7 @@
       
      ![super_mario_map3](https://user-images.githubusercontent.com/22676085/33488607-d83b9d7a-d6b9-11e7-999b-f87081a35f3f.png)
     
-    2) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι.
+    2) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι, για επιστροφή του χρήστη στο menu.
     3) Προσθήκη οθόνης με το συνολικό score του παίκτη μετά το end of level animation.
     
     ![level_passed](https://user-images.githubusercontent.com/22676085/33488319-f2a45900-d6b8-11e7-88e2-9bb2dd02b6d1.png)
