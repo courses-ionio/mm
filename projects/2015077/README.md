@@ -123,13 +123,14 @@
 * Επιπλέον προσθήκες πέρα από κάποιοες παραπάνω
 
     1) Προσθήκη δύο νέων επιπέδων.
-      * Πρώτη πίστα.
+     
+     Πρώτη πίστα.
       
+     ![super_mario_map0](https://user-images.githubusercontent.com/22676085/33488606-d811c7fc-d6b9-11e7-96f5-327a5e12046b.png)
       
+     Δεύτερη πίστα.
       
-      * Δεύτερη πίστα.
-      
-      
+     ![super_mario_map3](https://user-images.githubusercontent.com/22676085/33488607-d83b9d7a-d6b9-11e7-999b-f87081a35f3f.png)
     
     2) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι.
     3) Προσθήκη οθόνης με το συνολικό score του παίκτη μετά το end of level animation.
