@@ -135,7 +135,7 @@
     2) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι, για επιστροφή του χρήστη στο menu.
     3) Προσθήκη οθόνης με το συνολικό score του παίκτη μετά το end of level animation.
     
-    ![level_passed](https://user-images.githubusercontent.com/22676085/33489202-dfa5e9b0-d6bb-11e7-8aac-d71a9e9aa35f.png)
+    ![level_passed](https://user-images.githubusercontent.com/22676085/33489264-0f3fd654-d6bc-11e7-9c42-2be76ba8cc24.png)
 
 ## Παραδοτέο 4 - Tελική Αναφορά
 ...
