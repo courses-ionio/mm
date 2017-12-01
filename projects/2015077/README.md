@@ -119,6 +119,22 @@
     Προσθήκη ήχου για τον επιτυχή τερματισμό της πίστας (από https://scratch.mit.edu/projects/49905542/) και animation και ήχο (από freesound.org) πυροτεχνήματος.
     
     ![animated-fireworks-background-110102_030143_75162668](https://user-images.githubusercontent.com/22676085/33486870-2a3bf8e6-d6b4-11e7-8520-b9e69271fc20.gif)
+    
+* Επιπλέον προσθήκες πέρα από κάποιοες παραπάνω
+
+    1) Προσθήκη δύο νέων επιπέδων.
+      * Πρώτη πίστα.
+      
+      
+      
+      * Δεύτερη πίστα.
+      
+      
+    
+    2) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι.
+    3) Προσθήκη οθόνης με το συνολικό score του παίκτη μετά το end of level animation.
+    
+    ![level_passed](https://user-images.githubusercontent.com/22676085/33488319-f2a45900-d6b8-11e7-88e2-9bb2dd02b6d1.png)
 
 ## Παραδοτέο 4 - Tελική Αναφορά
 ...
