@@ -112,11 +112,13 @@
      
             Survival: Μία ζωή σε όλο το παιχνίδι.
     
-    ![settings](https://user-images.githubusercontent.com/22676085/33485995-21ef7968-d6b1-11e7-8dc5-a2bec0f6c25e.png)
-
+    ![settings](https://user-images.githubusercontent.com/22676085/33486701-be0cb642-d6b3-11e7-9129-7bee29d1d07c.png)
 
 * Προσθήκη animation για το end of level.
 
+    Προσθήκη ήχου για τον επιτυχή τερματισμό της πίστας από το link: https://scratch.mit.edu/projects/49905542/ και animation με πυροτεχνήματα.
+    
+    ![animated-fireworks-background-110102_030143_75162668](https://user-images.githubusercontent.com/22676085/33486870-2a3bf8e6-d6b4-11e7-8520-b9e69271fc20.gif)
 
 ## Παραδοτέο 4 - Tελική Αναφορά
 ...
