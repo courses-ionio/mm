@@ -38,11 +38,15 @@ Pic1                       |     Pic2                  |       newMap           
    
     2(α)Pirana Plant το οποίο κρύβεται στον σωλήνα μετά απο κάποια δευτερόλεπτα εμφανίζεται το φυτό δεν σκοτώνεται ούτε και να το 
     χτυπήσεις στο κεφάλι ούτε με φωτιά.ο παίκτης χάνει ζωή αμα πέσει πάνω του
-    spritsheet pirana![piranaplant](https://user-images.githubusercontent.com/22703561/33543476-ddf63c16-d8df-11e7-9d30-b6f0405528d1.gif)
+    spritsheet pirana![piranaplant](https://user-images.githubusercontent.com/22703561/33543476-ddf63c16-d8df-11e7-9d30-    b6f0405528d1.gif)
     2(β)προειδοποιητική πινακίδα που ενημερώνει οτι σε αυτόν τον σωλήνα κρύβεται pirana φυτό  
     ![plantwarning](https://user-images.githubusercontent.com/22703561/33543562-2bd6ff10-d8e0-11e7-8684-dbdc5f940555.png)
 
-      
+  * Προσθήκη μενού στην αρχή του παιχνιδιού
+  1)MENU 1
+ ![menu1](https://user-images.githubusercontent.com/22703561/33543806-158f0d50-d8e1-11e7-95f7-c81dfc3aebf2.png)
+
+        
 
 
 ## Links εικόνων 
