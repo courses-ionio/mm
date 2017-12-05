@@ -142,6 +142,8 @@
     4) Προσθήκη οθόνης με το συνολικό score του παίκτη μετά το end of level animation.
     
     ![level_passed](https://user-images.githubusercontent.com/22676085/33489264-0f3fd654-d6bc-11e7-9c42-2be76ba8cc24.png)
+    
+#### -Αποθετήριο κώδικα για το Παραδοτέο 3: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3
 
 ## Παραδοτέο 4 - Tελική Αναφορά
 ...
