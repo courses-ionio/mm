@@ -89,14 +89,17 @@
     ![menu](https://user-images.githubusercontent.com/22676085/33485705-0d36538a-d6b0-11e7-9047-f32a5026227a.png)
 
     1) Πρώτο κουμπί: Play
+        
         Ξεκινάει τη παιχνίδι από τη πρώτη πίστα.
       
     2) Δεύτερο κουμπί: Levels
+        
         Επιλογή πίστας από το χρήστη επιλέγωντας τον αριθμό της πίστας και μετά το κουμπί play.
       
     ![choose_level](https://user-images.githubusercontent.com/22676085/33488020-f977e270-d6b7-11e7-89bc-3a5c319cac8c.png)
     
     3) Τρίτο κουμπί (μη τελικό): Help
+        
         Οδηγίες του παιχνιδιού.
       
     ![help](https://user-images.githubusercontent.com/22676085/33485809-76d6c982-d6b0-11e7-9835-3999b48fe908.png)
