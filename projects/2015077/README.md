@@ -120,7 +120,7 @@
 
 * Προσθήκη animation για το end of level.
 
-    Προσθήκη ήχου για τον επιτυχή τερματισμό της πίστας (από https://scratch.mit.edu/projects/49905542/) και animation και ήχο (από freesound.org) πυροτεχνήματος.
+    Προσθήκη animation με πυροτέχνημα, ήχου για τον επιτυχή τερματισμό της πίστας (από https://scratch.mit.edu/projects/49905542/) και animation και ήχο (από freesound.org) πυροτεχνήματος.
     
     ![animated-fireworks-background-110102_030143_75162668](https://user-images.githubusercontent.com/22676085/33486870-2a3bf8e6-d6b4-11e7-8520-b9e69271fc20.gif)
     
