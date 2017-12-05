@@ -121,8 +121,14 @@
     ![animated-fireworks-background-110102_030143_75162668](https://user-images.githubusercontent.com/22676085/33486870-2a3bf8e6-d6b4-11e7-8520-b9e69271fc20.gif)
     
 * Επιπλέον προσθήκες πέρα από κάποιες παραπάνω
+    
+    1) Προσθήκη λειτουργίας checkpoint (χρήσιμο για μεγάλες πίστες).
+    
+        ![screenshot-2017-12-5 super-mario](https://user-images.githubusercontent.com/22676085/33607610-64bf4d42-d9ca-11e7-8c97-405b07ca516c.png)
+        
+        ![screenshot-2017-12-5 super-mario 1](https://user-images.githubusercontent.com/22676085/33607611-64e20544-d9ca-11e7-8e0b-a5b5daeb911a.png)
 
-    1) Προσθήκη δύο νέων επιπέδων.
+    2) Προσθήκη δύο νέων επιπέδων.
      
      Πρώτη πίστα.
       
@@ -132,8 +138,8 @@
       
      ![super_mario_map3](https://user-images.githubusercontent.com/22676085/33488607-d83b9d7a-d6b9-11e7-999b-f87081a35f3f.png)
     
-    2) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι, για επιστροφή του χρήστη στο menu.
-    3) Προσθήκη οθόνης με το συνολικό score του παίκτη μετά το end of level animation.
+    3) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι, για επιστροφή του χρήστη στο menu.
+    4) Προσθήκη οθόνης με το συνολικό score του παίκτη μετά το end of level animation.
     
     ![level_passed](https://user-images.githubusercontent.com/22676085/33489264-0f3fd654-d6bc-11e7-9c42-2be76ba8cc24.png)
 
