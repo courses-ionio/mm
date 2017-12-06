@@ -67,6 +67,8 @@ Pic1                       |     Pic2                  |       newMap           
 
 ## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
+## link demo παιχνιδιού
+https://p15githubstudent.github.io/Super-Mario
 
 ## Links πολυμεσικού περιεχομένου 
 https://opengameart.org/content/kenney-16x16
