@@ -29,7 +29,7 @@
 
     ![](https://github.com/DimitrisTria/Super-Mario/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2/assets/sprites/rotated_coin.png)
 
-  * link περιστρεφόμενου νομίσματος: http://s11.postimg.org/p9sml5v4z/Coins.png
+  link περιστρεφόμενου νομίσματος: http://s11.postimg.org/p9sml5v4z/Coins.png
 
 * Προσθήκη νέων αντικειμένων
   1) Δύο νέα είδη από σύννεφα.
@@ -37,7 +37,6 @@
     ![screenshot-2017-11-8 super-mario](https://user-images.githubusercontent.com/22676085/32542086-3a571c7a-c47a-11e7-945e-4908eb9b40bb.png)
     
     ![screenshot-2017-11-8 super-mario_2](https://user-images.githubusercontent.com/22676085/32542087-3a76fd88-c47a-11e7-9e36-ced8c79e49f3.png)
-
 
   2) Μανιτάρι.
   3) Αντικείμενο για το μπόνους ([?]).
@@ -52,7 +51,7 @@
   1) Προσθήκη νέων ήχων από το αυθεντικό Super Mario Bros.
   2) Προσθήκη μουσικής από τα assets της εργασίας.
   
-  * link: https://scratch.mit.edu/projects/49905542/
+  link: https://scratch.mit.edu/projects/49905542/
   
 * Επέκταση του παιχνιδιού
 
@@ -62,7 +61,7 @@
   2) 5 ζωές συνολικά στο παιχνίδι.
   3) Τρία είδη bonus: αόρατος, διπλά νομίσματα και διπλό score στα kills για σύντομο χρονικό διάστημα.
   
-  * link bonus: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
+  link bonus: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
 
 * Tα υπόλοιπα, εκτός από αυτά που ήρθαν με το παιχνίδι στην εργασία, δημιουργήθηκαν από εμένα.
 
@@ -112,7 +111,7 @@
         
         Οδηγίες του παιχνιδιού.
       
-    ![help](https://user-images.githubusercontent.com/22676085/33654132-de1b6c2c-da77-11e7-879a-a45624fed848.png)
+        ![help](https://user-images.githubusercontent.com/22676085/33654132-de1b6c2c-da77-11e7-879a-a45624fed848.png)
     
     4) Τέταρτο κουμπί (μη τελικό): Settings
         
@@ -155,13 +154,13 @@
     3) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι, για επιστροφή του χρήστη στο menu.
     4) Προσθήκη οθόνης με τα στατιστικά του παίκτη από τη πίστα, δηλαδή συνολικό score, τρέχον ζωές και το ξεκλείδωμα της επόμενης πίστας
     
-    ![stats](https://user-images.githubusercontent.com/22676085/33654139-df366ec2-da77-11e7-951f-e6b25eb7b38b.png)
+        ![stats](https://user-images.githubusercontent.com/22676085/33654139-df366ec2-da77-11e7-951f-e6b25eb7b38b.png)
     
     5) Μικρές αλλαγές και προσθήκη νέων εχθρών στη δοθείσα καθώς και αυτή που του προηγούμενου παραδοτέου.
     
-    ![super_mario_map1](https://user-images.githubusercontent.com/22676085/33655905-1ed91048-da7d-11e7-8953-220805da2b54.png)
+        ![super_mario_map1](https://user-images.githubusercontent.com/22676085/33655905-1ed91048-da7d-11e7-8953-220805da2b54.png)
     
-    ![super_mario_map2](https://user-images.githubusercontent.com/22676085/33656042-8c4bb996-da7d-11e7-97db-7063614cf673.png)
+        ![super_mario_map2](https://user-images.githubusercontent.com/22676085/33656042-8c4bb996-da7d-11e7-97db-7063614cf673.png)
     
 #### -Αποθετήριο κώδικα για το Παραδοτέο 3: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3
 
