@@ -98,15 +98,15 @@
       
     ![levels](https://user-images.githubusercontent.com/22676085/33654133-de443a8a-da77-11e7-8212-c2ecb8c75dae.png)
     
-    Επιπλέον, στις πίστες εφαρμόζεται και σύστημα που ξεκλειδώνεται επόμενη πίστα μετά την επιτυχή ολοκλήρωση της προηγούμενης.
+    Επιπλέον, στις πίστες εφαρμόζεται και σύστημα διαχείρησης επιπέδων, όπου μετά την επιτυχή ολοκλήρωση του προηγούμενου επιπέδου γίνεται διαθέσιμο το επόμενο.
     
     1) Unlocked επίπεδο
     
-        ![levels_locked](https://user-images.githubusercontent.com/22676085/33654134-de6ba0de-da77-11e7-9ceb-bf56e1faaa14.png)
+        ![levels_unlocked](https://user-images.githubusercontent.com/22676085/33654135-de938536-da77-11e7-9e5d-1d135a272ef3.png)
         
     2) Locked επίπεδο
     
-        ![levels_unlocked](https://user-images.githubusercontent.com/22676085/33654135-de938536-da77-11e7-9e5d-1d135a272ef3.png)
+        ![levels_locked](https://user-images.githubusercontent.com/22676085/33654134-de6ba0de-da77-11e7-9ceb-bf56e1faaa14.png)
     
     3) Τρίτο κουμπί (μη τελικό): Help
         
@@ -134,7 +134,7 @@
     
     ![animated-fireworks-background-110102_030143_75162668](https://user-images.githubusercontent.com/22676085/33486870-2a3bf8e6-d6b4-11e7-8520-b9e69271fc20.gif)
     
-* Επιπλέον προσθήκες πέρα από κάποιες παραπάνω
+* Επιπλέον προσθήκες πέρα από κάποιες που αναφέρθηκαν παραπάνω.
     
     1) Προσθήκη λειτουργίας checkpoint (χρήσιμο για μεγάλες πίστες).
     
