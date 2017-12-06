@@ -38,23 +38,36 @@ Pic1                       |     Pic2                  |       newMap           
    
     2(α)Pirana Plant το οποίο κρύβεται στον σωλήνα μετά απο κάποια δευτερόλεπτα εμφανίζεται το φυτό δεν σκοτώνεται ούτε και να το 
     χτυπήσεις στο κεφάλι ούτε με φωτιά.ο παίκτης χάνει ζωή αμα πέσει πάνω του
-    spritsheet pirana![piranaplant](https://user-images.githubusercontent.com/22703561/33543476-ddf63c16-d8df-11e7-9d30-    b6f0405528d1.gif)
+    spritsheet pirana:![piranaplant](https://user-images.githubusercontent.com/22703561/33653633-53b103cc-da76-11e7-8cb3-b9ae8b4009f9.gif)
+
     2(β)προειδοποιητική πινακίδα που ενημερώνει οτι σε αυτόν τον σωλήνα κρύβεται pirana φυτό  
     ![plantwarning](https://user-images.githubusercontent.com/22703561/33543562-2bd6ff10-d8e0-11e7-8684-dbdc5f940555.png)
-
-  * Προσθήκη μενού στην αρχή του παιχνιδιού
-  1)MENU 1
+    
  ![menu1](https://user-images.githubusercontent.com/22703561/33543806-158f0d50-d8e1-11e7-95f7-c81dfc3aebf2.png)
+  * 1)Προσθήκη μενού στην αρχή του παιχνιδιού(Σημείωση η επιλογή help δεν είναι διαθέσιμη για αυτό το παραδοτεό)
+ 
+ ![lvlselection](https://user-images.githubusercontent.com/22703561/33653702-8cfeff26-da76-11e7-870d-d1043b096394.png)
+ * 2)Μενου επιλογής πίστας,τα αστεράκια υποδηλώνουν την δυσκολία τις πίστας μας και το λουκέτο δείχνει οτι είναι κλειδωμένη
+ (Σημείωση οι κλειδωμένες πίστες δεν είναι διαθέσιμες για αυτό το παραδοτέο).Επίσης το κουμπί go_back πηγαίνει τον πάικτη μας πίσω
+ 
+ * Τηλεμεταφορά του παίκτη μας
+  γίνεται με βάσει τους σωλήνες,ο παίκτης μας τηλεμεταφέρεται σε σημεία τα οποία τα οποία των βοηθούν να πάρει περισσότερα κέρματα και 
+  δεν τον βοηθάει να να τερματίσει την πίστα νωρίτερα.Τελός η παρακάτω πινακίδα υποδηλώνει σε ποιους σωλήνες μπορούν να γίνουν teleports
+ ![teleport](https://user-images.githubusercontent.com/22703561/33654964-65ce9958-da7a-11e7-88d6-b649580ba8fd.png)
 
-        
+ 
+ * End of game Animation
+ με το πέρας τις πίστας εμφανίζεται η πριγκίπισσα η οποία χαιρέτα τον ηρωά μας πλησιάζει προς το μέρος του το δίνει φιλάκι και κάνει fade την καμερά μας 
+ ![princess](https://user-images.githubusercontent.com/22703561/33654872-26172d5c-da7a-11e7-873c-f57c60ca5508.png)
+
+* Προσθήκη QuestionBox το οποίο αμα το χτύπησει ο παίτης απο την κάτω μεριά βγαίνει μανιταρι
+![questionblock-0](https://user-images.githubusercontent.com/22703561/33657111-ec4129e6-da80-11e7-8dc8-31c2b29d66b0.png)
+![1upmushroom](https://user-images.githubusercontent.com/22703561/33657176-1fcac4de-da81-11e7-9c6f-14de0a84a6f6.png)
 
 
-## Links εικόνων 
+## Links πολυμεσικού περιεχομένου 
 https://opengameart.org/content/kenney-16x16
 https://scratch.mit.edu/projects/49905542/
 http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html
-
-
-
-
+https://www.spriters-resource.com/snes/smarioworld/sheet/52777/
 
