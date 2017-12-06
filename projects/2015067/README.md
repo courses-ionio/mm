@@ -31,7 +31,7 @@ Pic1                       |     Pic2                  |       newMap           
 ![pick3](https://user-images.githubusercontent.com/22703561/32443906-574da0f0-c309-11e7-842e-5757cd0e698a.png)  |  ![pick1](https://user-images.githubusercontent.com/22703561/32443908-57bca8d8-c309-11e7-886e-9394e6dc4afe.png)   | ![newmapsample](https://user-images.githubusercontent.com/22703561/32443987-b1237302-c309-11e7-8c4a-f45b01b9d029.PNG)   | ![questionbox](https://user-images.githubusercontent.com/22703561/32498847-84273b1a-c3d9-11e7-847c-94bba21a11e7.png)
 
 # Παραδοτεό 3
-* Προσθήκη επιπλέων εχθρών.
+## Προσθήκη επιπλέων εχθρών.
     1)φάντασμα το οποίο αιωρείται και κινείται τυχαία στον χώρο,περνάει μέσα απο τους τοίχους,οταν ο παίκτης φτάσει κοντά στο φάντασμα
     τότε τον ακολουθεί.Σε αντίθεση με τους αλλους εχθρούς το φάντασμα σκοτώνεται μόνο οταν συγκουστεί με τον παίκτη μας
     spritesheet ghost: ![ghost](https://user-images.githubusercontent.com/22703561/33543170-b28062d8-d8de-11e7-8ab2-6bd75f76db15.png)
@@ -42,6 +42,7 @@ Pic1                       |     Pic2                  |       newMap           
 
     2(β)προειδοποιητική πινακίδα που ενημερώνει οτι σε αυτόν τον σωλήνα κρύβεται pirana φυτό  
     ![plantwarning](https://user-images.githubusercontent.com/22703561/33543562-2bd6ff10-d8e0-11e7-8684-dbdc5f940555.png)
+## Menu    
     
  ![menu1](https://user-images.githubusercontent.com/22703561/33543806-158f0d50-d8e1-11e7-95f7-c81dfc3aebf2.png)
   * 1)Προσθήκη μενού στην αρχή του παιχνιδιού(Σημείωση η επιλογή help δεν είναι διαθέσιμη για αυτό το παραδοτεό)
@@ -64,7 +65,7 @@ Pic1                       |     Pic2                  |       newMap           
 ![questionblock-0](https://user-images.githubusercontent.com/22703561/33657111-ec4129e6-da80-11e7-8dc8-31c2b29d66b0.png)
 ![1upmushroom](https://user-images.githubusercontent.com/22703561/33657176-1fcac4de-da81-11e7-9c6f-14de0a84a6f6.png)
 
-* link αποθετηρίου κωδικα
+## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
 
 ## Links πολυμεσικού περιεχομένου 
