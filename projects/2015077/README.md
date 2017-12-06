@@ -157,6 +157,8 @@
     
     ![stats](https://user-images.githubusercontent.com/22676085/33654139-df366ec2-da77-11e7-951f-e6b25eb7b38b.png)
     
+    5) Μικρές αλλαγές και προσθήκη νέων εχθρών στη δοθείσα
+    
 #### -Αποθετήριο κώδικα για το Παραδοτέο 3: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3
 
 ## Παραδοτέο 4 - Tελική Αναφορά
