@@ -150,7 +150,7 @@
       
      Δεύτερη πίστα.
       
-     ![super_mario_map3](https://user-images.githubusercontent.com/22676085/33488607-d83b9d7a-d6b9-11e7-999b-f87081a35f3f.png)
+     ![super_mario_map3](https://user-images.githubusercontent.com/22676085/33655704-7fce8c08-da7c-11e7-850e-ef5d0cfd1925.png)
     
     3) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι, για επιστροφή του χρήστη στο menu.
     4) Προσθήκη οθόνης με τα στατιστικά του παίκτη από τη πίστα, δηλαδή συνολικό score, τρέχον ζωές και το ξεκλείδωμα της επόμενης πίστας
