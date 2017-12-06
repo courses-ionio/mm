@@ -86,7 +86,7 @@
 
 * Προσθήκη Μenu στην αρχή του παιχνιδιού.
 
-    ![menu](https://user-images.githubusercontent.com/22676085/33485705-0d36538a-d6b0-11e7-9047-f32a5026227a.png)
+    ![menu](https://user-images.githubusercontent.com/22676085/33654136-deb9c26e-da77-11e7-8ea8-ee64186b5470.png)
 
     1) Πρώτο κουμπί: Play
         
@@ -96,13 +96,23 @@
         
         Επιλογή πίστας από το χρήστη επιλέγωντας τον αριθμό της πίστας, το οποίο συνδιάζεται και με ενδεικτική εικόνα με την επιλεγούμενη πίστα, και μετά το κουμπί play.
       
-    ![choose_level](https://user-images.githubusercontent.com/22676085/33488020-f977e270-d6b7-11e7-89bc-3a5c319cac8c.png)
+    ![levels](https://user-images.githubusercontent.com/22676085/33654133-de443a8a-da77-11e7-8212-c2ecb8c75dae.png)
+    
+    Επιπλέον, στις πίστες εφαρμόζεται και σύστημα που ξεκλειδώνεται επόμενη πίστα μετά την επιτυχή ολοκλήρωση της προηγούμενης.
+    
+    1) Unlocked επίπεδο
+    
+        ![levels_locked](https://user-images.githubusercontent.com/22676085/33654134-de6ba0de-da77-11e7-9ceb-bf56e1faaa14.png)
+        
+    2) Locked επίπεδο
+    
+        ![levels_unlocked](https://user-images.githubusercontent.com/22676085/33654135-de938536-da77-11e7-9e5d-1d135a272ef3.png)
     
     3) Τρίτο κουμπί (μη τελικό): Help
         
         Οδηγίες του παιχνιδιού.
       
-    ![help](https://user-images.githubusercontent.com/22676085/33485809-76d6c982-d6b0-11e7-9835-3999b48fe908.png)
+    ![help](https://user-images.githubusercontent.com/22676085/33654132-de1b6c2c-da77-11e7-879a-a45624fed848.png)
     
     4) Τέταρτο κουμπί (μη τελικό): Settings
         
@@ -116,7 +126,7 @@
      
             Survival: Μία ζωή σε όλο το παιχνίδι.
     
-    ![settings](https://user-images.githubusercontent.com/22676085/33486701-be0cb642-d6b3-11e7-9129-7bee29d1d07c.png)
+    ![settings](https://user-images.githubusercontent.com/22676085/33654138-df1515b0-da77-11e7-9a66-8713219ceb94.png)
 
 * Προσθήκη animation για το end of level.
 
@@ -143,9 +153,9 @@
      ![super_mario_map3](https://user-images.githubusercontent.com/22676085/33488607-d83b9d7a-d6b9-11e7-999b-f87081a35f3f.png)
     
     3) Προσθήκη κουμπιών back σε διαφορες φάσεις στο παιχνίδι, για επιστροφή του χρήστη στο menu.
-    4) Προσθήκη οθόνης με το συνολικό score του παίκτη μετά το end of level animation.
+    4) Προσθήκη οθόνης με τα στατιστικά του παίκτη από τη πίστα, δηλαδή συνολικό score, τρέχον ζωές και το ξεκλείδωμα της επόμενης πίστας
     
-    ![level_passed](https://user-images.githubusercontent.com/22676085/33489264-0f3fd654-d6bc-11e7-9c42-2be76ba8cc24.png)
+    ![stats](https://user-images.githubusercontent.com/22676085/33654139-df366ec2-da77-11e7-951f-e6b25eb7b38b.png)
     
 #### -Αποθετήριο κώδικα για το Παραδοτέο 3: https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3
 
