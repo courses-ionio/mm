@@ -59,3 +59,9 @@
 ![index.html](https://github.com/gmargaritis/D3js-uk-political-donations/blob/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3-split-by-amount/index.html)
 
 ![style.css](https://github.com/gmargaritis/D3js-uk-political-donations/blob/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3-split-by-amount/style.css)
+
+### Εφαρμογή
+ https://gmargaritis.github.io/D3js-uk-political-donations/
+
+### Αποθετήριο εφαρμογής
+ https://github.com/gmargaritis/D3js-uk-political-donations
