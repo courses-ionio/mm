@@ -7,7 +7,9 @@ Github-Pages Link: https://korinaal.github.io/Super-Mario/
 ...
 
 ##Παραδοτέο 2
-
+<br>Link: https://korinaal.github.io/Super-Mario/<br>
+<br>Έγιναν οι προσθήκες που ζητούνται στο issue του παιχνιδιού<br>
+<br>Σαν bonus ο χρήστης παίρνει +1000 score οταν σκοτώνει όλους τους αντιπάλους και εμφανίζεται αντίστοιχο μήνυμα στην οθόνη<br>
 ...
 
 ##Παραδοτέο 3
