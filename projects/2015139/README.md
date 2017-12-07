@@ -50,6 +50,7 @@
 ### Αποθετήριο εφαρμογής
  https://github.com/gmargaritis/D3js-uk-political-donations
 
+
 ## Παραδοτέο 3
 
 ### Δημιουργήθηκε νεο view Split by amount of donation
