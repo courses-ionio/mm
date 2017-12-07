@@ -118,13 +118,14 @@ DEATH
    
   ![sword](sword.png)     ![link](linkSword.png)   
  ```
- SWORD                     LINK WITH SWORD     
+      SWORD         LINK WITH SWORD     
  ```
   
 - __Προσθήκη αντικειμένουν για teleport__  
    * Εμφανίζεται ανα 10 score + bonus
    * προσθέτονται και μπορούν να χρησιμοποιηθούν μαζί
    * εμφανίζονται συνεχώς
+   * ενεργοποιείται με το space
    
    ![potion](POTION.png) 
    ```
