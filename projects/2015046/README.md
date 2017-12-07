@@ -80,7 +80,85 @@ Score Board
 
 <h2>Παραδοτέο 3</h2>
 
-...
+<h3>---LINKS---</h3>
+
+   __Forked Repository__: https://github.com/Manolis-Tasiopoulos/pacman
+  
+   __RUN THE GAME__: https://manolis-tasiopoulos.github.io/pacman/
+  
+<h3>---ΑΛΛΑΓΕΣ ΠΟΥ ΕΓΙΝΑΝ ΣΤΟ ΠΑΙΧΝΙΔΙ---</h3>
+
+- __Αλλαγη των Dots που θα μαζευει ο χαρακτηρας__ 
+   
+![dots2](dots2.png)
+```
+DOTS      
+```
+
+- __Προσθήκη Εχθρών__  
+   * Με δικό τους AI που κινούνται τυχαία στο χάρτη
+   * Εντοπίζουν το collision και προσαρμόζουν την κίνησή τους
+
+![enemy](enemy.png)
+```
+ΕΝΕΜΥ     
+```
+- __Αλλαγή του χαρακτήρα οταν πεθαίνει__
+    * Διαφορετικό sprite 
+    * ανάλογα με την κατεύθινση που πεθαίνει ο παίκτης
+
+![death](death.png)    
+```
+DEATH     
+```
+- __Προσθήκη αντικειμένουν καταστροφης εχθρών__ 
+   * Εμφανίζεται ανα 100 score + bonus
+   * Υπάρχουν μονο 2 διαθέσιμα
+   * Μόλις σκοτωθεί ένας εχθρός εξαφανίζεται
+   
+  ![sword](sword.png)     ![link](linkSword.png)   
+ ```
+ SWORD                     LINK WITH SWORD     
+ ```
+  
+- __Προσθήκη αντικειμένουν για teleport__  
+   * Εμφανίζεται ανα 10 score + bonus
+   * προσθέτονται και μπορούν να χρησιμοποιηθούν μαζί
+   * εμφανίζονται συνεχώς
+   
+   ![potion](POTION.png) 
+   ```
+   TELEPORT POTION    
+   ```
+- __Προσθήκη Side Screen__
+   * Εμφανιζει τα διαθεσιμα swords
+   * Εμφανιζει τα διαθεσιμα potions
+   
+   ![sideScreen](sideScreen.png) 
+   ```
+   SIDE SCREEN    
+   ```
+- __Προσθήκη Splash Screens__
+   * Main Menu
+   
+   ![mainmenu](mainmenu.png) 
+   ```
+   MAIN MENU    
+   ```
+   
+   * Help Screen
+   
+   ![help](help.png) 
+   ```
+   HELP SCREEN   
+   ```
+   
+   * Game Over
+   
+   ![gameover](gameover.png) 
+   ```
+   GAME OVER   
+   ```
 
 <h2>Παραδοτέο 4 - Tελική Αναφορά</h2>
 
