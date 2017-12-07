@@ -26,6 +26,10 @@ https://p15atha.github.io/D3js-uk-political-donations/
 
 ##Παραδοτέο 3
 
+Έχω προσθέσει την μεγένθυση κειμένου και την φωνητική ανάγνωση κειμένου στο mouseover αλλα δεν δουλεύει το soundbutton, θα το διορθώσω όσο πιο σύντομα γίνετε.
+
+https://p15atha.github.io/D3js-uk-political-donations/#
+
 ...
 
 ##Παραδοτέο 4 - Tελική Αναφορά
