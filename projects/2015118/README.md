@@ -19,7 +19,14 @@ Github Page: https://raby97.github.io/Super-Mario/<br>
  Super Mario: https://github.com/Raby97/Super-Mario/tree/gh-pages
 ## Παραδοτέο 3
 
-...
+* Διορθωση των ζωών που στο προηγουμενο παραδοτεο ειχε ανεβει λαθος κωδικας(πλεον ο παικτης χανει κανονικα ζωες)
+* Αλλαγη της πιστας με Tiled
+* Προσθηκη επιπλεων εχθρων ( 2 καινουργιοι εχθροι )
+* Προσθηκη teleport (φαινεται το σημειο μεσα στη πιστα)
+* Προσθηκη μετρητη που οταν ο παικτης μαζεψει ολα τα coins τερματιζει το παιχνιδι και εμφανιζει ενα animation
+
+ Github Page: https://raby97.github.io/Super-Mario/
+ Super Mario: https://github.com/Raby97/Super-Mario/tree/gh-pages
 
 ## Παραδοτέο 4 - Tελική Αναφορά
 
