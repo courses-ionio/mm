@@ -135,7 +135,7 @@ DEATH
    * Εμφανιζει τα διαθεσιμα swords
    * Εμφανιζει τα διαθεσιμα potions
    
-   ![sideScreen](sideScreen.png) 
+   ![sideScreen](sidescreen.png) 
    ```
    SIDE SCREEN    
    ```
