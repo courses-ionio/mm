@@ -32,4 +32,4 @@ Link αποθετήριου κώδικα: https://github.com/p13gian1/Super-Mari
 
 Link branch Παραδοτέα 2 και 3 https://github.com/p13gian1/Super-Mario/tree/Π2013153/ΠΑΡΑΔΟΤΕΟ-2-και-3
 
-Link εκτελέσιμου p13gian1.github.io/Super-Mario/
+Link εκτελέσιμου https://p13gian1.github.io/Super-Mario/
