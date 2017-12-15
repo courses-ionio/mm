@@ -3,22 +3,26 @@
 ### Παραδοτέο 1
 
 + Αποθετήριο Πολυμέσων: https://github.com/p15zach1/mm
-![kl](https://user-images.githubusercontent.com/22659306/31491196-25da6eea-af4f-11e7-9210-aa71afcc6e8f.png)
 
 + Αποθετήριο Data Visualizer: https://github.com/p15zach1/D3js-uk-political-donations
-![hj](https://user-images.githubusercontent.com/22659306/31490882-2db04c26-af4e-11e7-9559-1274176920c8.jpg)
 
-
-+ Link Data Visualizer: https://p15zach1.github.io/D3js-uk-political-donations/full-viz
-![ghj](https://user-images.githubusercontent.com/22659306/31514530-8e46372a-af9a-11e7-8212-16724ae84698.png)
++ Link Data Visualizer: https://p15zach1.github.io/D3js-uk-political-donations
 
 ### Παραδοτέο 2
 
-...
++ Αλλαγή χρωμάτων στις μπάλες δεδομένων και αναζήτηση στην ιστοσελίδα Google για κάθε δωρητή αντίστοιχα κάθε φορά που κάνεις κλικ σε κάποια μπάλα
+
++ Αλλαγή χρωμάτων στα πεδία ομαδοποίησης Split by party
+
++ Προσθήκη ήχου που ακούγεται κάθε φορά που κάνεις κλικ σε κάποια επιλογή ομαδοποίησης δεδομένων
 
 ### Παραδοτέο 3
 
-...
++ Προσθήκη zoom σε όλα τα κείμενα
+
++ Προσθήκη ομιλίας για το όνομα του δωρητή και το ποσό που έδωσε
+
++ Μη επιτυχής προσπάθεια προσθήκης νέας ομαδοποίησης δεδομένων επειδή δεν ενφανίζονται οι μπάλες δεδομένων
 
 ### Παραδοτέο 4 - Tελική Αναφορά
 
