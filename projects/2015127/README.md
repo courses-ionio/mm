@@ -2,7 +2,7 @@
 
 ##Παραδοτέο 1  <br />
 repository link :https://github.com/p15kost/D3js-uk-political-donations  <br />
-github pages link : https://p15kost.github.io/D3js-uk-political-donations/ 
+github pages link : https://p15kost.github.io/D3js-uk-political-donations/   <br />
 ...
 
 ##Παραδοτέο 2 <br />
