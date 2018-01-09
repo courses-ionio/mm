@@ -5,7 +5,7 @@
 ### Δήλωση θέματος: Super Mario
 ### -Link demo για το Super Mario:  https://p15githubstudent.github.io/Super-Mario
 ### -Αποθετήριο κώδικα για το Super Mario:https://github.com/P15GitHubStudent/Super-Mario/tree/gh-pages
-### - Link για την αναφορά
+### - Link για την αναφορά : https://github.com/P15GitHubStudent/MM_Report_4
 ## Παραδοτέο 2
 ### Link προς Demo: https://p15githubstudent.github.io/Super-Mario
 ### Link αποθετερίου κώδικα : https://github.com/P15GitHubStudent/Super-Mario
@@ -69,11 +69,11 @@ Pic1                       |     Pic2                  |       newMap           
 # Παραδοτέο 4
 * Πρόσθηκης δυνατότητας δύο συνεχόμενων επιπέδων
 * Δημιουργία καινούργιας πίστας 
-* link αναφοράς: https://github.com/P15GitHubStudent/MM_Report_4
 *  κατέθεσα καινούργια πίστα στο φάκελο με τα extensions 
 *  Αλλαξά την μουσικής της πίστας 
 *  Προσθήκη ηχου οταν ο παίκτης παίρνει μανιτάρι.
 *  Προσθήκη ηχου οταν η πριγκίπισσα φιλάει τον παίκτη.
+* link αναφοράς: https://github.com/P15GitHubStudent/MM_Report_4
 
 ## link αποθετηρίου κωδικα
 https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
