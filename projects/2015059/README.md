@@ -7,10 +7,10 @@
 
 ## Παραδοτέο 1
 
+- Link για την αναφορά στο github-pages: https://asteriosp.github.io/MM-Report/
+- Link demo για το Super Mario: https://github.com/AsteriosP/Super-Mario
 
--Link demo για το Super Mario: https://github.com/AsteriosP/Super-Mario
-
--Αποθετήριο κώδικα για το Super Mario: https://AsteriosP.github.io/Super-Mario/
+- Αποθετήριο κώδικα για το Super Mario: https://AsteriosP.github.io/Super-Mario/
 
 ## Παραδοτέο 2
 
