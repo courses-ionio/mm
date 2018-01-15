@@ -21,18 +21,18 @@ github pages link : https://p15kost.github.io/D3js-uk-political-donations/   <br
 
 Στο παρακάτω στιγμότυπο φαίνονται τα νέα χρώματα των μπαλών-δεδομένα, τα νέα χρώματα των πλαισίων Conservative Party, Labour Party, Liberal Democrats της ομαδοποίησης split-by-party, όπως και η λειτουργία  του zoom πάνω το κείμενο (κείμενο με κίτρινο φόντο): </br>
 
-![ScreenShot](Screenshot_5.png)</br>
+![ScreenShot](Screenshot_5.png) <br />
 
 Στο παρακάτω στιγμότυπο φαίνεται η νέα ομαδοποίηση των δεδομένων (βάση του ύψους της δωρεάς του-split by the donor amount): </br>
 
-![ScreenShot](Screenshot_6.png)</br>
+![ScreenShot](Screenshot_6.png) <br />
 
 ...
 
-##Παραδοτέο 4 - Tελική Αναφορά  </br> </br>
+##Παραδοτέο 4 - Tελική Αναφορά  <br />
 
-Η τελική αναφορά της εργασίας μου βρίσκεται στο παρακάτω link: https://p15kost.github.io/telikh-anafora/ 
-repository link τελικής αναφοράς: https://github.com/p15kost/telikh-anafora
+Η τελική αναφορά της εργασίας μου βρίσκεται στο παρακάτω link: https://p15kost.github.io/telikh-anafora/ <br />
+repository link τελικής αναφοράς: https://github.com/p15kost/telikh-anafora <br />
 
 
 
