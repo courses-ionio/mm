@@ -11,6 +11,7 @@ https://p13korb.github.io/D3js-uk-political-donations/
 
 #Παραδοτέο 3
 Τοποθετήθηκε text to speech υπηρεσία
+Προστέθηκε λειτουργία που με το κλίκ στον donor να ψάχνει στο google search το string που είναι στο source του donor.
 
 #Παραδοτέο 4
 
