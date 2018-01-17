@@ -3,7 +3,7 @@ https://p13korb.github.io/D3js-uk-political-donations/
 
 #Παραδοτέο 1 
 Δήλωση θέματος εργασίας
-Αλλάχτηκε το URL ωστε να δείχνει στο : https://p13korb.github.io/D3js-uk-political-donations/
+Αλλάχτηκε gh-pages sτο URL ωστε να δείχνει στο : https://p13korb.github.io/D3js-uk-political-donations/
 
 #Παραδοτέο 2
 Αλλάχτηκαν τα χρώματα στους κύκλους (donors) καθώς και στο link split-by-party
