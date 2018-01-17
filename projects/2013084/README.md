@@ -20,5 +20,7 @@ github pages link : https://agioszafiris.github.io/D3js-uk-political-donations/ 
 ...
 
 ##Παραδοτέο 4 - Tελική Αναφορά <br />
+[Αποθετήριο](https://github.com/agiosZafiris/TelikiAnafora)<br />
+[Github-pages](https://agioszafiris.github.io/TelikiAnafora/)<br />
 
 ...
