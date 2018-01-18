@@ -15,3 +15,7 @@
 <p style="font-family: verdana"> Προστέθηκε ήχος επιτυχίας όταν τερματίζει το level και ήχος αποτυχίας σε περίπτωση που σκοτώνει το Panda o Κυνηγός. </p>
 <p style="font-family: verdana"> Επεκτάθηκε το παιγνίδι με score, bonus και ζωές.</p>
 <p style="font-family: verdana"> Τα icons βρέθηκαν στο google και επεξεργάστηκαν με το πρόγραμμα που βρίσκεται <a href="http://resizeimage.net/"> εδώ</a> . </p>
+
+<p style="font-family: verdana"> To Link για το repository μου είναι <a href="https://github.com/danaianask/pacman-1/"> αυτό</a> . </p>
+
+<p style="font-family: verdana"> Μπορείτε να τρέξετε το εκτελέσιμο πρόγραμμα <a href="https://danaianask.github.io/pacman-1/panda.html"> εδώ</a> . </p>
