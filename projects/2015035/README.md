@@ -57,6 +57,7 @@ LINK PACMAN : https://p15theo2.github.io/pacman/<br>
 
 - LINK PACMAN : https://p15theo2.github.io/pacman/<br>
 
-##Παραδοτέο 4 - Tελική Αναφορά
+# Τελική Αναφορά
+Σύνδεσμος για το [github-pages](https://p15theo2.github.io/FinalReport/)<br />
+Σύνδεσμος για τα [αρχεια του github-pages](https://github.com/p15theo2/FinalReport)<br />
 
-...
