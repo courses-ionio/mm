@@ -5,6 +5,7 @@
 ### Δήλωση θέματος: Super Mario
 ### -Link demo για το Super Mario:  https://p15githubstudent.github.io/Super-Mario
 ### -Αποθετήριο κώδικα για το Super Mario:https://github.com/P15GitHubStudent/Super-Mario/tree/gh-pages
+### - Link για την αναφορά : https://p15githubstudent.github.io/MM_Report_4/
 ## Παραδοτέο 2
 ### Link προς Demo: https://p15githubstudent.github.io/Super-Mario
 ### Link αποθετερίου κώδικα : https://github.com/P15GitHubStudent/Super-Mario
@@ -65,10 +66,25 @@ Pic1                       |     Pic2                  |       newMap           
 ![questionblock-0](https://user-images.githubusercontent.com/22703561/33657111-ec4129e6-da80-11e7-8dc8-31c2b29d66b0.png)
 ![1upmushroom](https://user-images.githubusercontent.com/22703561/33657176-1fcac4de-da81-11e7-9c6f-14de0a84a6f6.png)
 
+# Παραδοτέο 4
+* Πρόσθηκης δυνατότητας δύο συνεχόμενων επιπέδων
+* Δημιουργία καινούργιας πίστας 
+*  κατέθεσα καινούργια πίστα στο φάκελο με τα extensions 
+*  Αλλαξά την μουσικής της πίστας 
+*  Προσθήκη ηχου οταν ο παίκτης παίρνει μανιτάρι.
+*  Προσθήκη ηχου οταν η πριγκίπισσα φιλάει τον παίκτη.
+
+
+## link αναφοράς
+https://p15githubstudent.github.io/MM_Report_4/
+
 ## link αποθετηρίου κωδικα
-https://github.com/P15GitHubStudent/Super-Mario/tree/Par3
+https://github.com/P15GitHubStudent/Super-Mario
 ## link demo παιχνιδιού
 https://p15githubstudent.github.io/Super-Mario
+## link πίστας που έστειλα 
+
+
 
 ## Links πολυμεσικού περιεχομένου 
 https://opengameart.org/content/kenney-16x16
