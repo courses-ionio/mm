@@ -165,4 +165,6 @@
 
 ## Παραδοτέο 4 - Tελική Αναφορά
 
-#### link: https://dimitristria.github.io/MM_Final_Report/
+   Η τελική αναφορά έγινε σε διαφορετικό αποθετήριο.
+
+   Σύνδεσμος για το αποθετήριο με την τελική αναφορά: https://dimitristria.github.io/MM_Final_Report/
