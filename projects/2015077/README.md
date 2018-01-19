@@ -4,7 +4,7 @@
 ### Αριθμός Μητρώου: Π2015077
 
 #### -Link demo, με τις πιο πρόσφατες αλλαγές: https://dimitristria.github.io/Super-Mario/
-#### -Αποθετήριο κώδικα, με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/Super-Mario/tree/gh-pages
+#### -Αποθετήριο κώδικα, με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/Super-Mario
 
 ## Παραδοτέο 1
 
