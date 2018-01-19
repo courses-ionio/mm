@@ -40,7 +40,7 @@ Github Page: https://raby97.github.io/Super-Mario/<br>
 
 ### Κέρκυρα, 2018
 
-## Super Mario: https://github.com/Raby97/Super-Mario/tree/gh-pages
+### Super Mario: https://github.com/Raby97/Super-Mario/tree/gh-pages
 
 ## Σύνοψη
 Στα πλαίσια του μαθήματος Πολυμέσα κληθήκαμε να αλλάξουμε τον κωδικα ενός παιχνιδιού.Στηριγμένος στη συγκεκριμένη παράμετρο με τη βοήθεια του BRACKETS κατάφερα να τροποποιήσω τον κώδικα σύμφωνα με τα παραδοτέα.
