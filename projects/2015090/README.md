@@ -19,6 +19,6 @@ Super Mario
 
 -Προσθήκη μουσικής(δικής μου επιλογής,την όποια μετέτρεψα σε mp3)
 
-Εκτελέσιμο https://p15gkou.github.io/Super-Mario/
+-Προσθήκη score και lives
 
- 
+Εκτελέσιμο https://p15gkou.github.io/Super-Mario/
