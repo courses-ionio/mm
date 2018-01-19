@@ -82,7 +82,7 @@ Link στο branch του κώδικα της Τελικής Αναφοράς: h
  * Η προσθήκη menu καθώς και animation για το τέλος του κάθε επιπέδου δεν επετεύχθη.
   
   
-   Τέλος για το παραδοτέο 4 έγινε pull-request όπως ζητήθηκε για μία πίστα στο αποθετήριο του κώδικα του Super-Mario και στο κλαδί gh-pages.
+Τέλος για το παραδοτέο 4 έγινε pull-request όπως ζητήθηκε για μία πίστα στο αποθετήριο του κώδικα του Super-Mario και στο κλαδί gh-pages.
    
   Παραθέτω και το σχετικό Link: https://github.com/ioniodi/Super-Mario/tree/gh-pages/extensions
   
