@@ -61,7 +61,8 @@ Forked Repository Multimedia: https://github.com/p15diak/mm Forked Repository Pa
 - οταν ο pacman φαει το bonus θα μπορει να πολεμησει για 10 sec τον αντιπαλο!
 
 ## Ενδεικτικές οθόνες <br />
-
+![Μενού](menu.bmp)
+![Παιχνίδι](game1.bmp)
 
 ## Συμπεράσματα <br />
 Συμπερενοντας πιστεύω η συγκεκριμένη εργασία εδωσε αρκετα θετικά σε ολους τους φοιτητές οπως:
