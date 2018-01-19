@@ -167,4 +167,4 @@
 
    Η τελική αναφορά έγινε σε διαφορετικό αποθετήριο.
 
-   Σύνδεσμος για το αποθετήριο με την τελική αναφορά: https://dimitristria.github.io/MM_Final_Report/
+   Σύνδεσμος για το αποθετήριο με την τελική αναφορά: [https://dimitristria.github.io/Multimedia-Final-Report/](https://dimitristria.github.io/Multimedia-Final-Report/ 'Multimedia-Final-Report')
