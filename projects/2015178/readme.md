@@ -33,4 +33,5 @@ gh-pages: https://github.com/p15syme/Super-Mario/tree/gh-pages
 
 ### Παραδοτέο 4 - Τελική Αναφορά:
 
-
+Η τελική αναφορά για το παιχνίδι βρίσκεται στο ακόλουθο link:
+https://p15syme.github.io/Final-Report-/
