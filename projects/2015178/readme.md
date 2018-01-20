@@ -35,3 +35,6 @@ gh-pages: https://github.com/p15syme/Super-Mario/tree/gh-pages
 
 Η τελική αναφορά για το παιχνίδι βρίσκεται στο ακόλουθο link:
 https://p15syme.github.io/Final-Report-/
+
+Το αποθετήριο της τελικής αναφοράς του παιχνιδιού:
+https://github.com/p15syme/Final-Report-
