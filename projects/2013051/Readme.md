@@ -31,8 +31,9 @@ Link Data Visualizer: https://diyamyam.github.io/D3js-uk-political-donations/
 
 ##Παραδοτέο 3
 
-...
+Δεν πραγματοποιήθηκε κάποια περεταίρω αλλαγή.
 
 ##Παραδοτέο 4 - Tελική Αναφορά
 
-...
+Link Τελικής Αναφοράς:https://diyamyam.github.io/FinalReport/
+Αποθετήριο Τελικής Αναφοράς:https://github.com/DIYamYam/FinalReport
