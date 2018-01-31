@@ -163,4 +163,6 @@ DEATH
 
 <h2>Παραδοτέο 4 - Tελική Αναφορά</h2>
 
-...
+- __FINAL REPORT [HERE](https://manolis-tasiopoulos.github.io/FinalReport/)__
+- __FINAL REPORT REPOSITORY [HERE](https://github.com/Manolis-Tasiopoulos/FinalReport)__
+

@@ -34,6 +34,6 @@
   
 ...
 
-<strong>Παραδοτέο 4 - Tελική Αναφορά</strong>
-
+<strong>Παραδοτέο 4 - Tελική Αναφορά</strong><br><br>
+Η τελική αναφορά του μαθήματος βρίσκεται εδώ: https://dimitris-stamatis.github.io/MMFinalReport/
 ...
