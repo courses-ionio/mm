@@ -21,7 +21,7 @@
 - Αποθετήριο : https://ioniodi.github.io/site-en/
 
 
-- Αναφορά σε gh-pages : https://github.com/Stelios3g/report_mm
+- Αναφορά σε gh-pages : https://stelios3g.github.io/report_mm/
 
 ##  ΓΝΩΣΕΙΣ-ΑΠΟΤΕΛΕΣΜΑ
 
