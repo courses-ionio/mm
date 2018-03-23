@@ -23,7 +23,7 @@
 
 * Πολυμέσα Θεωρία και Πράξη", Steinmetz Ralf, 2002, Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN: 978-960-512-330-7 
 * [Multimedia: from Wagner to Virtual Reality](http://www.w2vr.com/contents.html) --> Σύνοψη της ύλης του μαθήματος
-* [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr), κεφ. 6 Σύνθεση και Κλίμακα
+* [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr), ΕΥΔΟΞΟΣ: 59362198, κεφ. 6 Σύνθεση και Κλίμακα
 
 **Βαθμολογία:** 60% [project](https://courses-ionio.github.io/projects/), 40% Τελική εξέταση
 
