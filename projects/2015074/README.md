@@ -3,8 +3,9 @@
 Γκένα Δήμητρα
 ΑΜ: Π2015074
 
-Super Mario:
-Αποθετήριο κώδικα Super Mario: 
+Super Mario: https://dimitragkena.github.io/Super-Mario/
+
+Αποθετήριο κώδικα Super Mario: https://github.com/DimitraGkena/Super-Mario
 
 Στο παραπάνω παιχνίδι, έγιναν οι εξής αλλαγές όπως ζητήθηκαν στα παραδοτέα:
 ~Δημιουργία μίας καινούργιας πίστας.
