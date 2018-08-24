@@ -17,12 +17,14 @@
 
 **Μέθοδος διδασκαλίας:** Διαλέξεις, demos, [project](https://courses-ionio.github.io/projects/).
 
-**Συντονιστής συστημάτων τηλε-εκπαίδευσης:** Χριστίνα Ηλιούδη
+**Συντονιστής συστημάτων τηλε-εκπαίδευσης:** [Κωνσταντίνος Πατηνιώτης](https://github.com/c15pati/)
 
 **Βιβλίο μαθήματος:** 
 
 * Πολυμέσα Θεωρία και Πράξη", Steinmetz Ralf, 2002, Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN: 978-960-512-330-7 
 * [Multimedia: from Wagner to Virtual Reality](http://www.w2vr.com/contents.html) --> Σύνοψη της ύλης του μαθήματος
-* [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr), κεφ. 6 Σύνθεση και Κλίμακα
+* [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr), ΕΥΔΟΞΟΣ: 59362198, κεφ. 6 Σύνθεση και Κλίμακα
 
-**Βαθμολογία:** 60% [project](https://courses-ionio.github.io/projects/), 40% Τελική εξέταση
+**Βαθμολογία:** 50% [project](https://courses-ionio.github.io/projects/), 30% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)
+
+Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
