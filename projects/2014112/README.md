@@ -1,7 +1,14 @@
 ΜΑΘΗΜΑ Πολυμέσα
+
 Χωριανόπουλος Κωνσταντίνος
 
-Επιλογή Εργασίας  Shooter (https://github.com/ioniodi/shooter)
+
+Επιλογή Εργασίας 
+
+Shooter (https://github.com/ioniodi/shooter)
 Στοιχεία φοιτητή
+
 Διονύσης Κάλφας
+
+
 ΑΜ: Π2014112
