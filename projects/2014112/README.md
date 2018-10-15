@@ -5,7 +5,11 @@
 
 Επιλογή Εργασίας 
 
-Shooter (https://github.com/ioniodi/shooter)
+Shooter:
+to git-hub page  : https://github.com/dionisis1234/Shooter
+
+
+to game : https://dionisis1234.github.io/Shooter/
 
 
 Στοιχεία φοιτητή 
@@ -17,6 +21,7 @@ Shooter (https://github.com/ioniodi/shooter)
 
 
 
+### 1ο Παραδοτέο
 
 
 - [x] Initial settings (όπως περιγράφονται στο README.md του repository)
