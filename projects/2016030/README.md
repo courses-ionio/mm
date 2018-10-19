@@ -1,4 +1,4 @@
-#ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΙΟ
+# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΙΟ
 ## ΜΑΘΗΜΑ Ε΄ ΕΞΑΜΗΝΟΥ : ΠΟΛΥΜΕΣΑ
 ΠΑΠΑΠΟΣΤΟΛΟΥ ΜΥΡΤΩ Π2016030
 
@@ -52,5 +52,5 @@ littera για την δημιουργία του δικού μου bitmapfont �
 - Shooter [shooter](https://ioniodi.github.io/Shooter/) 
 - Shooter gh-pages [game](https://myrtop.github.io/Shooter/)
 
-###Το παιχνίδι
+### Το παιχνίδι
 ![game](Shooter/game report/game.png)
