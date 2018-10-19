@@ -24,12 +24,11 @@
 Στο Facebook όλα τα gif δημιουργήθηκαν με το giphy,οι εικόνες, κάποια κείμενα (απο το βιβλιο / κατανόηση/ αλλα σαιτ)
 και τα βίντεο είναι παρμένα απο το βιβλίο του κ.Χωριανόπουλου και το κανάλι του στο Youtube.
 
-Οι ηλεκτρονικές διευθύνσεις,
 **Link :** 
 - Book website (Greek) [book](https://mibook.org/gr) 
 - Book website (Greek) my repository gh-pages [book1](https://myrtop.github.io/gr/) 
 
-###Eικόνα τις ιστοσελίδας
+### Eικόνα της ιστοσελίδας
 ![Site](gr/site report/site.png)
 
 
@@ -47,7 +46,6 @@ littera για την δημιουργία του δικού μου bitmapfont �
 ![StarWarsFont](Shooter/game report/Star-Wars.png)
 Για το τελευταιο βήμα του πρώτου παραδοτέου πρόσθεσα και τη δεύτερη κατηγορία εχθρών, τους enemy3 αντί για τους blue-enemy.
 
-Οι ηλεκτρονικές διευθύνσεις,
 **Link :** 
 - Shooter [shooter](https://ioniodi.github.io/Shooter/) 
 - Shooter gh-pages [game](https://myrtop.github.io/Shooter/)
