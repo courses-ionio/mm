@@ -6,7 +6,7 @@
 Επιλογή Εργασίας 
 
 Shooter:
-to git-hub page  : https://github.com/dionisis1234/Shooter
+to git-hub   : https://github.com/dionisis1234/Shooter
 
 
 to game : https://dionisis1234.github.io/Shooter/
