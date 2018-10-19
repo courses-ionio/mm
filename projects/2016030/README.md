@@ -13,7 +13,7 @@
 στο λινκ με το id μου του github και έπειτα στο αρχείο _config.yml άλλαξα το θέμα 
 απο default σε "air" και πρόσθεσα το λογαριασμό του facebook, όπου έχουν αναρτηθεί 
 περιεχόμενα του βιβλίου.
-![Facebook](https://github.com/MyrtoP/gr/blob/gh-pages/site%20report/fb.jpg)
+![Facebook](https://github.com/MyrtoP/gr/blob/gh-pages/site%20report/fb.jpg) 
 Κατόπιν της προσθήκης του έξτρα κοινωνικού δικτύου, στο σαιτ υπάρχει ένα κουμπί που λέει δωρεαν δείγμα.
 Ανοίγοντας το σάιτ [book](https://leanpub.com/pibook) κατέβασα το free sample σε μορφή pdf 
 και στο αρχείο index.md άλλαξα το url σε αυτό του pdf.
