@@ -1,8 +1,9 @@
 #ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΙΟ
 ## ΜΑΘΗΜΑ Ε΄ ΕΞΑΜΗΝΟΥ : ΠΟΛΥΜΕΣΑ
+ΠΑΠΑΠΟΣΤΟΛΟΥ ΜΥΡΤΩ Π2016030
 
 ### Καθηγητής
-	Χωριανόπουλος Κ.
+Χωριανόπουλος Κ.
 	
 ### Συμμετοχικό εκπαιδευτικό υλικό
 Σε αυτό το εξάμηνο στο μάθημα "ΠΟΛΥΜΕΣΑ" ζητήθηκε η επεξεργασία και δημοσίευση του ηλεκτρονικού βιβλίου του καθ.Xωριανόπουλου
@@ -12,7 +13,7 @@
 στο λινκ με το id μου του github και έπειτα στο αρχείο _config.yml άλλαξα το θέμα 
 απο default σε "air" και πρόσθεσα το λογαριασμό του facebook, όπου έχουν αναρτηθεί 
 περιεχόμενα του βιβλίου.
-![Facebook](fb.jpg)
+![Facebook](gr/site report/fb.jpg)
 Κατόπιν της προσθήκης του έξτρα κοινωνικού δικτύου, στο σαιτ υπάρχει ένα κουμπί που λέει δωρεαν δείγμα.
 Ανοίγοντας το σάιτ [book](https://leanpub.com/pibook) κατέβασα το free sample σε μορφή pdf 
 και στο αρχείο index.md άλλαξα το url σε αυτό του pdf.
@@ -29,7 +30,7 @@
 - Book website (Greek) my repository gh-pages [book1](https://myrtop.github.io/gr/) 
 
 ###Eικόνα τις ιστοσελίδας
-![Site](site.png)
+![Site](gr/site report/site.png)
 
 
 ### Shooter 
@@ -42,8 +43,8 @@
 ώστε να υπάρχει ζωή και score του παίκτη και επειτα χρησιμοποιησα το προγραμμα
 littera για την δημιουργία του δικού μου bitmapfont το οποιο είναι
 εμπνευσμένο απο τα γράμματα των ταινιών star wars,
-![StarWarsLetters](BitmapFont.png)
-![StarWarsFont](Star-Wars.png)
+![StarWarsLetters](Shooter/game report/BitmapFont.png)
+![StarWarsFont](Shooter/game report/Star-Wars.png)
 Για το τελευταιο βήμα του πρώτου παραδοτέου πρόσθεσα και τη δεύτερη κατηγορία εχθρών, τους enemy3 αντί για τους blue-enemy.
 
 Οι ηλεκτρονικές διευθύνσεις,
@@ -52,4 +53,4 @@ littera για την δημιουργία του δικού μου bitmapfont �
 - Shooter gh-pages [game](https://myrtop.github.io/Shooter/)
 
 ###Το παιχνίδι
-![game](game.png)
+![game](Shooter/game report/game.png)
