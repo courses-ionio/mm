@@ -1,19 +1,21 @@
 Μάθημα: Multimedia
-
-Ονοματεπώνυμο: Γιούρι Κιλινκαρίδης
-
+Ονοματεπώνυμο: Γιούρι Κιλινκαριδής
 Αριθμός Μητρώου: Π2016130
 
 Εργασία Περιεχομένου
-
 εκτελέσιμο link https://giourikilin.github.io/gr/
-
 link αποθετηρίου https://github.com/giourikilin/gr
 
-Δραστηριότητα 1.Α
+Παραδοτέο 1
+A: Να κάνετε αλλαγές στην ιστοσελίδα (με παραδείγματα από άλλες ιστοσελίδες ή με βάση ένα σκεπτικό που θα τεκμηριώσετε), 
+έτσι ώστε το περιεχόμενο της ιστοσελίδας του βιβλίου να ενημερωθεί για να είναι περισσότερο συμβατό με τα κοινωνικά δίκτυα (π.χ., προσθήκη twitter stream), τόσο αισθητικά όσο και τεχνολογικά. 
+Ο στόχος είναι οι αναρτήσεις στα κοινωνικά δίκτυα να βρίσκονται και στο δικό σας αντίγραφο του βιβλίου ως ροή περιεχομένου. 
+Για άριστη βαθμολόγηση θα εκτιμηθεί αν έγινε αλλαγή στο αρχικό θέμα του βιβλίου με νέο ή/και το επίπεδο δυσκολίας των μετατροπών στο αρχικό, αφού το θέμα που υπάρχει τώρα δεν υποστηρίζει το ζητούμενο.
 
-Ζητούμενα links προσθήκης εικόνων ή και αλλαγών
-link  αρχείου _config.yml https://github.com/giourikilin/gr/blob/gh-pages/_config.yml
-link αρχείου index.md https://github.com/giourikilin/gr/blob/gh-pages/index.md
-link twitter.html https://github.com/giourikilin/gr/blob/gh-pages/_includes/twitter.html
 
+
+link config.yml https://github.com/giourikilin/gr/blob/gh-pages/_config.yml
+
+link index.md https://github.com/giourikilin/gr/blob/gh-pages/index.md
+
+link twitter.md https://github.com/giourikilin/gr/blob/gh-pages/_includes/twitter.html
