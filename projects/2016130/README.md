@@ -1,9 +1,13 @@
 Μάθημα: Multimedia
+
 Ονοματεπώνυμο: Γιούρι Κιλινκαριδής
+
 Αριθμός Μητρώου: Π2016130
 
 Εργασία Περιεχομένου
+
 εκτελέσιμο link https://giourikilin.github.io/gr/
+
 link αποθετηρίου https://github.com/giourikilin/gr
 
 Παραδοτέο 1
