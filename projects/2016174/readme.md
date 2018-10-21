@@ -12,6 +12,8 @@ Executable: https://johnmous1.github.io/Shooter
 
 Ιστοσελίδα: https://johnmous1.github.io/gr
 
+Twitter: https://twitter.com/p2016di
+
 Σύνοψη:
 
 1o Παραδοτέο
