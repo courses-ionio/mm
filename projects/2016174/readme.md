@@ -13,7 +13,8 @@ Executable: https://johnmous1.github.io/Shooter
 Σύνοψη:
 1o Παραδοτέο
 Ζητούμενα:
--[x] Initial settings (όπως περιγράφονται στο README.md του repository)
+
+[x] Initial settings (όπως περιγράφονται στο README.md του repository)
 
 
 [x] Link του παιχνιδιού στην αναφορά
