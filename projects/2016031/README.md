@@ -1,7 +1,7 @@
 
 # Μάθημα : Πολυμέσα
 
-## Επιλογή Εργασίας : Shooter (https://github.com/ioniodi/shooter)
+## Επιλογή Εργασίας : [Shooter](https://github.com/ioniodi/shooter)
 
 ## Στοιχεία φοιτητή
 ### Ονοματεπώνυμο : Δημήτρης Χλωρός
