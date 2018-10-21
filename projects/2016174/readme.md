@@ -9,10 +9,15 @@ Executable: https://johnmous1.github.io/Shooter
 Εργασία Περιεχομένου:
 
 Αποθετήριο: https://github.com/johnmous1/gr
+
 Ιστοσελίδα: https://johnmous1.github.io/gr
+
 Σύνοψη:
+
 1o Παραδοτέο
+
 Ζητούμενα:
+
 
 [x] Initial settings (όπως περιγράφονται στο README.md του repository)
 
