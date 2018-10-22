@@ -4,9 +4,10 @@
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος
 
 Εργασια ιστοσελιδας βιβλιου
+
 Αποθετήριο με κώδικα :https://github.com/asterislazaridis/gr
 Εκτελέσιμο : https://asterislazaridis.github.io/gr/
-
+gh-pages branch : https://github.com/asterislazaridis/gr/tree/gh-pages
 Επιλογή εργασίας:
 Shooter 
 
