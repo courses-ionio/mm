@@ -22,7 +22,7 @@ Link Social Media : https://twitter.com/p16bouk
 
 
 # Επιλογή Εργασίας Ανάπτυξης
-Shooter (https://github.com/ioniodi/shooter)
+Shooter (https://github.com/p16bouk/shooter)
 
 Εκτελέσιμο: https://p16bouk.github.io/Shooter/
 
