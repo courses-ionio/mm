@@ -9,6 +9,12 @@
 ## Επιλογή εργασίας:
 ### [Shooter](https://github.com/ioniodi/Shooter)
 
+## Εργασία Περιεχομένου
+### https://iliastzanis.github.io/gr/
+
+## Λογαριασμός Twitter
+### https://twitter.com/p16tzan
+
 ## Όνομα:
  Ηλίας Τζάνης
 
