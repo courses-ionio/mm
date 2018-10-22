@@ -3,6 +3,10 @@
 Πολυμέσα
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος
 
+Εργασια ιστοσελιδας βιβλιου
+Αποθετήριο με κώδικα :https://github.com/asterislazaridis/gr
+Εκτελέσιμο : https://asterislazaridis.github.io/gr/
+
 Επιλογή εργασίας:
 Shooter 
 
