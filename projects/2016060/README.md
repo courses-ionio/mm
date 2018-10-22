@@ -15,7 +15,7 @@
 
 Link Social Media : https://twitter.com/tsikoulis
 
-Εκτελέσιμο link ιστοσελίδας: https://nickos172.github.io/gr/
+Εκτελέσιμο link ιστοσελίδας: https://Nickos172.github.io/gr/
 
 Αποθετήριο κώδικα ιστοσελίδας: https://github.com/nickos172/gr
 
