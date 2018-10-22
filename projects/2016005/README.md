@@ -16,9 +16,9 @@
 
 Link Social Media : https://twitter.com/p16bouk
 
-Εκτελέσιμο: https://p16bouk.github.io/gr/
+Εκτελέσιμο link ιστοσελίδας: https://p16bouk.github.io/gr/
 
-Αποθετήριο κώδικα: https://github.com/p16bouk/gr
+Αποθετήριο κώδικα ιστοσελίδας: https://github.com/p16bouk/gr
 
 
 # Επιλογή Εργασίας Ανάπτυξης
