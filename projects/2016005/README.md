@@ -12,7 +12,15 @@
 
 # ΑΜ: Π2016005
 
-# Επιλογή Εργασίας
+# Επιλογή Εργασίας Περιεχομένου
+
+Link Social Media : https://twitter.com/p16bouk
+Εκτελέσιμο: https://p16bouk.github.io/gr/
+
+Αποθετήριο κώδικα: https://github.com/p16bouk/gr
+
+
+# Επιλογή Εργασίας Ανάπτυξης
 Shooter (https://github.com/ioniodi/shooter)
 
 Εκτελέσιμο: https://p16bouk.github.io/Shooter/
