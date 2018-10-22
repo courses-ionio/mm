@@ -11,8 +11,9 @@ Repository: https://github.com/p16sako/Shooter
 Executable: https://p16sako.github.io/Shooter
 
 Εργασία Περιεχομένου:
-  * Αποθετήριο: https://github.com/p16sako/gr
-  * Ιστοσελίδα: https://p16sako.github.io/gr
+  * Αποθετήριο:          https://github.com/p16sako/gr
+  * Ιστοσελίδα:          https://p16sako.github.io/gr
+  * Σελίδα Social-Media: https://www.facebook.com/Human-Computer-Interaction-HCI-278920812957652/
 
   ## Σύνοψη:
 
