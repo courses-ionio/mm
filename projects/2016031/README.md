@@ -4,7 +4,9 @@
 ### Ονοματεπώνυμο : Δημήτρης Χλωρός
 ### ΑΜ: Π2016031
 
-## Επιλογή Εργασίας : [Shooter](https://github.com/ioniodi/shooter)
+## Εργασία Ανάπτυξης
+
+### Επιλογή Εργασίας : [Shooter](https://github.com/ioniodi/shooter)
 
 [Forked repository](https://github.com/JIMCHLOROS/mm)
 
@@ -15,6 +17,8 @@
 
 
 ------------------------------------------------------------------------------------
-# [Αποθετήριο βιβλίου](https://jimchloros.github.io/gr/)
+## Εργασία Περιεχομένου
 
-# [Σελίδα στο Facebook](https://www.facebook.com/Προγραμματισμός-και-Διάδραση-2134439676883525/)
+### [Αποθετήριο βιβλίου](https://jimchloros.github.io/gr/)
+
+### [Σελίδα στο Facebook](https://www.facebook.com/Προγραμματισμός-και-Διάδραση-2134439676883525/)
