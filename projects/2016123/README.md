@@ -1,4 +1,4 @@
-# Shooter
+# Shooter 
 
 **Ονοματεπώνυμο**: Γιάννης-Παναγιώτης Κερασιώτης 
 
@@ -10,6 +10,12 @@
   
   [Αναφορά σε gh-pages](...)
   
+##mibook/gr
+ [Site repository](https://github.com/giannhsker/gr) 
+ [Site](https://giannhsker.github.io/gr/) 
+ [Twitter account](https://twitter.com/juhnie2)
+ 
+ Σύνοψη: Πρόσθεσα twitter stream και social media bar κάνουν redirect sto facebook,twitter,google+
   
 - [x] Initial settings (όπως περιγράφονται στο README.md του repository)  
 - [x] Link του παιχνιδιού στην αναφορά
