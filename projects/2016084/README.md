@@ -1,8 +1,25 @@
-Shooter
-Όνομα: Χρυσοβαλάντης-Αθανάσιος Σιάσης Π2016084
-Επιβλέπων Καθηγητής: Χωριανόπουλος Κωνσταντίνος
-Forked MM Repository: https://github.com/Chrisovalantis/mm
-Forked Shooter Repository: https://github.com/Chrisovalantis/Shooter
-Shooter: https://Chrisovalantis.github.io/Shooter/
-Facebook Link: https://web.facebook.com/Ο-Προγραμματισμός-της-Διάδρασης-HCI-314424702670660/
-Book: http://Chrisovalantis.github.io/gr
+#  Shooter (Star Wars)
+
+  ## Τελική Αναφορά:
+
+Όνομα: Χρυσοβαλάντης-Αθανάσιος Σιάσης AM: Π2016084
+
+Forked repository: https://github.com/Chrisovalantis/Shooter
+
+Gh-pages: https://Chrisovalantis.github.io/Shooter/
+
+  # Συμμετοχική μελέτη και προσθήκη εκπαιδευτικού υλικού
+
+Forked repository: https://github.com/Chrisovalantis/gr
+Gh-pages: http://Chrisovalantis.github.io/gr
+
+
+  ## Σύνοψη:
+
+## 1o παραδοτέο
+
+## 2o παραδοτέο
+
+## Πηγές - Χρησιμοποιήθηκαν
+
+## Συμπεράσματα:
