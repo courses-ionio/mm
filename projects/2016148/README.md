@@ -1,14 +1,14 @@
 # ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΙΟ
 ## ΜΑΘΗΜΑ Ε΄ ΕΞΑΜΗΝΟΥ : ΠΟΛΥΜΕΣΑ
-ΟΝΟΜΑ: ΠΑΠΑΙΩΑΝΝΟΥ ΕΛΕΥΘΕΡΙΟΣ  
-ΑΜ: Π2016016
+ΟΝΟΜΑ: Λάζαρος Ιορδάνου 
+ΑΜ: Π2016148
   ### ΚΑΘΗΓΗΤΗΣ
 Χωριανόπουλος Κ.
  Forked repository: https://github.com/lazlo54/mm
  
  Repository: https://github.com/lazlo54/Shooter
  
- Executable: https://LefterisIkaria.github.io/Shooter
+ Executable: https://lazlo54.github.io/Shooter
  
  Εργασία Περιεχομένου:
  
