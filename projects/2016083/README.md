@@ -12,7 +12,7 @@
 ## Εργασία Περιεχομένου
 ### https://iliastzanis.github.io/gr/
 
-## Λογαριασμός Twitter
+## Twitter
 ### https://twitter.com/p16tzan
 
 ## Όνομα:
