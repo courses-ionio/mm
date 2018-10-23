@@ -5,8 +5,22 @@
 
  ### ΚΑΘΗΓΗΤΗΣ
 Χωριανόπουλος Κ.
-  ### Κοινωνικά Μέσα
+
+Forked repository: https://github.com/LefterisIkaria/mm
+ 
+ Repository: https://github.com/LefterisIkaria/Shooter
+ 
+ Executable: https://LefterisIkaria.github.io/Shooter
+ 
+ Εργασία Περιεχομένου:
+ 
+ Αποθετήριο: https://github.com/LefterisIkaria/gr
+ 
+ Ιστοσελίδα: https://LefterisIkaria.github.io/gr
+ 
+ Twitter: https://twitter.com/Gourou28474842
   
+  ### Εργασία Περιεχομένου
 ## Παραδοτέο 1ο
 
 Στα πλαίσια του μαθήματος ΠΟΛΥΜΕΣΑ ζητήθηκε η δημοσίευση γνωστικού υλικού από το βιβλίο του καθηγητή Κ. Χωριανόπουλου
