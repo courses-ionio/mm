@@ -2,11 +2,23 @@
 
 Π2016138
 
+Εργασία Ανάπτυξης
+
 Αποθετήριο με κώδικα : https://github.com/xristostafarlis/Shooter
 
 gh-pages branch : https://github.com/xristostafarlis/Shooter/tree/gh-pages
 
 Εκτελέσιμο : https://xristostafarlis.github.io/Shooter/
+
+Εργασίας Περιεχομένου
+
+Αποθετήριο με κώδικα :https://github.com/xristostafarlis/gr
+
+Εκτελέσιμο : https://xristostafarlis.github.io/gr/
+
+gh-pages branch : https://github.com/xristostafarlis/gr/tree/gh-pages
+
+twitter : https://twitter.com/p16tafa
 
 Παραδοτέο 1ο :
 - [x] Initial settings (όπως περιγράφονται στο README.md του repository)
