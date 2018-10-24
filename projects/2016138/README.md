@@ -10,7 +10,7 @@ gh-pages branch : https://github.com/xristostafarlis/Shooter/tree/gh-pages
 
 Εκτελέσιμο : https://xristostafarlis.github.io/Shooter/
 
-Επιλογή Εργασίας Περιεχομένου
+Εργασίας Περιεχομένου
 
 Αποθετήριο με κώδικα :https://github.com/xristostafarlis/gr
 
