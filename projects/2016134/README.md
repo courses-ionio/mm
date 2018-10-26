@@ -20,3 +20,5 @@ Twitter: https://twitter.com/teochris1
 
 Έχω κάνει συνολικά 4 post τα οποία περίεχουν τα θέματα Nest, Voxer, Windows Mobile , Makey Makey 
 τα οποία φαίνονται στο twitter stream της σελίδας.
+
+Επίσης έχω αλλάξει την εμφάνιση των social media στην σελίδα.
