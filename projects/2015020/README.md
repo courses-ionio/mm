@@ -25,14 +25,14 @@
 
 Το αρχικό παιχνίδι Shooter.
 
-[!ScreenShot](1.jpg)
+https://raw.githubusercontent.com/konstantinadeliveri/mm/2015020/projects/2015020/1.jpg
 
 Το επεξεργασμένο αρχείο.
 
-[!ScreenShot](2.jpg)
+https://raw.githubusercontent.com/konstantinadeliveri/mm/2015020/projects/2015020/2.jpg
 
 
-[!ScreenShot](3.jpg)
+https://raw.githubusercontent.com/konstantinadeliveri/mm/2015020/projects/2015020/3.jpg
 
 ## Παραδοτέο 2
 
