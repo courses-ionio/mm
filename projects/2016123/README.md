@@ -4,7 +4,7 @@
 
 **ΑΜ**: Π2016123 
  
-###mibook
+### mibook
   
   [Repository](https://github.com/giannhsKer/gr) 
 
@@ -14,7 +14,7 @@
   
  Σύνοψη : Έβαλα κουμπί για που κάνει redirect στο λογαριασμό του twitter , social media bar στα αριστερά που παραπέμπει στο facebook,twitter,googleplus σε περίπτωση που κάποιος θέλει να κοινοποιήσει το site, και twitter stream που δείχνει τα τελευταία tweets του λογαριασμού στο twitter.
  
-###Shooter
+### Shooter
  
   [Repository](https://github.com/giannhsKer/shooter) 
 
