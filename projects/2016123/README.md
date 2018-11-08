@@ -13,7 +13,9 @@
   [Twitter account](https://twitter.com/juhnie2)
   
  Σύνοψη : Έβαλα κουμπί για που κάνει redirect στο λογαριασμό του twitter , social media bar στα αριστερά που παραπέμπει στο facebook,twitter,googleplus σε περίπτωση που κάποιος θέλει να κοινοποιήσει το site, και twitter stream που δείχνει τα τελευταία tweets του λογαριασμού στο twitter.
+ 
  **Shooter**
+ 
   [Repository](https://github.com/giannhsKer/shooter) 
 
   [Shooter game](https://giannhsker.github.io/Shooter/index.html) 
