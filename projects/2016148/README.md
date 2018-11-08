@@ -5,19 +5,17 @@
   ### ΚΑΘΗΓΗΤΗΣ
  Χωριανόπουλος Κ.
  
- Forked repository: https://github.com/lazlo54/mm
+ .Forked repository: https://github.com/lazlo54/mm
  
- Repository: https://github.com/lazlo54/Shooter
+ .Repository: https://github.com/lazlo54/Shooter
  
- Executable: https://lazlo54.github.io/Shooter
+ .Executable: https://lazlo54.github.io/Shooter
  
- Εργασία Περιεχομένου:
+ .Αποθετήριο: https://github.com/lazlo54/gr
  
- Αποθετήριο: https://github.com/lazlo54/gr
+ .Ιστοσελίδα: https://lazlo54.github.io/gr
  
- Ιστοσελίδα: https://lazlo54.github.io/gr
- 
- Twitter: https://twitter.com/p16iord
+ .Twitter: https://twitter.com/p16iord
   
   ## Εργασία Περιεχομένου
 ### Παραδοτέο 1ο
