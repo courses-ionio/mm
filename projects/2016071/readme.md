@@ -31,6 +31,6 @@ Forked Shooter Repository https://github.com/chr314/Shooter
 - [x] αρνητικο σκορ αν περασει ο εχθρος
 - [x] αλλες εικονες ως χαρακτηρες κλπ
 - [x] οργανωση κωδικα
-- [x] φορτωση και χρηση 3d party font (assets/fonts/kremlin.ttf) παντου εκτος απο το game over οπου χρησιμοποιηθηκε ο τροπος των οδηγιων
+- [x] φορτωση και χρηση 3rd party font (assets/fonts/kremlin.ttf) παντου εκτος απο το game over οπου χρησιμοποιηθηκε ο τροπος των οδηγιων
 - [x] μενου & loading screen
 - [x] fullscreen
