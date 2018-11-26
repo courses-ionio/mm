@@ -23,6 +23,9 @@ Book's link : https://deadmanlogan.github.io/gr/
 
 Twitter's Profile link : https://twitter.com/bookworm_kim
 
+Update!!!!
+Ολοκληρώθηκε ο απαιτούμενος αριθμός των 10 δημοσιεύσεων και τελείωσε το δεύτερο παραδοτέο.
+
 
 
 Εργασία ανάπτυξης
