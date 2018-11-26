@@ -48,5 +48,14 @@ Book: https://giourikilin.github.io/gr/
 
 2o Παραδοτέο
 
-
-Συμπεράσματα:
+links of  posts :
+1) https://twitter.com/p16kili/status/1066313984767332352
+2) https://twitter.com/p16kili/status/1065996940004024320
+3) https://twitter.com/p16kili/status/1065990566087933953
+4) https://twitter.com/p16kili/status/1065653119781126144
+5) https://twitter.com/p16kili/status/1065648345581043712
+6) https://twitter.com/p16kili/status/1064868701701312512
+7) https://twitter.com/p16kili/status/1064859856807608320
+8) https://twitter.com/p16kili/status/1054357536911081474
+9) https://twitter.com/p16kili/status/1053721132661129216
+10) https://twitter.com/p16kili/status/1052582234945802240
