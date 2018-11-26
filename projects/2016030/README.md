@@ -30,7 +30,7 @@
 **Link :** 
 - Book website (Greek) [book](https://mibook.org/gr) 
 - Book website (Greek) my repository gh-pages [book1](https://myrtop.github.io/gr/) 
-- Facebook account (Fb) [fb](https://www.facebook.com/mirto.papa.967)
+- Facebook account [fb](https://www.facebook.com/mirto.papa.967)
 
 ### Eικόνα της ιστοσελίδας
 ![Site](https://github.com/MyrtoP/gr/blob/gh-pages/site%20report/site.png)
