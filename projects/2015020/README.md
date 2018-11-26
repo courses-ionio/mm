@@ -14,6 +14,17 @@ Link Social Media : https://twitter.com/KDeliveri
 
 Αποθετήριο κώδικα ιστοσελίδας: https://github.com/konstantinadeliveri/gr
 
+## Link αναρτήσεων:
+1) https://twitter.com/KDeliveri/status/1067083695394308097
+2) https://twitter.com/KDeliveri/status/1067085120853676032
+3) https://twitter.com/KDeliveri/status/1067087140214005761
+4) https://twitter.com/KDeliveri/status/1067088225976664065
+5) https://twitter.com/KDeliveri/status/1067090188869017600
+6) https://twitter.com/KDeliveri/status/1067091836232261632
+7) https://twitter.com/KDeliveri/status/1067093890023464960
+8) https://twitter.com/KDeliveri/status/1067096056981266433
+9) https://twitter.com/KDeliveri/status/1067099157616304128
+10) https://twitter.com/KDeliveri/status/1067107326535102465
 
 
 ## Επιλογή Θέματος: Δημιουργία Shooter
