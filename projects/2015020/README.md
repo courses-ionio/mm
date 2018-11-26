@@ -6,6 +6,16 @@
  ### ΚΑΘΗΓΗΤΗΣ
 Χωριανόπουλος Κ.
 
+# Επιλογή Εργασίας Περιεχομένου
+
+Link Social Media : https://twitter.com/KDeliveri
+
+Εκτελέσιμο link ιστοσελίδας: https://konstantinadeliveri.github.io/gr/
+
+Αποθετήριο κώδικα ιστοσελίδας: https://github.com/konstantinadeliveri/gr
+
+
+
 ## Επιλογή Θέματος: Δημιουργία Shooter
 
 ### Σύνοψη
