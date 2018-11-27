@@ -11,10 +11,12 @@
  Αποθετήριο: https://github.com/tkaradimos/gr
 
  Ιστοσελίδα: https://tkaradimos.github.io/gr
-|
+
  Facebook: https://www.facebook.com/HCI-ionio-438025583393215
 
  Σύνοψη:
+ Εγιναν οι 10 ζητούμενες αναρτήσεις για το παραδοτέο Β της εργασίας περιεχομένου.
+
 
  1o Παραδοτέο
 
