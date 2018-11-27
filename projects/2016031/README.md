@@ -51,6 +51,8 @@
 
 ## Εργασία Περιεχομένου
 
-### [Αποθετήριο βιβλίου](https://jimchloros.github.io/gr/)
+### [Ιστοσελίδα Βιβλίου](https://jimchloros.github.io/gr/)
+
+### [Αποθετήριο βιβλίου](https://github.com/JIMCHLOROS/gr)
 
 ### [Σελίδα στο Facebook](https://www.facebook.com/Προγραμματισμός-και-Διάδραση-2134439676883525/)
