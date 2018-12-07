@@ -46,15 +46,15 @@ Link Social Media : https://twitter.com/KDeliveri
 
 Το αρχικό παιχνίδι Shooter.
 
-[!ScreenShot] (1.png)
+[!ScreenShot](1.png)
 
 Το επεξεργασμένο αρχείο.
 
-[!ScreenShot] (2.png)
+[!ScreenShot](2.png)
 
 
 
-[!ScreenShot] (3.png)
+[!ScreenShot](3.png)
 
 
 
