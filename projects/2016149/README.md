@@ -15,10 +15,7 @@
 ### Repository: https://github.com/geocfu/Shooter   
 
 ## Σύνοψη  
-&nbsp;&nbsp;&nbsp;&nbsp;TODO
-
-## Εισαγωγή  
-&nbsp;&nbsp;&nbsp;&nbsp;TODO  
+&nbsp;&nbsp;&nbsp;&nbsp;Σκοπος της εργασιας αυτης ηταν να επεκτείνουμε ενα παιχνιδι phaser χρησιμοποιοντας ενα ηδη υπαρχων tutorial και προσθετοντας δικα μας χαρακτηριστικα και λειτουργιες. 
 
 ## Παραδοτέα
 ### Παραδοτέο 1ο  
