@@ -56,13 +56,12 @@ littera για την δημιουργία του δικού μου bitmapfont �
 Όταν ο παίκτης πάρει ένα από τα δύο αστέρια τότε γίνεται και η αντίστοιχη αναβάθμιση.
 ![starOne](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/star.png)
 ![starTwo](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/mr_star.png)
-Έγινε η προσθήκη αρχικού μενού με δύο συνεχόμενα επίπεδα.
-![Menu](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/menu.png)
-Όταν στην πρώτη πίστα,ο παίκτης νικήσει το μεγάλο διαστημόπλοιο 
-![Enemy](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/output-onlinepngtools%20(1).png)
+Έγινε η προσθήκη αρχικού μενού με δύο συνεχόμενα επίπεδα. ![Menu](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/menu.png)
+Όταν στην πρώτη πίστα,ο παίκτης νικήσει το μεγάλο διαστημόπλοιο,  ![Enemy](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/output-onlinepngtools%20(1).png)
 τότε αυτόματα πηγαίνει στη δεύτερη πίστα,ενώ στο επόμενο επίπεδο αν ηττηθεί ο μεγάλος εχθρός
 τότε ο παίκτης πηγαίνει στο αρχικό μενού. Aκόμη, στη δεύτερη πίστα έγινε εισαγωγή και του τραγουδιού "Hotblade - Manifold Love".
 Σημείωση, στη δεύτερη πίστα δεν εμφανίζονται για κάποιο λόγο οι σφαίρες ενώ υπάρχουν στον φάκελο.
+
 ### 1 LEVEL
 ![lvl1](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/lvl1.png)
 ### 2 LEVEL
