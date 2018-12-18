@@ -48,16 +48,19 @@
 Πρόσθεσα τους εχθρούς , τους enemy2 και όχι τους green-enemy , επέκτεινα το παιχνίδι
 ώστε να υπάρχει ζωή και score του παίκτη και επειτα χρησιμοποιησα το προγραμμα
 littera για την δημιουργία του δικού μου bitmapfont το οποιο είναι
-εμπνευσμένο απο τα γράμματα των ταινιών star wars,![StarWarsLetters](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/BitmapFont.png)
+εμπνευσμένο απο τα γράμματα των ταινιών star wars,
+![StarWarsLetters](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/BitmapFont.png)
 ![StarWarsFont](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/star_wars.png)
 Για το τελευταιο βήμα του πρώτου παραδοτέου πρόσθεσα και τη δεύτερη κατηγορία εχθρών, τους enemy3 αντί για τους blue-enemy.
 
 **2 ΠΑΡΑΔΟΤΕΟ & ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ**
 
-Για το δεύτερο παραδοτέο, επεκτάθηκε το παιχνίδι με αναβάθμιση όπλων. Όταν ο παίκτης πάρει ένα από τα δύο αστέρια τότε γίνεται και η αντίστοιχη αναβάθμιση.
-![starOne](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/star.png)
+Για το δεύτερο παραδοτέο, επεκτάθηκε το παιχνίδι με αναβάθμιση όπλων. Όταν ο παίκτης πάρει ένα από τα δύο αστέρια, ![starOne](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/star.png)
 ![starTwo](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/mr_star.png)
-Έγινε η προσθήκη αρχικού μενού με δύο συνεχόμενα επίπεδα.![Menu](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/menu.png) Όταν στην πρώτη πίστα,ο παίκτης νικήσει το μεγάλο διαστημόπλοιο,![Enemy](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/output-onlinepngtools%20(1).png) τότε αυτόματα πηγαίνει στη δεύτερη πίστα,ενώ στο επόμενο επίπεδο αν ηττηθεί ο μεγάλος εχθρός τότε ο παίκτης πηγαίνει στο αρχικό μενού. Aκόμη, στη δεύτερη πίστα έγινε εισαγωγή και του τραγουδιού "Hotblade - Manifold Love".
+τότε γίνεται και η αντίστοιχη αναβάθμιση. 
+Έγινε η προσθήκη αρχικού μενού με δύο συνεχόμενα επίπεδα.![Menu](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/menu.png) Όταν στην πρώτη πίστα,ο παίκτης νικήσει το μεγάλο διαστημόπλοιο,
+![Enemy](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/output-onlinepngtools%20(1).png)
+τότε αυτόματα πηγαίνει στη δεύτερη πίστα,ενώ στο επόμενο επίπεδο αν ηττηθεί ο μεγάλος εχθρός τότε ο παίκτης πηγαίνει στο αρχικό μενού. Aκόμη, στη δεύτερη πίστα έγινε εισαγωγή και του τραγουδιού "Hotblade - Manifold Love".
 Σημείωση, στη δεύτερη πίστα δεν εμφανίζονται για κάποιο λόγο οι σφαίρες ενώ υπάρχουν στον φάκελο.
 
 ### 1 LEVEL
