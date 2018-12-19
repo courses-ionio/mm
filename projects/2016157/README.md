@@ -1,7 +1,7 @@
 Όνομα: Ευφρραίμ Αναστασιάδης 
 Α.Μ : Π2016157
 
-Εργασία Περιεχομένου:
+## Εργασία Περιεχομένου:
 
 Αποθετήριο: https://github.com/effraim/gr
 
@@ -9,13 +9,16 @@
 
 Twitter: https://twitter.com/twittem_frem
 
-Σύνοψη:
 
-Εργασία Περιεχομένου 1o Παραδοτέο
+## Εργασία Περιεχομένου 1o Παραδοτέο
 
 Δημιούργησα 3 twitter posts, άλλαξα theme και πρόσθεσα twitter feed στο site.
 
-Εργασία Ανάπτυξης:
+## Εργασία Περιεχομένου 2o Παραδοτέο
+
+Δημιούργησα άλλα 2 twitter posts με εικόνες και gifs,έχοντας συνολικά 5.
+
+## Εργασία Ανάπτυξης:
 
 Forked repository: https://github.com/effraim/mm
 
@@ -23,7 +26,7 @@ Repository: https://github.com/effraim/Shooter
 
 Executable: https://effraim.github.io/Shooter/
 
-Παραδοτέο 1:
+## Παραδοτέο 1:
 
 [x] Initial settings (όπως περιγράφονται στο README.md του repository)
 
