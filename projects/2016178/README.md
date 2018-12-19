@@ -6,17 +6,23 @@
 
 Επιβλέπων Καθηγητής: Χωριανόπουλος Κωνσταντίνος
 
+#### Σχετικά links για την εργασία περιεχομένου
+
 Forked ΜΜ Repository: https://github.com/dionisiskon/mm
-
-Forked Shooter Repository: https://github.com/dionisiskon/Shooter
-
-Shooter Game: https://dionisiskon.github.io/Shooter/
 
 Social Media Link: https://twitter.com/p16kont
 
 Forked Book Repository: https://github.com/dionisiskon/gr
 
 Book: https://dionisiskon.github.io/gr/
+
+#### Σχετικά links για την εργασία ανάπτυξης
+
+Forked Shooter Repository: https://github.com/dionisiskon/Shooter/tree/gh-pages
+
+Shooter Game: https://dionisiskon.github.io/Shooter/
+
+
 
 ## Σύνοψη
 ### 1o Παραδοτέο
