@@ -62,13 +62,13 @@ https://www.zapsplat.com/?s=game+over
 
 
 Level 1 Boss
-![screenshot](https://raw.githubusercontent.com/fabianhoegger/mm/2016187/projects/2016187/leve1.png)  
+![screenshot](https://raw.githubusercontent.com/fabianhoegger/mm/2016187/projects/2016187/boss1.png)  
 
 Level 2 Boss
-![screenshot](https://raw.githubusercontent.com/fabianhoegger/mm/2016187/projects/2016187/level2.png) 
+![screenshot](https://raw.githubusercontent.com/fabianhoegger/mm/2016187/projects/2016187/boss2.png) 
 
 Game Over 
-![screenshot](https://raw.githubusercontent.com/fabianhoegger/mm/2016187/projects/2016187/gameOver.png) 
+![screenshot](https://raw.githubusercontent.com/fabianhoegger/mm/2016187/projects/2016187/gameover.png) 
 
 Menu 
 ![screenshot](https://raw.githubusercontent.com/fabianhoegger/mm/2016187/projects/2016187/menu.png)  
