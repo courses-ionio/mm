@@ -76,12 +76,17 @@ https://publish.twitter.com/# το url
 
 εικονες αποτελεσματων :
 -
-site-tweets
+SITE-TWEETS
 https://github.com/johnmous1/gr/blob/gh-pages/report/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(70).png
+
 https://github.com/johnmous1/gr/blob/gh-pages/report/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(69).png
+
 https://github.com/johnmous1/gr/blob/gh-pages/report/5%20tweets.png
-game
+
+GAME
+
 https://github.com/johnmous1/Shooter/blob/gh-pages/docs/gameover.png
+
 https://github.com/johnmous1/Shooter/blob/gh-pages/docs/middle.png
  
  
