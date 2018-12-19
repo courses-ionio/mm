@@ -122,6 +122,12 @@ Link Social Media : https://twitter.com/KDeliveri
  
  #### Το τελικό επεξεργασμένο παιχνίνδι
  
+ ![ScreenShot](4.png)
+ 
+ ![ScreenShot](5.png)
+ 
+ ![ScreenShot](6.png)
+ 
  
  
  
