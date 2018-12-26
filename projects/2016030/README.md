@@ -8,9 +8,10 @@
 Χωριανόπουλος Κ.
 	
 ### Συμμετοχικό εκπαιδευτικό υλικό
-
 Σε αυτό το εξάμηνο στο μάθημα "ΠΟΛΥΜΕΣΑ" ζητήθηκε η επεξεργασία και δημοσίευση του ηλεκτρονικού βιβλίου του καθ.Xωριανόπουλου
 στα πολυμέσα για εκπαιδευτικό σκοπό (όπως λέει στις οδηγίες [εργασίες](https://courses-ionio.github.io/projects/)).
+Σε αυτό το εξάμηνο στο μάθημα "ΠΟΛΥΜΕΣΑ" ζητήθηκε η επεξεργασία και δημοσίευση του ηλεκτρονικού βιβλίου του καθ.Xωριανόπουλου
+στα πολυμέσα για εκπαιδευτικό σκοπό (όπως το λέει στις οδηγίες του [εργασίες](https://courses-ionio.github.io/projects/)).
 Αρχικά έγινε "fork" του αποθετήριου του βιβλίου και εκεί έγινε η επεξεργασία του. 
 Συγκεκριμένα, έγινε αλλαγή στο λινκ του σαιτ ώστε να δείχνει 
 στο λινκ με το id μου του github και έπειτα στο αρχείο _config.yml άλλαξα το θέμα 
@@ -28,6 +29,7 @@
 Στο Facebook όλα τα gif δημιουργήθηκαν με το giphy,οι εικόνες, κάποια κείμενα (απο το βιβλιο / κατανόηση/ αλλα σαιτ)
 και τα βίντεο είναι παρμένα απο το βιβλίο του κ.Χωριανόπουλου και το κανάλι του και άλλων χρηστών του Youtube.
 Οι δημοσιεύσεις στο σύνολο είναι δέκα.
+θα επιθυμεί να το αγοράσει (δεν δουλεύει όμως ~ δεν εμφανίζεται στο σαιτ σαν δεύτερο κουμπί)
 
 **Link :** 
 - Book website (Greek) [book](https://mibook.org/gr) 
@@ -40,7 +42,6 @@
 
 ### Shooter 
 **1 ΠΑΡΑΔΟΤΕΟ**
-
 Για το παιχνίδι έγινε fork του αποθετηρίου του παιχνιδιού στο δικό μου 
 και σύμφωνα με τις οδηγίες έβαλα πρώτα background music και ήχους στο διαστημόπλοιο καθώς πυροβολεί ο χρήστης.
 Η μουσική είναι "OST Infinity War - Thor arrives with the Stormbreaker" και τα λειζερ
@@ -54,7 +55,6 @@ littera για την δημιουργία του δικού μου bitmapfont �
 Για το τελευταιο βήμα του πρώτου παραδοτέου πρόσθεσα και τη δεύτερη κατηγορία εχθρών, τους enemy3 αντί για τους blue-enemy.
 
 **2 ΠΑΡΑΔΟΤΕΟ & ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ**
-
 Για το δεύτερο παραδοτέο, επεκτάθηκε το παιχνίδι με αναβάθμιση όπλων. Όταν ο παίκτης πάρει ένα από τα δύο αστέρια, ![starOne](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/star.png)
 ![starTwo](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/mr_star.png)
 τότε γίνεται και η αντίστοιχη αναβάθμιση. 
@@ -73,3 +73,12 @@ littera για την δημιουργία του δικού μου bitmapfont �
 **Link :** 
 - Shooter [shooter](https://ioniodi.github.io/Shooter/) 
 - Shooter master [master](https://myrtop.github.io/Shooter/menu.html)
+![StarWarsFont](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/Star-Wars.png)
+Για το τελευταιο βήμα του πρώτου παραδοτέου πρόσθεσα και τη δεύτερη κατηγορία εχθρών, τους enemy3 αντί για τους blue-enemy.
+
+**Link :** 
+- Shooter [shooter](https://ioniodi.github.io/Shooter/) 
+- Shooter gh-pages [game](https://myrtop.github.io/Shooter/)
+
+### Το παιχνίδι
+![game](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/game.png)

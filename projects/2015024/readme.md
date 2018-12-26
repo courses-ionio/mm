@@ -1,26 +1,15 @@
-Χρήστος Ταφαρλής
+## Ιόνιο Πανεπιστήμιο
 
-Π2016138
+# Μάθημα: Πολυμέσα
+# Καθηγητής: Χωριανόπουλος Κωνσταντίνος
+# Ονοματεπώνυμο: Κωνσταντίνος Τσίπας
+# Α.Μ.: Π2015024
 
-Εργασία Ανάπτυξης
+## Επιλογή Εργασίας: Shooter (https://github.com/ioniodi/shooter)
+# Εκτελέσιμο: https://kostastsipas.github.io/Shooter/
+# Αποθετήριο Κώδικα: https://github.com/KostasTsipas/Shooter/tree/2015024
 
-Αποθετήριο με κώδικα : https://github.com/xristostafarlis/Shooter
-
-gh-pages branch : https://github.com/xristostafarlis/Shooter/tree/gh-pages
-
-Εκτελέσιμο : https://xristostafarlis.github.io/Shooter/
-
-Εργασίας Περιεχομένου
-
-Αποθετήριο με κώδικα :https://github.com/xristostafarlis/gr
-
-Εκτελέσιμο : https://xristostafarlis.github.io/gr/
-
-gh-pages branch : https://github.com/xristostafarlis/gr/tree/gh-pages
-
-twitter : https://twitter.com/p16tafa
-
-Παραδοτέο 1ο :
+# Παραδοτέο 1
 - [x] Initial settings (όπως περιγράφονται στο README.md του repository)
 - [x] Link του παιχνιδιού στην αναφορά
 - [x] Πρόσθεσε ήχους (shooting, explosions, κτλ.) και μουσική.
@@ -28,5 +17,8 @@ twitter : https://twitter.com/p16tafa
 - [x] Επέκτεινε το παιχνίδι ώστε να προσθέσεις ζωή και score ακολουθώντας τα steps 18-20 από τις οδηγίες.
 - [x] Ακολούθησε το step 21 από τις οδηγίες. Προσοχή: πρέπει να δημιουργήσεις από εδώ και να χρησιμοποιήσεις το δικό σου font .
 - [x] Πρόσθεσε τη δεύτερη κατηγορία εχθρών σύμφωνα με τα steps 22-24 από τις οδηγίες. Για τη συγκεκριμένη κατηγορία εχθρών χρησιμοποίησε την εικόνα enemy3.png αντί για την εικόνα blue-enemy.png. Προσοχή: πρέπει να μελετήσετε τον κώδικα και να τον τροποποιήσετε κατάλληλα ώστε η συμπεριφορά των εχθρών να είναι ίδια αλλά να έρχονται από τα δεξιά προς τα αριστερά της οθόνης και όχι από πάνω προς τα κάτω όπως περιγράφετε στις οδηγίες.
-
-Παραδοτέο 2ο :
+ 
+ ![shooter1](https://user-images.githubusercontent.com/22773317/48145078-bf88ad00-e2ba-11e8-9f02-fb2fdd977d89.jpg)
+ 
+ ![shooter2](https://user-images.githubusercontent.com/22773317/48145132-d202e680-e2ba-11e8-8b1c-3edf65c01b99.jpg)
+ 

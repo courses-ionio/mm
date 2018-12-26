@@ -1,26 +1,33 @@
-Χρήστος Ταφαρλής
 
-Π2016138
+# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ, ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
 
-Εργασία Ανάπτυξης
+ # ΜΑΘΗΜΑ
+ # Πολυμέσα
 
-Αποθετήριο με κώδικα : https://github.com/xristostafarlis/Shooter
+  Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος
 
-gh-pages branch : https://github.com/xristostafarlis/Shooter/tree/gh-pages
+# Στοιχεία φοιτητή
 
-Εκτελέσιμο : https://xristostafarlis.github.io/Shooter/
+# Ονοματεπώνυμο: Τομαράς Μιλτιάδης
+# ΑΜ: Π2016180
 
-Εργασίας Περιεχομένου
+# Επιλογή Εργασίας Περιεχομένου
 
-Αποθετήριο με κώδικα :https://github.com/xristostafarlis/gr
+Link Social Media : https://twitter.com/tomarasM
 
-Εκτελέσιμο : https://xristostafarlis.github.io/gr/
+Εκτελέσιμο link ιστοσελίδας: https://miltostom.github.io/gr/
 
-gh-pages branch : https://github.com/xristostafarlis/gr/tree/gh-pages
+Αποθετήριο κώδικα ιστοσελίδας: https://github.com/miltostom/gr
 
-twitter : https://twitter.com/p16tafa
+# Επιλογή Εργασίας Ανάπτυξης
+Shooter (https://github.com/miltostom/shooter)
 
-Παραδοτέο 1ο :
+Εκτελέσιμο: https://miltostom.github.io/Shooter/
+
+Αποθετήριο κώδικα: https://github.com/miltostom/Shooter
+
+# Παραδοτέο 1:
+
 - [x] Initial settings (όπως περιγράφονται στο README.md του repository)
 - [x] Link του παιχνιδιού στην αναφορά
 - [x] Πρόσθεσε ήχους (shooting, explosions, κτλ.) και μουσική.
@@ -28,5 +35,3 @@ twitter : https://twitter.com/p16tafa
 - [x] Επέκτεινε το παιχνίδι ώστε να προσθέσεις ζωή και score ακολουθώντας τα steps 18-20 από τις οδηγίες.
 - [x] Ακολούθησε το step 21 από τις οδηγίες. Προσοχή: πρέπει να δημιουργήσεις από εδώ και να χρησιμοποιήσεις το δικό σου font .
 - [x] Πρόσθεσε τη δεύτερη κατηγορία εχθρών σύμφωνα με τα steps 22-24 από τις οδηγίες. Για τη συγκεκριμένη κατηγορία εχθρών χρησιμοποίησε την εικόνα enemy3.png αντί για την εικόνα blue-enemy.png. Προσοχή: πρέπει να μελετήσετε τον κώδικα και να τον τροποποιήσετε κατάλληλα ώστε η συμπεριφορά των εχθρών να είναι ίδια αλλά να έρχονται από τα δεξιά προς τα αριστερά της οθόνης και όχι από πάνω προς τα κάτω όπως περιγράφετε στις οδηγίες.
-
-Παραδοτέο 2ο :
