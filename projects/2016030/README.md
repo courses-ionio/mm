@@ -42,6 +42,7 @@
 
 ### Shooter 
 **1 ΠΑΡΑΔΟΤΕΟ**
+
 Για το παιχνίδι έγινε fork του αποθετηρίου του παιχνιδιού στο δικό μου 
 και σύμφωνα με τις οδηγίες έβαλα πρώτα background music και ήχους στο διαστημόπλοιο καθώς πυροβολεί ο χρήστης.
 Η μουσική είναι "OST Infinity War - Thor arrives with the Stormbreaker" και τα λειζερ
@@ -55,6 +56,7 @@ littera για την δημιουργία του δικού μου bitmapfont �
 Για το τελευταιο βήμα του πρώτου παραδοτέου πρόσθεσα και τη δεύτερη κατηγορία εχθρών, τους enemy3 αντί για τους blue-enemy.
 
 **2 ΠΑΡΑΔΟΤΕΟ & ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ**
+
 Για το δεύτερο παραδοτέο, επεκτάθηκε το παιχνίδι με αναβάθμιση όπλων. Όταν ο παίκτης πάρει ένα από τα δύο αστέρια, ![starOne](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/star.png)
 ![starTwo](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/mr_star.png)
 τότε γίνεται και η αντίστοιχη αναβάθμιση. 
@@ -71,14 +73,10 @@ littera για την δημιουργία του δικού μου bitmapfont �
 ![lvl2](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/lvl2.png)
 
 **Link :** 
-- Shooter [shooter](https://ioniodi.github.io/Shooter/) 
-- Shooter master [master](https://myrtop.github.io/Shooter/menu.html)
+- Shooter [master](https://myrtop.github.io/Shooter/menu.html)
+
 ![StarWarsFont](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/Star-Wars.png)
 Για το τελευταιο βήμα του πρώτου παραδοτέου πρόσθεσα και τη δεύτερη κατηγορία εχθρών, τους enemy3 αντί για τους blue-enemy.
-
-**Link :** 
-- Shooter [shooter](https://ioniodi.github.io/Shooter/) 
-- Shooter gh-pages [game](https://myrtop.github.io/Shooter/)
 
 ### Το παιχνίδι
 ![game](https://github.com/MyrtoP/Shooter/blob/gh-pages/game%20report/game.png)
