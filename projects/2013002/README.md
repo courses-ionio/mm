@@ -63,4 +63,18 @@
 
 #### - [x] Τελική αναφορά την εργασίας που θα πρέπει απαραίτητα να περιλαμβάνει link του παιχνιδιού.
 
+#### Πηγές αντικειμένων εχθρών και sound effects
+Η μουσικές background που χρησιμοποιήθηκαν για τα level, το menu και τα credits κατεβάστηκαν απο https://opengameart.org/content/stereotypical-90s-space-shooter-music
+
+Τα sound effects οπως shooting, explosions και άλλα καταβάστηκαν απο https://opengameart.org/content/space-shooter-sound-effects
+
+Το background του menu κατεβάστηκε απο http://sfwallpaper.com/image-post/9880-space-battle-wallpaper-6.jpg.html
+
+Τα αντικείμενα απο https://opengameart.org/content/space-shooter-ship-and-items
+
+Το boss του level 2 απο http://www.pngmart.com/image/26964
+
+Ο μετεωρίτης απο https://www.pinclipart.com/pindetail/TiToxo_conclusion-clipart-observation-meteor-sprite-png-transparent-png/
+
+
 
