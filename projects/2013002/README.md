@@ -63,7 +63,7 @@
 
 #### - [x] Τελική αναφορά την εργασίας που θα πρέπει απαραίτητα να περιλαμβάνει link του παιχνιδιού.
 
-#### Πηγές αντικειμένων εχθρών και sound effects
+## Πηγές αντικειμένων εχθρών και sound effects
 Η μουσικές background που χρησιμοποιήθηκαν για τα level, το menu και τα credits κατεβάστηκαν απο https://opengameart.org/content/stereotypical-90s-space-shooter-music
 
 Τα sound effects οπως shooting, explosions και άλλα καταβάστηκαν απο https://opengameart.org/content/space-shooter-sound-effects
