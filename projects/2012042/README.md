@@ -11,7 +11,7 @@
 ### Νίκος Φαρμάκης
 ### ΑΜ: Π2012042
 
-### Εκτελέσιμο: [https://p12farm.github.io/Shooter/](https://p12farm.io/Shooter/)
+### Εκτελέσιμο: [https://p12farm.github.io/Shooter/](https://p12farm.github.io/Shooter/)
 ### Αποθετήριο κώδικα: [https://github.com/p12farm/Shooter](https://github.com/p12farm/Shooter)
 
 ## Εισαγωγή  
