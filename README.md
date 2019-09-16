@@ -1,10 +1,10 @@
 # Πολυμέσα
 
-Οι διαθέσιμες [εργασίες](https://courses-ionio.github.io/projects/) είναι αυτές που έχουν τον κωδικό MM δίπλα στον τίτλο τους
+Οι ασκήσεις είναι αυτές που έχουν τον κωδικό multimedia
 
 [Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
 
-[Ανακοινώσεις και πρόγραμμα συναντήσεων](https://github.com/courses-ionio/help/issues/29)
+[Ανακοινώσεις, απορίες, και πρόγραμμα συναντήσεων](https://github.com/courses-ionio/help/issues)
 
 
 ## Syllabus
@@ -22,9 +22,10 @@
 **Βιβλίο μαθήματος:** 
 
 * Πολυμέσα Θεωρία και Πράξη", Steinmetz Ralf, 2002, Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN: 978-960-512-330-7 
-* [Multimedia: from Wagner to Virtual Reality](http://www.w2vr.com/contents.html) --> Σύνοψη της ύλης του μαθήματος
+* [Multimedia: from Wagner to Virtual Reality](https://web.archive.org/web/20180731072917/http://w2vr.com/concepts/concepts.html), concepts, pioneers
 * [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr), ΕΥΔΟΞΟΣ: 68371436, κεφ. 6 Σύνθεση και Κλίμακα
+* [How to learn D3.js](https://wattenberger.com/blog/d3)
 
-**Βαθμολογία:** 50% [project](https://courses-ionio.github.io/projects/), 30% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social/)
+**Βαθμολογία:** 40% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://github.com/courses-ionio/projects/blob/master/social/index.md), 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey)
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
