@@ -1,15 +1,19 @@
 # ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ, ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ 
 
+
 ## ΜΑΘΗΜΑ
 ### Πολυμέσα  
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος  
 
+
 ## Επιλογή Εργασίας   
 ### Shooter
+
 
 ## Στοιχεία φοιτητή  
 ### Δημήτριος Λέμπερος  
 ### ΑΜ: Π2013080
+
 
 ### Εκτελέσιμο: [https://dimitrile.github.io/Shooter/](https://dimitrile.github.io/Shooter/)
 ### Αποθετήριο κώδικα: [https://github.com/dimitrile/Shooter](https://github.com/dimitrile/Shooter)
@@ -84,6 +88,7 @@
 Το boss του level 2 απο http://www.pngmart.com/image/26964
 
 Ο μετεωρίτης απο https://www.pinclipart.com/pindetail/TiToxo_conclusion-clipart-observation-meteor-sprite-png-transparent-png/
+
 
 
 
