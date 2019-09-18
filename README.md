@@ -28,6 +28,6 @@
 * [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr), ΕΥΔΟΞΟΣ: 68371436, κεφ. 6 Σύνθεση και Κλίμακα
 * [How to learn D3.js](https://wattenberger.com/blog/d3)
 
-**Βαθμολογία:** 40% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://github.com/courses-ionio/projects/blob/master/social/index.md), 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey) ή 60% [εργασία ανάπτυξης](https://github.com/courses-ionio/projects/blob/master/dev/index.md)
+**Βαθμολογία:** 40% Τελική εξέταση, 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://github.com/courses-ionio/projects/blob/master/social/index.md) + 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey) ή 60% [εργασία ανάπτυξης](https://github.com/courses-ionio/projects/blob/master/dev/index.md)
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
