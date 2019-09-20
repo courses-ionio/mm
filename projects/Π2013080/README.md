@@ -60,7 +60,7 @@
 
 ##### Level 1 boss
 
-![image](boss.png)
+![image](https://raw.githubusercontent.com/dimitrile/Shooter/master/assets/enemies/boss.png)
 
 ##### Level 2 boss
 
