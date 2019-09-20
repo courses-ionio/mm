@@ -64,7 +64,7 @@
 
 ##### Level 2 boss
 
-![image](boss2.png)
+![image](https://raw.githubusercontent.com/dimitrile/Shooter/master/assets/enemies/boss2.png)
 
 
 #### - [x] Τελική αναφορά την εργασίας που θα πρέπει απαραίτητα να περιλαμβάνει link του παιχνιδιού.
