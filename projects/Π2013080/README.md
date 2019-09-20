@@ -45,15 +45,15 @@
 
 ##### Menu
 
-![screenshot](menu.jpg)
+![screenshot](https://raw.githubusercontent.com/dimitrile/Shooter/master/Screenshot_1.png)
 
 ##### Level 1
 
-![screenshot](level1.jpg)
+![screenshot](https://raw.githubusercontent.com/dimitrile/Shooter/master/Screenshot_2.png)
 
 ##### Level 2
 
-![screenshot](level2.jpg)
+![screenshot](https://raw.githubusercontent.com/dimitrile/Shooter/master/Screenshot_3.png)
 
 #### - [x] Προσθήκη ενός μεγάλου εχθρού στο τέλος του level. Μια ιδέα μπορείτε να πάρετε από [εδώ](http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-5/). Είστε ελεύθεροι να επιλέξετε την εικόνα και τη συμπεριφορά του μεγάλου εχθρού.
 Χρησιμοποιήθηκε διαφορετικό boss στο level 1 και στο level 2. Οι διαφορές στην συμπεριφορά τους είναι ότι στο level 1 το boss εμφανίζεται στο score 10000, ενω στο level 2 στο score 15000. Οι σφαίρες του boss στο level 2 κανουν περισσότερο damage απο του boss στο level 1. Και στις 2 περιπτώσεις αν ο παιχτης ακουμπήσει το boss χάνει αμέσως.
