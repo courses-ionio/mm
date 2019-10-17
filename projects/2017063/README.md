@@ -20,4 +20,4 @@ AM: Π2017063
    
    Για την καταγραφή των εντολών που εκτέλεσα χρησιμοποιήθηκε το asciinema.
 
-  To url που υπάρχει η καταγραφή των εντολών που χρησιμοποίησα (μεσω asciinema) https://asciinema.org/a/lnarimZjJpagFRSFa9YZP98MT
+  To url που υπάρχει η καταγραφή των εντολών που χρησιμοποίησα (μεσω asciinema) https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm
