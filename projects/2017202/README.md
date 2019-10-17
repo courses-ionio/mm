@@ -13,16 +13,5 @@ AM: Π2017202
    Installing youtube-dl
    command line
    
-   <html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/275179.cast" cols="80" rows="24"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
-        
   
   
