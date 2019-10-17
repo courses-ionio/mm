@@ -20,6 +20,9 @@ AM: Π2017063
    
    Για την καταγραφή των εντολών που εκτέλεσα χρησιμοποιήθηκε το asciinema.
 
+<a href="https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm" target="_blank"><img src="https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm.svg" /></a>
+
+
   ### To url που υπάρχει η καταγραφή των εντολών που χρησιμοποίησα (μεσω asciinema) https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm
   
  
