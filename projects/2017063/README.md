@@ -22,6 +22,7 @@ AM: Π2017063
 
   ### To url που υπάρχει η καταγραφή των εντολών που χρησιμοποίησα (μεσω asciinema) https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm
   
+  <script id="asciicast-7IjvEOkmKvq8ey7zjQ3iXwdLm" src="https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm.js" async></script>
  
  
  ##### Δευτερος τρόπος που χρησιμοποίηθηκε για αναζήτηση και κατέβασμα
