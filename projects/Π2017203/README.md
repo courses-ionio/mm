@@ -14,10 +14,10 @@ https://github.com/p17kagk/mm/tree/ergasia/projects/%CE%A02017203
 #### 3) link asciinema
 https://asciinema.org/a/o52oAZbpND5mqpWAZPK18UfYZ
 ##
-## Παραδοτέο 1:
- 
 
-###### Σημ1: 1) 00:00 change bash prompt
+
+###### Σημ1: Comments
+1) 00:00 change bash prompt
 2) 00:27 install youtube-dl from apt-get
 3) 02:26 Uninstall youtube-dl (known error         https://github.com/ytdl-org/youtube-dl/issues/21952)
 4) 02:38 Install python3-pip
