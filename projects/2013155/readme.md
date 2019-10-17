@@ -7,7 +7,7 @@
 ### Νίκος ξαντινίδης
 ### ΑΜ: Π2013155
 
-## εργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
+## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 Για το συγκεκριμένη εργασία χρησιμοποιήθηκε το youtube-dl απο το οποίο μπορείς να κάνεις οποιαδήποτε αναζήτηση στο youtube και να κατεβάσεις το βίντεο ή μόνο τον ήχο σε οποιαδήποτε μορφή.
 
 ```
