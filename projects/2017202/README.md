@@ -8,10 +8,12 @@ AM: Π2017202
 
 
   ## Άσκηση 1 Multimedia
-   ### Βημα 1 - Command Prompt
+   ### Search, Download and Play mp3
    
-   Installing youtube-dl
-   command line
+   <a href="https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF" target="_blank"><img src="https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF.svg" /></a>
+   
+   
+   
    
   
   
