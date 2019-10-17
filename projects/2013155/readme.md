@@ -10,7 +10,7 @@
 ## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 
 #### url asciinema to recorded terminal session: https://asciinema.org/a/l8QPkOrJE5PDd5FDg8RZAjfr4
-Για το συγκεκριμένη εργασία χρησιμοποιήθηκε το youtube-dl απο το οποίο μπορείς να κάνεις οποιαδήποτε αναζήτηση στο youtube και να κατεβάσεις το βίντεο ή μόνο τον ήχο σε οποιαδήποτε μορφή. Επέλεξα ν ακαταβάσω το the show must go on απο Queen.
+Για τη συγκεκριμένη εργασία χρησιμοποιήθηκε το youtube-dl απο το οποίο μπορείς να κάνεις οποιαδήποτε αναζήτηση στο youtube και να κατεβάσεις το βίντεο ή μόνο τον ήχο σε οποιαδήποτε μορφή. Επέλεξα να κατεβάσω το the show must go on απο Queen.
 
 ```
 youtube-dl -x --audio-format mp3 -o choosename.mp3 ytsearch$1:"$search term
