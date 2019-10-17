@@ -11,7 +11,7 @@ AM: Π2017063
    ### download mp3 ( search, download and play (with the terminal) your favorite song of the month from youtube)
    Για την υλοποίηση της εργασίας εγκατέστησα τα εξής:
    
-   mps-youtube&youtube-dl: Τα οποία χρησιμοποίησα για την αναζήτηση και το κατέβασμα του τραγουδιού  (το yputube-dl το εγκαθηστάμε διότι είναι απαραίτητο για την λειτουργία του mps-youtube
+   mps-youtube&youtube-dl: Τα οποία χρησιμοποίησα για την αναζήτηση και το κατέβασμα του τραγουδιού  (το yputube-dl το εγκαθηστάμε διότι είναι απαραίτητο για την λειτουργία του mps-youtube)
    
    mpv: mpv player για να "παίξει" το τραγούδι (σε όλες τις μορφές του) 
   
