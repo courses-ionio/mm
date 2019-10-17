@@ -27,8 +27,6 @@ https://asciinema.org/a/o52oAZbpND5mqpWAZPK18UfYZ
 8) 08:32 Download song using youtube-dl
 9) 08:50 Play song using mpv
 #
-#### Link repository - Final report: https://github.com/p17kagk/Final-Report
-#### Link Final Report: https://p17kagk.github.io/Final-Report/
-#
+
 
 
