@@ -19,3 +19,5 @@ AM: Π2017063
    και μετέτρεψα σε audio.mp3.
    
    Για την καταγραφή των εντολών που εκτέλεσα χρησιμοποιήθηκε το asciinema.
+
+  To url που υπάρχει η καταγραφή των εντολών που χρησιμοποίησα (μεσω asciinema) https://asciinema.org/a/lnarimZjJpagFRSFa9YZP98MT
