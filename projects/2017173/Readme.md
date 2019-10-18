@@ -1,3 +1,24 @@
-https://asciinema.org/a/LoCCByJsPHi4s0razt5NXXwjP
-sudo apt-get install youtube-dl (for Downaload videos from youtube and convert you mp3)
-sudo apt-get install sox (to play music on terminal)
+# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ, ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ 
+## ΜΑΘΗΜΑ Πολυμέσα 
+
+## Στοιχεία φοιτητή  
+### Χαράλαμπος Στυλιανού
+### ΑΜ: Π2017173
+
+### Πρώτο Παραδοτέο : search, download and play (with the terminal) your favorite song of the month from youtube
+### Asciinema URL : https://asciinema.org/a/JhtxwhNAsw1MhHkq6ishe52G7
+
+### Τα προγράμματα που χρειάζονται
+
+```
+sudo apt-get install youtube-dl
+sudo apt-get install sox
+sudo apt-get install ffmpeg
+```
+
+### Οι εντολές που χρησιμοποίησα :
+
+```
+youtube-dl --extract-audio --audio-format mp3 <link of the music you want to download>
+play 'Song name.mp3'
+```
