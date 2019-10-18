@@ -27,7 +27,7 @@ AM: Π2017202
    <a href="https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF" target="_self"><img src="https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF.svg" /></a>
    
    ### MPS-youtube
-  Ένα ακόμα εργαλείο που μπορεί να χρησιμοποιηθεί αντί για το youtube-dl είναι το <a href="https://github.com/mps-youtube/mps-youtube">mps-youtube</a>. </br>
+  Ένα ακόμα εργαλείο που μπορεί να χρησιμοποιηθεί αντί του youtube-dl είναι το <a href="https://github.com/mps-youtube/mps-youtube">mps-youtube</a>. </br>
   Με το εργαλείο αυτό γίνεται αναζήτηση και εμφανίζει λίστα με τα διαθέσιμα προς αναπαραγωγή ή αποθήκευση τραγούδια.</br>
   
   <a href="https://asciinema.org/a/zo5gxZeH9cT3VkpLMAaQhCbuo" target="_blank"><img src="https://asciinema.org/a/zo5gxZeH9cT3VkpLMAaQhCbuo.svg" /></a>
