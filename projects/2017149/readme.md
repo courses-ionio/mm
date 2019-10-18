@@ -24,12 +24,21 @@ sudo apt-get install ffmpeg
 
 ## Οι εντολές που χρησιμοποίησα στο video
 
+...
 youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=HKS6cp5OGMo
+...
+
 Για να κατεβάσω το τραγούδι σε mp3
 
+...
 ls
+...
+
 Για να δω τα αρχεία που είναι στον φάκελο 
 
+...
 play 'Mansion - NF (Lyrics)-ibWdgkv1LSA.mp3'
+...
+
 Για να αρχίσει τα παίζει το τραγούδι με το sox
 
