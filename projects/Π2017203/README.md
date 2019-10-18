@@ -11,7 +11,7 @@
 #### 1) search, download and play (with the terminal) your favorite song of the month from youtube
 #### https://asciinema.org/a/o52oAZbpND5mqpWAZPK18UfYZ
 ###### Σημ1: Comments 
-1) 00:00 change bash prompt
+###### 1) 00:00 change bash prompt
 2) 00:27 install youtube-dl from apt-get
 3) 02:26 Uninstall youtube-dl (known error         https://github.com/ytdl-org/youtube-dl/issues/21952)
 4) 02:38 Install python3-pip
