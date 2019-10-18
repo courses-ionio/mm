@@ -5,7 +5,8 @@
 ### Χαράλαμπος Στυλιανού
 ### ΑΜ: Π2017173
 
-### Πρώτο Παραδοτέο : search, download and play (with the terminal) your favorite song of the month from youtube
+## Πρώτο Παραδοτέο : 
+###  search, download and play (with the terminal) your favorite song of the month from youtube
 ### Asciinema URL : https://asciinema.org/a/JhtxwhNAsw1MhHkq6ishe52G7
 
 ### Τα προγράμματα που χρειάζονται
