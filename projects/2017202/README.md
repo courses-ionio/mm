@@ -8,7 +8,8 @@ AM: Π2017202
 
 
   ## Άσκηση 1 Multimedia
-   ### Search, Download and Play mp3
+   ## Search, Download and Play mp3
+   ### Youtube-dl
    
    Στην πρώτη εργασία σκοπός είναι η εύρεση, αποθήκευση και αναπαραγωγή ενός τραγουδιού.</br>
    Για τον σκοπό αυτό εγκαταστάθηκε το <b>youtube-dl</b> για την εύρεση και την αποθήκευση του τραγουδιού.</br>
@@ -25,6 +26,11 @@ AM: Π2017202
    
    <a href="https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF" target="_self"><img src="https://asciinema.org/a/8haJ9uf622aphIyZLqHqeCIMF.svg" /></a>
    
+   ### MPS-youtube
+  Ένα ακόμα εργαλείο που μπορεί να χρησιμοποιηθεί είναι το <b>mps-youtube</b>. </br>
+  Με το εργαλείο αυτό γίνεται αναζήτηση και εμφανίζει λίστα με τα διαθέσιμα προς αναπαραγωγή ή αποθήκευση τραγούδια.</br>
+  
+  <a href="https://asciinema.org/a/zo5gxZeH9cT3VkpLMAaQhCbuo" target="_blank"><img src="https://asciinema.org/a/zo5gxZeH9cT3VkpLMAaQhCbuo.svg" /></a>
    
    
    
