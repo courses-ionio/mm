@@ -1,8 +1,8 @@
-#Sideras Georgios
+# Sideras Georgios
 
-##AM : P2017164
+## AM : P2017164
 
-##1o Paradoteo 
+## 1o Paradoteo 
 
 Perigrafh : h ergasia pou epeleksa gia to 1o paradoteo htan na psaksw ena tragoudi sto youtube , na to katevasw , na to kanw metatropi se mp3 kai meta na to treksw . 
 
