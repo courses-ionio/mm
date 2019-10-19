@@ -26,7 +26,7 @@ sudo apt-get install ffmpeg
 
 # Για να κατεβάσω το τραγούδι σε mp3
 ```
-youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=HKS6cp5OGMo
+youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=ibWdgkv1LSA
 ```
 # Για να δω τα αρχεία που είναι στον φάκελο 
 ```
