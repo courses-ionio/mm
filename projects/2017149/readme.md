@@ -8,7 +8,7 @@
 
 ## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 
-## asciinema URL: https://asciinema.org/a/YKK6GNcR1kZxiOXB39AiIoBeS?fbclid=IwAR2oWtiO3TAI2xS1Fsrd0A3YBSNuPoFOkGTKnH6uykzpx0VgvNM76sJF71k
+## asciinema URL: https://asciinema.org/a/mMVDOLmCMoKBVljDo4M3YrflA
 
 ## Τα προγράμματα που χρησιμοποίησα:
 
