@@ -35,7 +35,7 @@
 #### λινκ στο αποθετήριο του κώδικα:
 #### https://github.com/p17kagk/mm/
 #### λινκ στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-#### https://github.com/p17kagk/mm/tree/P2017203-Paradoteo-1
+#### https://github.com/p17kagk/mm/tree/P2017203/Paradoteo1
 #### λινκ στο εκτελέσιμο:
 #### https://asciinema.org/a/ksC0dvuglMMKas4oJNTpJq0lO
 #### λινκ σε εξωτερικά αρχεία:
