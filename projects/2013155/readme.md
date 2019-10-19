@@ -7,6 +7,15 @@
 ### Νίκος ξαντινίδης
 ### ΑΜ: Π2013155
 
+## Εργασία περιεχομένου
+### Url βιβλίου μαθήματος https://p13xant.github.io/gr/
+### Url αποθετηρίου κώδικα https://github.com/p13xant/gr
+### Url twitter account https://twitter.com/p13xant
+
+## Παραδοτέο 2A
+Έγιναν δέκα tweets με περιεχόμενο της σελίδας του βιβλίου, τα οποία εκτός απο το url περιέχουν σχόλια, hashtags και εικόνες ή gifs.
+
+
 ## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 
 #### url asciinema to recorded terminal session: https://asciinema.org/a/l8QPkOrJE5PDd5FDg8RZAjfr4
