@@ -3,9 +3,13 @@
 ## First Assignment- Download mp3
 
 Εργαλεία: youtube-dl
+
           mpv player
+          
           ffmpeg(for the convertion)
+          
           asciinema
+          
           terminal in Kali Linux(Virtual Box)
           
           
@@ -25,6 +29,8 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
                                https://ytdl-org.github.io/youtube-dl/index.html
                                https://www.ostechnix.com/hide-modify-usernamelocalhost-part-terminal/
                                Github
+                               
+[Link asciinema](https://asciinema.org/a/Y48NlruYBUNCsIg3OtDeOHyDv)                               
                                
 
 
