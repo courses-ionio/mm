@@ -1,14 +1,14 @@
-# Sideras Georgios
+# Σιδεράς Γεώργιος
 
-## AM : P2017164
+## AM : Π2017164
 
-## 1o Paradoteo 
+## 1o Παραδοτέο
 
-Perigrafh : h ergasia pou epeleksa gia to 1o paradoteo htan na psaksw ena tragoudi sto youtube , na to katevasw , na to kanw metatropi se mp3 kai meta na to treksw . 
+Περιγραφή : Η εργασία που επέλεξα για το 1ο παραδοτέο ήταν να ψάξω στο youtube το αγαπημένο μου τραγούδι , να το κατεβάσω , να το κάνω μετατροπή σε mp3 και μετά να το τρέξω μέσο του terminal.
 
-Link sto Asciinema : https://asciinema.org/a/275668 
+Σύνδεσμος των εντολών στο Asciinema : https://asciinema.org/a/275668 
 
-Ergalia pou xrhsimopoihsa :
+Εργαλεία που χρησιμοποίησα :
 
 *youtube-dl : https://github.com/ytdl-org/youtube-dl
 
