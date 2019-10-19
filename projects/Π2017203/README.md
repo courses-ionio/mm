@@ -11,7 +11,7 @@
 #### 1) search, download and play (with the terminal) your favorite song of the month from youtube
 #
 #### Για την εκπόνηση της άσκησης, ακολουθήσαμε τα εξής βήματα:
-##### α) Εγκατάσταση του S/W 'asciinema', ώστε να γίνει καταγραφή του terminal.
+##### α) Εγκατάσταση του S/W 'asciinema', ώστε να γίνει καταγραφή του terminal (χρήση flag -i=1 για την αποφυγή καταγραφής κενών διαστημάτων).
 ##### β) Αλλαγή του bash prompt, ώστε να δείχνει τον Α.Μ. μας.
 ##### γ) Εγκατάσταση του S/W 'youtube-dl' ώστε να κάνουμε download το επιθυμητό link με την χρήση terminal. Η εγκατάσταση του πακέτου έγινε απο python repository αντί του Ubuntu server, λόγω γνωστού προβλήματος στην έκδοση του Ubuntu Server (https://github.com/ytdl-org/youtube-dl/issues/21952). 
 ##### δ) Εγκατάσταση του πακέτου 'avconvert tool', ώστε να μετατρέψουμε το αρχείο που κατεβάσαμε σε μορφή .mp3.
