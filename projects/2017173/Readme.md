@@ -39,11 +39,19 @@ $(youtube-dl -g --cookies /tmp/cookie.txt "video link you want to stream")
 Το -g είναι για να μην κατεβάσει το βίντεο αλλά απλά να μας δώσει το link.
 Το path /tmp/cookie.txt πρέπει να είναι το ίδιο και στα δύο. 
 
-##  Παραδοτέο :
-### 
-### Asciinema URL :
+## Τρίτο Παραδοτέο :
+### download a torrent
+### Asciinema URL : https://asciinema.org/a/glt3cwe9kjMnOCQ4q5chESmsJ
+
+```
+sudo apt-get install rtorrent
+```
+```
+rtorrent
+```
 
 
-##  Παραδοτέο :
+
+## Τέταρτο Παραδοτέο :
 ### 
 ### Asciinema URL :
