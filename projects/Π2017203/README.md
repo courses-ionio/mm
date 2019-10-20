@@ -38,10 +38,10 @@
 #### link στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
 #### https://github.com/p17kagk/mm/tree/P2017203
 #### link στο εκτελέσιμο:
-#### https://github.com/p17kagk/mm/blob/P2017203/projects/%CE%A02017203/README.md
-#### link σε εξωτερικά αρχεία:
-#### https://asciinema.org/a/275789
+#### 
 
+#### link σε εξωτερικά αρχεία:
+#### 
 
 
 
