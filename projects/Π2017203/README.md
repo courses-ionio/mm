@@ -34,13 +34,14 @@
 #### https://asciinema.org/a/275789
 #
 #### λινκ στο αποθετήριο του κώδικα:
-#### 
+#### https://github.com/p17kagk/mm/tree/master
 #### λινκ στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-#### 
+#### https://github.com/p17kagk/mm/tree/P2017203
 #### λινκ στο εκτελέσιμο:
-#### 
+#### https://github.com/p17kagk/mm/blob/P2017203/projects/%CE%A02017203/README.md
 #### λινκ σε εξωτερικά αρχεία:
-#### https://www.youtube.com/watch?v=mmCnQDUSO4I
+#### https://asciinema.org/a/275789
+
 
 
 
