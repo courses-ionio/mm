@@ -1,15 +1,18 @@
 # Όνομα μαθήματος : ΠΟΛΥΜΕΣΑ - MULTIMEDIA
 ## Όνομα : Αντωνία Σμυρλιάδη
 ## Αριθμός Μητρώου: Π2017130
+## Link αποθετηρίου: https://github.com/p17smyr/mm/blob/P2017130/projects/2017130/README.md
 
-
- # Όνομα εργασίας : download mp3 - search, download and play (with the terminal) your favorite song of the month from youtube
+# Όνομα εργασίας - 1ο παραδοτέο : download mp3
  ### Link καταγραφής : https://asciinema.org/a/Q3aTLAgtR7LVRpCqUpH53LSmk
- ### Link αποθετηρίου: https://github.com/p17smyr/mm/blob/P2017130/projects/2017130/README.md
 
-Η εργασίες πραγματοποιήθηκαν σε λειτουργικό σύστημα Ubuntu.
+ ### Link αρχείου Youtube: https://www.youtube.com/watch?v=Zdh2hot8rjU
 
-Για τις ανάγκες της εργασίας έγιναν ο παρακάτω εγκαταστάσεις και εκτελέστηκαν μέσω terminal τα:
+Ζητούμενα: search, download and play (with the terminal) your favorite song of the month from youtube
+
+Οι εργασίες πραγματοποιήθηκαν σε λειτουργικό σύστημα Ubuntu.
+
+Για τις ανάγκες της εργασίας έγιναν οι παρακάτω εγκαταστάσεις και εκτελέστηκαν μέσω terminal τα:
 
 Asciinema μέσω της εντολής: sudo apt-get install asciinema
 
