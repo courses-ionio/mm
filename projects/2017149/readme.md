@@ -36,3 +36,31 @@ ls
 ```
 play 'Mansion - NF (Lyrics)-ibWdgkv1LSA.mp3'
 ```
+
+## Eργασία 2 youtube video streaming
+
+## asciinema URL: https://asciinema.org/a/kGiAi4uDb2d9bY8I3DGwHrG1o
+
+## Τα προγράμματα που χρησιμοποίησα:
+
+# MPlayer
+Οι εντολές που χρησιμοποίησα για να κάνω το install το MPlayer:
+```
+sudo add-apt-repository universe
+```
+```
+sudo apt update
+```
+```
+sudo apt install mplayer mplayer-gui
+```
+
+Για να ξεκινήσει το video να κάνει streaming:
+```
+mplayer -fs -cookies -cookies -cookies-file /tmp/videos.txt $(youtube-dl -g --cookies /tmp/videos.txt "https://www.youtube.com/watch?v=m_qlgFQs7E4")
+```
+Το -fs είναι για να παίξει το video σε full screen
+Το 1ο cookies είναι για να δείξω στο mplayer ότι θέλω να χρησιμοποιήσει cookies  
+Το 2ο cookies είναι για να δείξω το path του cookies αρχείου 
+Tο -g είναι για να μην κατεβάσει το video 
+Το --cookies /tmp/videos.txt ειναι το path και μετά το Youtube Link
