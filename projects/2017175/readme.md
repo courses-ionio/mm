@@ -19,5 +19,6 @@
   
 ## Εργασία 2: Youtube video streaming 
 
-### url asciinema: https://asciinema.org/a/Dr9CCFucgpvq1h6vzF47FodDw
-# Εντολή : mplayer -fs -cookies -cookies -cookies-file /tmp/christos.txt $(youtube-dl -g --cookies /tmp/christos.txt " link apo youtube ")
+### url asciinema: https://asciinema.org/a/4bhBBEJo5OqxWuX3uel1pFGek
+# Εντολή : mplayer -fs -cookies -cookies -cookies-file /tmp/cookies.txt $(youtube-dl -g --cookies /tmp/cookies.txt " link apo youtube ")
+
