@@ -30,3 +30,5 @@ mplayer μέσω της εντολής: sudo apt-get install mplayer
 Mpv player μέσω της εντολής: sudo apt-get install mpv για την αναπαραγωγή του αρχείου έξω από το πρόγραμμα 
 Mps-youtube
 
+  <a href="https://asciinema.org/a/Q3aTLAgtR7LVRpCqUpH53LSmk" target="_blank"><img src="https://asciinema.org/a/Q3aTLAgtR7LVRpCqUpH53LSmk.svg" /></a>
+
