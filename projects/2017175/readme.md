@@ -20,5 +20,5 @@
 ## Εργασία 2: Youtube video streaming 
 
 ### url asciinema: https://asciinema.org/a/4bhBBEJo5OqxWuX3uel1pFGek
-# Εντολή : mplayer -fs -cookies -cookies -cookies-file /tmp/cookies.txt $(youtube-dl -g --cookies /tmp/cookies.txt " link apo youtube ")
-
+## Εντολή : mplayer -fs -cookies -cookies -cookies-file /tmp/cookies.txt $(youtube-dl -g --cookies /tmp/cookies.txt " link apo youtube ")
+# Με το -fs μπορούμε να βλέπουμε το video μας σε πλήρης εικόνα. Το -g είναι για να μην αποθηκευτεί το video και απλά να πάρουμε ένα link
