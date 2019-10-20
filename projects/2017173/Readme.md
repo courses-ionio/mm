@@ -59,4 +59,25 @@ rtorrent
 
 ## Τέταρτο Παραδοτέο :
 ### demonstrate album art and visualizations with an mp3 player and various songs
-### Asciinema URL :https://asciinema.org/a/NFhmJ5TYmL44RavqELDUrYogI
+### Asciinema URL :https://asciinema.org/a/NFhmJ5TYmL44RavqELDUrYogI\
+Tο cmus μας βοηθά στη δημιουργία album τραγουδιών και να κάνουμε δικά μας playlists.
+Είναι χωρισμένο σε 7 views : 
+1 - Library
+2 - Sorted library
+3 - Playlist
+4 - Play Queue
+5 - Browser
+6 - Filters
+7 - Settings
+Αλλάζεις το view σου πιέζοντας τους αριθμούς που βρίσκονται δίπλα από το όνομα του συγκεκριμένου view.Υπάρχουν και keybindings που μας βοήθα να κερδίζουμε χρόνο και επίσης μπορείς να αλλάξεις τα keybindings όπως σε βολεύει.
+Με τη χρήση του :add κανείς προσθήκη τα τραγούδια που βρίσκονται σε εκείνο το αρχείο.
+```
+:add ~/Music
+```
+Μετά με τη χρήση κάποιων keybindings επεξεργαζόμαστε τη σειρά του playlists που έχουμε κάνει.
+```
+e = add to queue
+a = add to playlist
+p = move down the song in playlist or queue
+P = move up the song in playlist or queue
+```
