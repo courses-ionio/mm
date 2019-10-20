@@ -9,12 +9,12 @@
 
 ### Asciinema URL: 
 
-### Χρησημοποίησα τα εξής προγράμματα:
-## sudo apt-get install youtube-dl
-## sudo apt-get install sox
-## sudo apt-get install ffmpeg
+## Χρησημοποίησα τα εξής προγράμματα:
+### sudo apt-get install youtube-dl
+### sudo apt-get install sox
+### sudo apt-get install ffmpeg
 
-### Οι εντολές που χρησιμοποίησα:
-## youtube-dl -x --audio-format mp3 + link του βίντεο
-## ls
-## play + όνομα αρχείου mp3
+## Οι εντολές που χρησιμοποίησα:
+### youtube-dl -x --audio-format mp3 + link του βίντεο
+### ls
+### play + όνομα αρχείου mp3
