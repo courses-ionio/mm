@@ -4,8 +4,8 @@
 
 
  # Όνομα εργασίας : download mp3 - search, download and play (with the terminal) your favorite song of the month from youtube
- ### Eκτελέσιμο link :
- ### Link αποθετηρίου:
+ ### Link καταγραφής : https://asciinema.org/a/aqwL5ptmyJgxyLPrlxddMEGGI
+ ### Link αποθετηρίου: https://github.com/p17smyr/mm/P2017130/projects/2017130/README.md
 
 Η εργασίες πραγματοποιήθηκαν σε λειτουργικό σύστημα Ubuntu.
 
