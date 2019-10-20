@@ -17,4 +17,7 @@
  
  # Στο Video που έκανα αρχικά κατέβασα το τραγούδι σε mp3 μορφή μετά το βλέπουμε που κάνει download , αργότερα με το ls μου δείχνει όλα τα τραγούδια που είναι κατεβασμένα στον φάκελο μου. Στην συνέχεια με την εντολή play και το όνομα του αρχείου αρχίζει να παίζει ο ήχος.  
   
+## Εργασία 2 youtube video streaming 
 
+### url asciinema: https://asciinema.org/a/Dr9CCFucgpvq1h6vzF47FodDw
+# Εντολή : mplayer -fs -cookies -cookies -cookies-file /tmp/christos.txt $(youtube-dl -g --cookies /tmp/christos.txt " link apo youtube ")
