@@ -5,7 +5,7 @@
 ### Στοιχεία φοιτητή : Χρίστος Δημοσθένους
 ## ΑΜ: Π2017175 
 
-## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
+## Eργασία 1: Search, download and play (with the terminal) your favorite song of the month from youtube
 
 ### url asciinema: https://asciinema.org/a/ltN3WDWJ7uZiaUI6nzYrlocSU
  Για να το κάνω αυτό έχω χρησιμοποιήση το youtube-dl όπου κάνουμε αναζήτηση στο youtube και μπορέις να κατεβάσεις το video σε mp3 μορφή.
@@ -17,7 +17,7 @@
  
  # Στο Video που έκανα αρχικά κατέβασα το τραγούδι σε mp3 μορφή μετά το βλέπουμε που κάνει download , αργότερα με το ls μου δείχνει όλα τα τραγούδια που είναι κατεβασμένα στον φάκελο μου. Στην συνέχεια με την εντολή play και το όνομα του αρχείου αρχίζει να παίζει ο ήχος.  
   
-## Εργασία 2 youtube video streaming 
+## Εργασία 2: Youtube video streaming 
 
 ### url asciinema: https://asciinema.org/a/Dr9CCFucgpvq1h6vzF47FodDw
 # Εντολή : mplayer -fs -cookies -cookies -cookies-file /tmp/christos.txt $(youtube-dl -g --cookies /tmp/christos.txt " link apo youtube ")
