@@ -58,5 +58,5 @@ rtorrent
 
 
 ## Τέταρτο Παραδοτέο :
-### 
-### Asciinema URL :
+### demonstrate album art and visualizations with an mp3 player and various songs
+### Asciinema URL :https://asciinema.org/a/NFhmJ5TYmL44RavqELDUrYogI
