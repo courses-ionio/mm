@@ -7,7 +7,7 @@
 
 ### Εργασία 1: Search, download and play (with the terminal) your favorite song of the month from youtube
 
-### Asciinema URL: 
+### Asciinema URL: https://asciinema.org/a/F1tLxlPFOJC2VY5uwtj6sj18K
 
 ## Χρησημοποίησα τα εξής προγράμματα:
 ### sudo apt-get install youtube-dl
