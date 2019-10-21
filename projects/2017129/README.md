@@ -11,7 +11,7 @@
 Χρήση **MPS-youtube**, εργαλείο τερματικού, το οποίο χρησιμοποιεί το youtube σαν πηγή περιεχομένου και μπορεί να κάνει αναζήτηση, αναπαραγωγή και κατέβασμα τραγουδιών.
  
  
-Βήματα εγκατάστασης:
+Βήματα εγκατάστασης MPS-youtube:
 1. αναβάθμιση του συστήματος :
  sudo apt-get update 
 
@@ -22,7 +22,9 @@
 
 3. εγκατάσταση του πακέτου MPlayer :
  sudo apt-get install mplayer -y
-
+ 
+ 
+Χρήση **mpv-player**, εργαλείο τερματικού, media player υποστηρίζει μεγάλη ποικιλία από video file formats, audio και video codecs και subtitle types.
 
 
 https://asciinema.org/a/F65cDnPIWmERD5BYX1gk3Lc27
