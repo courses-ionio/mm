@@ -12,15 +12,15 @@
  
  
 Βήματα εγκατάστασης:
-1. αναβάθμιση του συστήματος
+1. αναβάθμιση του συστήματος :
  sudo apt-get update 
 
 
-2. εγκατάσταση του πακέτου MPS-youtube 
+2. εγκατάσταση του πακέτου MPS-youtube :
  sudo apt-get install MPS-youtube -y
 
 
-3. εγκατάσταση του πακέτου MPlayer 
+3. εγκατάσταση του πακέτου MPlayer :
  sudo apt-get install mplayer -y
 
 
