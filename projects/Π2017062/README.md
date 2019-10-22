@@ -18,8 +18,8 @@
        - sudo apt-get install asciinema
    2) Λήψη του MPS-youtube το οποίο αναπαράγει, ψάχνει και κατεβάζει βίντεο καθώς και ηχητικά κλιπ από το YouTube. Για την ορθή λειτουργία του χρειάζονται τα εξής βήματα:
        - sudo apt-get update ,ώστε να αναβαθμίσουμε το target system
-       - Εγκατάσταση του ίδιου του πακέτου MPS-youtube με την εντολή 
-       - Εγκατάσταση του πακέτου Mplayer (πάνω στο οποίο βασίστηκε το mpv) με την εντολή sudo apt-get mplayer
+       - Εγκατάσταση του ίδιου του πακέτου MPS-youtube με την εντολή: sudo apt-get install mps-youtube
+       - Εγκατάσταση του πακέτου Mplayer (πάνω στο οποίο βασίστηκε το mpv) με την εντολή: sudo apt-get mplayer
  Για την ορθή λειτουργία του πακέτου αυτού είναι απαραίτητο να προσθέσουμε το ~/.local/bin στο PATH.
    3) Λήψη του εργαλείου ffmpeg για την μετατροπή των βίντεο απο m4a σε mp3.
        - sudo apt-get install ffmpeg
