@@ -27,4 +27,4 @@
 Χρήση **mpv-player**, εργαλείο τερματικού, media player υποστηρίζει μεγάλη ποικιλία από video file formats, audio και video codecs και subtitle types.
 
 
-https://asciinema.org/a/F65cDnPIWmERD5BYX1gk3Lc27
+https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm
