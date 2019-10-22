@@ -3,6 +3,7 @@
 ### Α.Μ.: Π2017129
 
 
+
 ## ΑΣΚΗΣΗ 1
 **Download mp3**
 
@@ -30,5 +31,5 @@
 
 Εγκατάσταση και χρήση **mpv-player**, media player που υποστηρίζει μεγάλη ποικιλία από video file formats, audio και video codecs και subtitle types, για την αναπαραγωγή του τραγουδιού.
 
-
+η διαδικασία search, download και play με καταγραφή από το asciinema
 https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm
