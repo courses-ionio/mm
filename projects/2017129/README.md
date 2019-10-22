@@ -23,8 +23,12 @@
 3. εγκατάσταση του πακέτου MPlayer :
  sudo apt-get install mplayer -y
  
+ & προσθήκη του φακέλου εγκατάστασης (/home/p2017129/.local/bin) στο PATH.
  
-Χρήση **mpv-player**, εργαλείο τερματικού, media player υποστηρίζει μεγάλη ποικιλία από video file formats, audio και video codecs και subtitle types.
+Εγκατάσταση **ffmpeg**  για μετατροπή τραγουδιών σε μορφή .mp3 .
+
+
+Εγκατάσταση και χρήση **mpv-player**, media player που υποστηρίζει μεγάλη ποικιλία από video file formats, audio και video codecs και subtitle types, για την αναπαραγωγή του τραγουδιού.
 
 
 https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm
