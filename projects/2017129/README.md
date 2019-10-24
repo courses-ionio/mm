@@ -33,3 +33,10 @@
 
 η διαδικασία search, download και play με καταγραφή από το asciinema
 https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm
+
+
+
+
+//w3w ,ddg
+//youtube-dl
+
