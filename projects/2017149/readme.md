@@ -79,3 +79,31 @@ mplayer -fs -cookies -cookies -cookies-file /tmp/videos.txt $(youtube-dl -g --co
 Tο -g είναι για να μην κατεβάσει το video 
 
 Το --cookies /tmp/videos.txt ειναι το path και μετά το Youtube Link
+
+
+
+## Eργασία 3 read an ebook
+
+## asciinema URL: https://asciinema.org/a/LJWRLaMEHuEJI3HkFuYFMCUaI
+
+## Τα προγράμματα που χρησιμοποίησα:
+
+# w3m
+```
+sudo apt-get install w3m w3m-img
+```
+Οι εντολές που χρησιμοποίησα για κάνω να search το ebook:
+
+Χρησιμοποίησα το w3m για να μπω στο google
+```
+w3m www.google.com
+```
+Μετά έγραψα στο search: harry potter ebook online
+και πάτησα Αναζήτηση
+
+Μέτα βρήκα το Link για το ebook και μπήκα στο site με την εντολή Go Link.
+
+Άνοιξα πρώτη και δεύτερη σελίδα οταν μου άνηξε την σελίδα του βιβλίου, μετά πάτησα Q για να βγω από το w3m.
+
+
+
