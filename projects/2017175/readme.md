@@ -7,7 +7,8 @@
 
 ## Eργασία 1: Search, download and play (with the terminal) your favorite song of the month from youtube
 
-### url asciinema: https://asciinema.org/a/ltN3WDWJ7uZiaUI6nzYrlocSU
+### url asciinema: https://asciinema.org/a/lo2lwpvwE9HCEVAfrr15DaiVo
+ 
  Για να το κάνω αυτό έχω χρησιμοποιήση το youtube-dl όπου κάνουμε αναζήτηση στο youtube και μπορέις να κατεβάσεις το video σε mp3 μορφή.
 ## youtube-dl -x --audio-format mp3 + link απο το youtube
  Στην ουσία με το παραπάνω επιλέγουμε να το κατεβάσουμε σε μορφή mp3 δηλαδή μόνο ήχο
