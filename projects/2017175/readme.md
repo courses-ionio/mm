@@ -8,15 +8,15 @@
 ## Eργασία 1: Search, download and play (with the terminal) your favorite song of the month from youtube
 
 ### url asciinema: https://asciinema.org/a/lo2lwpvwE9HCEVAfrr15DaiVo
- 
- Για να το κάνω αυτό έχω χρησιμοποιήση το youtube-dl όπου κάνουμε αναζήτηση στο youtube και μπορέις να κατεβάσεις το video σε mp3 μορφή.
-## youtube-dl -x --audio-format mp3 + link απο το youtube
+ Χρησιμοποίησα το ddgr για να κάνει αναζήτηση στο τραγούδι που ήθελα. 
+
+## youtube-dl -x --audio-format mp3 + link 
  Στην ουσία με το παραπάνω επιλέγουμε να το κατεβάσουμε σε μορφή mp3 δηλαδή μόνο ήχο
  
  ## sudo apt-get install sox
  ## sudo apt-get install ffmpeg
  
- # Στο Video που έκανα αρχικά κατέβασα το τραγούδι σε mp3 μορφή μετά το βλέπουμε που κάνει download , αργότερα με το ls μου δείχνει όλα τα τραγούδια που είναι κατεβασμένα στον φάκελο μου. Στην συνέχεια με την εντολή play και το όνομα του αρχείου αρχίζει να παίζει ο ήχος.  
+ # Στο Video που έκανα αρχικά χρησιμοποιήσα την μηχανή αναζήτησης ddgr έγραψα το τραγούδι που ήθελα και έκανα αναζήτηση. Πάτησα το x και ξανά έβαλα το όνομα του τραγουδιού για να μου εμφανίσει το link και μετά με την επόμενη εντολή άρχισε να το παίζει σε mp3
   
 ## Εργασία 2: Youtube video streaming 
 
