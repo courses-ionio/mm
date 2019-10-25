@@ -8,9 +8,12 @@
 
 ## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 
-## asciinema URL: https://asciinema.org/a/mMVDOLmCMoKBVljDo4M3YrflA
+## asciinema URL: https://asciinema.org/a/ZgBQl4utA0KkTOVIlWQJIzZwl
 
 ## Τα προγράμματα που χρησιμοποίησα:
+
+# ddgr
+sudo apt-get install ddgr
 
 # youtube-dl
 sudo apt-get install youtube-dl
@@ -22,11 +25,19 @@ sudo apt-get install sox
 sudo apt-get install ffmpeg
 
 
-## Οι εντολές που χρησιμοποίησα στο video
+## Οι εντολές που χρησιμοποίησα στο video:
+
+# Για να κάνω search το Link από τον browser 
+```
+ddgr
+nf mansion youtube
+x
+nf mansion youtube
+```
 
 # Για να κατεβάσω το τραγούδι σε mp3
 ```
-youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=ibWdgkv1LSA
+youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=XBp88RoxSPY
 ```
 # Για να δω τα αρχεία που είναι στον φάκελο 
 ```
@@ -34,7 +45,7 @@ ls
 ```
 # Για τα αρχίσει τα παίζει το τραγούδι με το sox
 ```
-play 'Mansion - NF (Lyrics)-ibWdgkv1LSA.mp3'
+play 'NF - Mansion-XBp88RoxSPY.mp3'
 ```
 
 ## Eργασία 2 youtube video streaming
