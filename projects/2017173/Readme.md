@@ -7,14 +7,14 @@
 
 ## Πρώτο Παραδοτέο : 
 ###  search, download and play (with the terminal) your favorite song of the month from youtube
-### Asciinema URL : https://asciinema.org/a/JhtxwhNAsw1MhHkq6ishe52G7
-
+### Asciinema URL : https://asciinema.org/a/WpyFWm3eNmY5rSkdvfjgvqMKJ
 ### Τα προγράμματα που χρειάζονται
 
 ```
 sudo apt-get install youtube-dl
 sudo apt-get install sox
 sudo apt-get install ffmpeg
+sudo apt-get install ddgr
 ```
 
 ### Οι εντολές που χρησιμοποίησα :
@@ -59,7 +59,7 @@ rtorrent
 
 ## Τέταρτο Παραδοτέο :
 ### demonstrate album art and visualizations with an mp3 player and various songs
-### Asciinema URL :https://asciinema.org/a/NFhmJ5TYmL44RavqELDUrYogI\
+### Asciinema URL :https://asciinema.org/a/NFhmJ5TYmL44RavqELDUrYogI
 
 Tο cmus μας βοηθά στη δημιουργία album τραγουδιών και να κάνουμε δικά μας playlists.
 Είναι χωρισμένο σε 7 views :
