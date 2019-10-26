@@ -3,6 +3,7 @@
 ### Α.Μ.: Π2017129
 
 
+# ΑΣΚΗΣΕΙΣ
 
 ## ΑΣΚΗΣΗ 1
 **Download mp3**
@@ -36,7 +37,8 @@ https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm
 
 
 
+# Συμμετοχικό περιεχόμενο
 
-//w3w ,ddg
-//youtube-dl
+## Α
+
 
