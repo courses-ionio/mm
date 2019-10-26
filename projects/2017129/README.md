@@ -36,6 +36,10 @@
 https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm
 
 
+2ος τρόπος , με αναζήτηση του τραγουδιού από την μηχανή αναζήτησης DuckDuckGo (ddgr) και download απευθείας σε μορφή .mp3 .
+https://asciinema.org/a/noN5geRkpXvZ2l2SZSKs0brCT
+
+
 
 
 
