@@ -5,7 +5,7 @@
 
 # ΑΣΚΗΣΕΙΣ
 
-## ΑΣΚΗΣΗ 1
+* ## ΑΣΚΗΣΗ 1
 **Download mp3**
 
 *Deliverables: search, download and play (with the terminal) your favorite song of the month from youtube*
@@ -39,6 +39,9 @@ https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm
 
 # Συμμετοχικό περιεχόμενο
 
-## Α
+https://twitter.com/Christiana_Kr
+
+* ## Α
+https://twitter.com/Christiana_Kr/status/1188167798184468492
 
 
