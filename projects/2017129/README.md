@@ -3,8 +3,9 @@
 ### Α.Μ.: Π2017129
 
 
+# ΑΣΚΗΣΕΙΣ
 
-## ΑΣΚΗΣΗ 1
+* ## ΑΣΚΗΣΗ 1
 **Download mp3**
 
 *Deliverables: search, download and play (with the terminal) your favorite song of the month from youtube*
@@ -33,3 +34,20 @@
 
 η διαδικασία search, download και play με καταγραφή από το asciinema
 https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm
+
+
+2ος τρόπος , με αναζήτηση του τραγουδιού από την μηχανή αναζήτησης DuckDuckGo (ddgr) και download απευθείας σε μορφή .mp3 .
+https://asciinema.org/a/noN5geRkpXvZ2l2SZSKs0brCT
+
+
+
+
+
+# Συμμετοχικό περιεχόμενο
+
+https://twitter.com/Christiana_Kr
+
+* ## Α
+https://twitter.com/Christiana_Kr/status/1188167798184468492
+
+
