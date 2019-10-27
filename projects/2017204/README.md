@@ -95,12 +95,17 @@ sudo apt-get install rtorrent
 https://gist.github.com/bryanjswift/1525912
 ```            
 
-### Στο επόμενο βήμα δημιούργησα 3 φακέλους rDownloads, rSessions και rWatch στο /home/christos/. Μετά άλλαξα τον φάκελο αποθήκευσης μέσα στο αρχείο .rtorrent.rc τον φάκελο αποθήκευσης απο unsorted σε /home/christos/Downloads.
-
-
+### Στο επόμενο βήμα δημιούργησα 3 φακέλους rDownloads, rSessions και rWatch στο /home/christos/. Μετά άλλαξα τον φάκελο αποθήκευσης μέσα στο αρχείο .rtorrent.rc τον φάκελο αποθήκευσης απο unsorted σε /home/christos/Downloads. 
 
 ## Asciinema URL: https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi
 
+### Κάποια βασικά keybindings είναι:
+
+```
+Ctrl+S = κατεβάζει το torrent
+Ctrl+D = σταματάει το torrent
+Ctrl+D(2) = διαγράφει το torrent
+```   
 
 ---
 
@@ -110,7 +115,6 @@ https://gist.github.com/bryanjswift/1525912
 ## install cmus
 ```
 sudo apt-get install cmus
-
 ```                       
 ### Η χρήση του cmus δίνει τη δυνατότητα στον χρήστη να διαχειριστεί πλήθος αρχείων mp3, να τα ταξινομήσει με βάση τα album και δημιουργήσει playlists της επιλογής του. Η εμφάνιση είναι απλή και είναι χωρισμένο σε 7 διαφορετικές εμφανίσεις (views) όπου η κάθε εμφάνιση επιλέγεται με βάση έναν αριθμό από το 1-7:
 
@@ -126,7 +130,6 @@ sudo apt-get install cmus
 ## Εισαγωγή mp3 στο cmus:
 ```
 :add ~/Music
-
 ```           
 
 ## Asciinema URL: https://asciinema.org/a/rk8NkeNtKJ8s3HKKkeRyCxEv3
@@ -140,7 +143,6 @@ c = pause
 v = stop
 z = previous song
 b = next song
-
 ```           
 
 
