@@ -33,17 +33,17 @@
   #### 2ος Τρόπος 
   
    1) Εγκαθιστούμε τη μηχανη αναζήτησης DuckDuckGo στο τερματικό μας και στην συνέχεια πληκτρολογούμε το όνομα του τραγουδιού που θέλουμε στην συνέχεια να κατεβάσουμε.
-       - sudo add-apt-repository ppa:twodopeshaggy/jarun
-       - sudo apt-get update
-       - sudo apt-get install ddgr
-       - ddgr name_of_the_song
+        - sudo add-apt-repository ppa:twodopeshaggy/jarun
+        - sudo apt-get update
+        - sudo apt-get install ddgr
+        - ddgr name_of_the_song
    2) Αντιγράφουμε το link που μας ενδιαφέρει με την εντολή c number_of_link.
    3)Εγκαθιστούμε και χρησιμοποιούμε την τερματική εφαρμογή youtube-dl ώστε να κατεβάσουμε το τραγούδι που επιλέξαμε σε μορφή mp3.
-       - sudo apt-get youtube-dl
-       - youtube-dl --extract-audio --audio-format mp3 link_of_choice
+        - sudo apt-get youtube-dl
+        - youtube-dl --extract-audio --audio-format mp3 link_of_choice
    4) Με την εφαρμογή mpv ακούμε το τραγούδι που μόλις κατεβάσαμε.
    
-   #### Αναλυτικά τα βήματα παρουσιάζονται στο link: https://asciinema.org/a/kveqsjaNXUzlm3dQoNJKcSve6
+   ##### Αναλυτικά τα βήματα παρουσιάζονται στο link: https://asciinema.org/a/kveqsjaNXUzlm3dQoNJKcSve6
    
      
  
