@@ -46,10 +46,11 @@
 #### https://asciinema.org/a/277131 (still private)
 #
 #### link στο αποθετήριο του κώδικα:
-#### 
+#### https://github.com/p17kagk/mm/tree/master
 #### link στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-#### 
+#### https://github.com/p17kagk/mm/tree/P2017203
 #### link στο εκτελέσιμο:
+##### https://asciinema.org/a/277131
 
 
 
