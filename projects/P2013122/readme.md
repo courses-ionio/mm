@@ -6,7 +6,7 @@
 ###### sudo apt-get install asciinema
 ##### β) Τροποποίηση του .bashrc, ώστε το bash prompt να δείχνει τον Α.Μ. μας.
 ###### vi .bashrc
-##### γ) Εγκατάσταση  'terminaltables' packet απο πακέτο pip3. Χρειάζεται για την σωστή εκτέλεση του παρακάτω script.
+##### γ) Εγκατάσταση  'terminaltables' packet απο πακέτο pip3. Χρειάζεται για την σωστή αποκεικόνιση των αποτελεσμάτων του παρακάτω script.
 ###### pip3 install terminaltables
 ##### δ) Δημιουργία python script με όνομα 'torrent_search', που θα εκτελείται απο κονσόλα, κάνει αναζήτηση σε torrent server και θα επιστρέφει τα αποτελέσματα στο τερματικό. Ο κώδικας προέρχεται απο αναζήτηση στον διαδίκτυο.
 ###### vi torrent_search 
