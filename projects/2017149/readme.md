@@ -8,7 +8,7 @@
 
 ## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 
-## asciinema URL: https://asciinema.org/a/ZgBQl4utA0KkTOVIlWQJIzZwl
+## asciinema URL: https://asciinema.org/a/276971
 
 ## Τα προγράμματα που χρησιμοποίησα:
 
@@ -50,7 +50,7 @@ play 'NF - Mansion-XBp88RoxSPY.mp3'
 
 ## Eργασία 2 youtube video streaming
 
-## asciinema URL: https://asciinema.org/a/kGiAi4uDb2d9bY8I3DGwHrG1o
+## asciinema URL: https://asciinema.org/a/277787
 
 ## Τα προγράμματα που χρησιμοποίησα:
 
@@ -84,7 +84,7 @@ Tο -g είναι για να μην κατεβάσει το video
 
 ## Eργασία 3 read an ebook
 
-## asciinema URL: https://asciinema.org/a/LJWRLaMEHuEJI3HkFuYFMCUaI
+## asciinema URL: https://asciinema.org/a/276978
 
 ## Τα προγράμματα που χρησιμοποίησα:
 
