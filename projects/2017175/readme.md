@@ -7,7 +7,7 @@
 
 ## Eργασία 1: Search, download and play (with the terminal) your favorite song of the month from youtube
 
-### url asciinema: https://asciinema.org/a/lo2lwpvwE9HCEVAfrr15DaiVo
+### url asciinema: https://asciinema.org/a/277023
  Χρησιμοποίησα το ddgr για να κάνει αναζήτηση στο τραγούδι που ήθελα. 
 
 ## youtube-dl -x --audio-format mp3 + link 
