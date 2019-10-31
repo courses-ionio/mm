@@ -22,10 +22,20 @@
 
 ## 2o Παραδοτέο
 
-perigrafh : https://www.youtube.com/watch?v=SoJj3w8vhrE
+Περιγραφή : Η εργασία που επέλεξα για το 2ο παραδοτέο ηταν το stream ενος βίντεο απο το youtube μέσω του terminal. Προβληματίστηκα λίγο απο την εκφώνηση γιατί δεν κατάλαβα αν έπρεπε το βίντεο να το τρέχει με κάποιο τρόπο ο termnial ή να το ανοίξει με άλλο πρόγραμμα για αυτό το έκανα και με τους δύο τρόπους. Τα προγράμματα που χρησιμοποίησα ήταν κυρίως το mplayer και το youtube-dl. Πιο αναλυτικά , έδωσα εντολή στο mplayer να τρέξει ένα βίντεο και να χρησιμοποιήσει τα cookies που ηταν στο αρχείο cookies.txt, διότι το youtube μερικές φορές δεν επιτρέπει την προβολή των βίντεο του , σε αλλες υπηρεσίες. Έπειτα με το youtube-dl κατέβασα τα cookies στο αρχείο cookies.txt και τον πλήρη σύνδεσμο για να βρεί το mplayer το βιντεάκι και έτσι ξεκίνησε η αναπαραγωγή του . Με το δεύτερο τρόπο έκανα την ίδια διαδικασία μόνο που εγκατέστησα την libcaca και με αυτή την βιβλιοθήκη ανάγκασα τους display drivers να τρέξουν με ncourses και έτσι το βιντέο απο το youtube έτρεχε μέσα στον terminal. 
 
-link a : https://asciinema.org/a/278144
-link b : https://asciinema.org/a/278147
+Σύνδεσμος Α των εντολών στο Asciinema : https://asciinema.org/a/278144
 
-ergalia 
+Σύνδεσμος Β των εντολών στο Asciinema : https://asciinema.org/a/278147
+
+Εργαλεία που χρησιμοποίησα :
+
+*youtube-dl : https://github.com/ytdl-org/youtube-dl
+
+*mplayer : https://mplayerhq.hu/design3/dload.html
+
+*libcaca : http://caca.zoy.org/wiki/libcaca
+
+Σύνδεσμος για το βίντεο που πρόβαλα : https://www.youtube.com/watch?v=SoJj3w8vhrE
+
 
