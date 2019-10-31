@@ -59,3 +59,27 @@ youtube-dl --extract-audio --audio-format mp3 --output song.mp3 <url>
 mpv song.mp3
 ```
 
+
+
+
+
+## Παραδοτέο 2
+### download a torrent
+
+Σε αυτή το παραδοτέο έκανα χρήση του rtorrent. Όταν ανοίξεις το rtorrent βάζεις το url ή directory του torrent σου και πατάς enter. Για να αρχίσεις να κατεβάζεις επιλέγεις το torrent και πατάς ctrl+s. Για να σταματήσει ctrl+d και για να διαγραφτεί ctrl+d(x2) .
+
+## [Asciinema Recording URL: https://asciinema.org/a/277309](https://asciinema.org/a/277309)
+
+### Εγκατασταση του rtorrent
+
+```
+sudo apt-get install rtorrent
+```
+
+
+### Keybindings για το rtorrent
+```
+ctrl+S = start torrent
+ctrl+D = stop torrent
+ctrl+D(x2) = delete torrent
+```
