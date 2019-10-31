@@ -19,3 +19,13 @@
 *mpv : https://github.com/mpv-player/mpv
 
 *asciinema : https://github.com/asciinema/asciinema
+
+## 2o Παραδοτέο
+
+perigrafh : https://www.youtube.com/watch?v=SoJj3w8vhrE
+
+link a : https://asciinema.org/a/278144
+link b : https://asciinema.org/a/278147
+
+ergalia 
+
