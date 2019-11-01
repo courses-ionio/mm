@@ -68,6 +68,8 @@ mpc ls|mpc add
 
 
 
+#### Πηγές.
+https://www.maketecheasier.com/play-music-from-linux-command-line/
 
 
 
