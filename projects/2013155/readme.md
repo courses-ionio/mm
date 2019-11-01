@@ -7,15 +7,6 @@
 ### Νίκος ξαντινίδης
 ### ΑΜ: Π2013155
 
-## Εργασία περιεχομένου
-### Url βιβλίου μαθήματος https://p13xant.github.io/gr/
-### Url αποθετηρίου κώδικα https://github.com/p13xant/gr
-### Url twitter account https://twitter.com/p13xant
-
-## Παραδοτέο 2A
-Έγιναν δέκα tweets με περιεχόμενο της σελίδας του βιβλίου, τα οποία εκτός απο το url περιέχουν σχόλια, hashtags και εικόνες ή gifs.
-
-
 ## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 
 #### url asciinema to recorded terminal session: https://asciinema.org/a/l8QPkOrJE5PDd5FDg8RZAjfr4
@@ -43,3 +34,12 @@ mplayer /path/to/file.mp3
 ```
 sudo apt-get install ffmpeg
 ```
+
+## Eργασία 2 Visualize an mp3,	demonstrate album art and visualizations with an mp3 player and various songs
+
+#### url asciinema: https://asciinema.org/a/6herqDsW42nj01Fq2GIculx2S
+
+Για τηγ εργασία αυτή χρησιμοποιήθηκαν τα mpd, ncmpcpp και το kunst. Ολόκληρη η διαδικασία της εγκατάστασης και των ρυθμίσεων φαίνεται στο url του asciinema. Η εργασία έγινε σε raspberry pi με λειτουργικό σύστημα raspbian buster lite και η πρόσβαση έγινε μέσω ssh με το putty. Για να είναι δυνατή η απεικόνηση της εικόνας του album του κομματιού, χρησιμοποιήθηκε ο xming server https://xming.en.softonic.com/. Αρχικά προσπάθησα απο τα windows 10 με ubuntu 18.04 μέσω wsl (Windows Subsystem for Linux) αλλά δεν ήταν δυνατή η επικοινωνία με τον xming οπότε χρησιμοποίησα το putty. Για να μπορεί να επικοινωνήσει το putth με τον xming θα πρέπει στο session να ενεργοποιηθεί το X11 forwarding.
+
+
+
