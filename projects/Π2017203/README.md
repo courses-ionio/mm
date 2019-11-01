@@ -85,7 +85,7 @@
 ###### ls 
 #
 #### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο παρακάτω link:
-#### https://asciinema.org/a/277131 (still private)
+#### https://asciinema.org/a/277131 
 #
 #### link στο αποθετήριο του κώδικα:
 #### https://github.com/p17kagk/mm/tree/master
