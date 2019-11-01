@@ -20,7 +20,7 @@
 
 1o Tweet) https://twitter.com/PngtSotiris/status/1190393878190403584
 
-2o Tweet) https://twitter.com/PngtSotiris/status/1190308356524838913
+2o Tweet) https://twitter.com/PngtSotiris/status/1190394722017263617
 
 3o Tweet) https://twitter.com/PngtSotiris/status/1190384686821969922
 
