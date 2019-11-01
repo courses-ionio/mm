@@ -35,7 +35,7 @@ mplayer /path/to/file.mp3
 sudo apt-get install ffmpeg
 ```
 
-## Eργασία 2 Visualize an mp3,	demonstrate album art and visualizations with an mp3 player and various songs
+## Eργασία 2. Visualize an mp3,	demonstrate album art and visualizations with an mp3 player and various songs
 
 #### url asciinema: https://asciinema.org/a/6herqDsW42nj01Fq2GIculx2S
 
@@ -57,6 +57,14 @@ mpc ls|mpc add
 παρακάτω φαίνεται η εικόνα του album του τραγουδιού.
 
 ![Screenshot](screen.png)
+
+Παρακάτω η διαδικασία σεταρίσματος του xming
+
+![Screenshot](xming1.png)
+
+![Screenshot](xming2.png)
+
+![Screenshot](xming3.png)
 
 
 
