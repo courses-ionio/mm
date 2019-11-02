@@ -65,6 +65,7 @@
          - https://computingforgeeks.com/how-to-configure-mpd-and-ncmpcpp-on-linux/
          - https://www.reddit.com/r/linuxquestions/comments/anlfi5/ncmpcpp_visualizer_not_working_configured_as_per/
          - https://wiki.archlinux.org/index.php/ncmpcpp
+         - https://www.musicpd.org/doc/html/user.html
    
    
    
