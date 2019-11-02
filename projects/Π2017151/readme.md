@@ -76,6 +76,6 @@ ctrl+S = start torrent
 ctrl+D = stop torrent
 ctrl+DD = delete torrent
 Ctrl + k = close a torrent 
-Backspace = Enter the URL of a new torrent to download
+Backspace = Enter the URL of a new torrent to download.
 ```
 
