@@ -52,8 +52,11 @@ https://asciinema.org/a/iP8f93KDUCty31w0haKJMD67k
 references:
 
 https://wiki.archlinux.org/index.php/Music_Player_Daemon
+
 https://github.com/dpayne/cli-visualizer#usage
+
 https://www.linuxlinks.com/cli-visualizer-command-line-visualizer-mpd-alsa-pulseaudio/
+
 
 # Συμμετοχικό περιεχόμενο
 
