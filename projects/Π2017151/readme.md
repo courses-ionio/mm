@@ -47,3 +47,35 @@ youtube-dl --extract-audio --audio-format mp3 -o onemoreligh.mp3 <url>
 ```
 mpv onemoreligh.mp3
 ```
+
+
+
+
+## Παραδοτέο 2
+### Κατεβάστε torrent μεσω του terminal.
+
+## [Asciinema URL](https://asciinema.org/a/277311)
+
+
+# ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
+
+για την λήψη τορρεντ μέσω του τέρμιναλ χει χρησιμοποιηθεί  το rTorrent. είναι ένας σχετικά εύκολος τρόπος όπου μπορείς να χρησιμοποιήσεις λινκ τορρεντ η directory path. τα τορρεντ που κατεβαίνουν μέσω του rTorrent αποθηκεύονται στο /home/username
+
+
+### Εγκατασταση rTorrent 
+
+```
+sudo apt-get install rtorrent
+```
+
+
+### rTorrent keys and usage
+
+```
+ctrl+S = start torrent
+ctrl+D = stop torrent
+ctrl+DD = delete torrent
+Ctrl + k = close a torrent 
+Backspace = Enter the URL of a new torrent to download
+```
+
