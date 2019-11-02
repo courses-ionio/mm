@@ -44,11 +44,27 @@
    4) Με την εφαρμογή mpv ακούμε το τραγούδι που μόλις κατεβάσαμε.
    
    ##### Αναλυτικά τα βήματα παρουσιάζονται στο link: https://asciinema.org/a/kveqsjaNXUzlm3dQoNJKcSve6
+   #
+   ##### Links που βοήθησαν στην επίλυση της άσκησης:
+         - https://ytdl-org.github.io/youtube-dl/download.html
+         - https://github.com/ytdl-org/youtube-dl
+         - https://github.com/mps-youtube/mps-youtube
+         - https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats
+         - https://launchpad.net/~mc3man/+archive/ubuntu/mpv-tests
+         - http://tipsonubuntu.com/2018/07/27/install-mpv-0-29-ubuntu-18-04-lts/
    
    ## ΑΣΚΗΣΗ 2
    ### Τίτλος: Visualize an mp3
    #
    ##### To Visualization φαίνεται στο link: https://asciinema.org/a/CcS4E199RQ3JV4zHELfkDsk43
+   #
+   ##### Links που βοήθησαν στην επίλυση της άσκησης: 
+   
+         - https://wiki.archlinux.org/index.php/Music_Player_Daemon#Setup
+         - https://wiki.archlinux.org/index.php/Music_Player_Daemon/Troubleshooting
+         - https://computingforgeeks.com/how-to-configure-mpd-and-ncmpcpp-on-linux/
+         - https://www.reddit.com/r/linuxquestions/comments/anlfi5/ncmpcpp_visualizer_not_working_configured_as_per/
+         - https://wiki.archlinux.org/index.php/ncmpcpp
    
    
    
