@@ -35,9 +35,13 @@ AM: Π2017063
   
    ## Άσκηση 2 Multimedia (Προθ.3/11)
    ### download a torrent
-   Για την υλοποίηση της εργασίας χρησιμοποίησα <a href="https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client)" target="_blank">Torrent</a> (BitTorrent client) και το περιβαλλον  <a href="https://github.com/dylanaraps/torque" target="_blank">Torque</a> (TUI/Talkative User Interface client for transmission-daemon).
+   Για την υλοποίηση της εργασίας χρησιμοποίησα <a href="https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client)" target="_blank">Transmission</a> (BitTorrent client) και το περιβαλλον  <a href="https://github.com/dylanaraps/torque" target="_blank">Torque</a> (TUI/Talkative User Interface client for transmission-daemon).
    
    <a href="https://asciinema.org/a/mEJFVDFivhxN7KXL7p9qJKEkk" target="_blank"><img src="https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0.svg" /></a>
+   
+   
+   
+   
    
    
    
