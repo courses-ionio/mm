@@ -21,7 +21,7 @@ youtube-dl -x --audio-format mp3 -o choosefilename.mp3 ytsearch$1:"$search term
 
 Για την εγκατάσταση των προγραμμάτων youtube-dl & mpv χρησιμοποίησα τις παρακάτω εντολές:
 Για το youtube-dl ακολούθησα της οδηγίες που δίνει ο καταστευαστής μεσα στο official github page τους 
-# URL https://github.com/ytdl-org/youtube-dl/blob/master/README.md#how-do-i-update-youtube-dl
+URL https://github.com/ytdl-org/youtube-dl/blob/master/README.md#how-do-i-update-youtube-dl
 
 ```
 sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
