@@ -45,5 +45,13 @@
    
    ##### Αναλυτικά τα βήματα παρουσιάζονται στο link: https://asciinema.org/a/kveqsjaNXUzlm3dQoNJKcSve6
    
+   ## ΑΣΚΗΣΗ 2
+   ### Τίτλος: Visualize an mp3
+   #
+   ##### To Visualization φαίνεται στο link: https://asciinema.org/a/CcS4E199RQ3JV4zHELfkDsk43
+   
+   
+   
+   
      
  
