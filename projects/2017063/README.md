@@ -7,7 +7,7 @@
 AM: Π2017063
 
 
-  ## Άσκηση 1 Multimedia
+  ## Άσκηση 1 Multimedia (Προθ.20/10)
    ### download mp3 ( search, download and play (with the terminal) your favorite song of the month from youtube)
    Για την υλοποίηση της εργασίας εγκατέστησα τα εξής:
    
@@ -30,3 +30,27 @@ AM: Π2017063
  #### Δευτερος τρόπος που χρησιμοποίηθηκε για αναζήτηση και κατέβασμα
   Επίσης ένας άλλος τρόπος για την αναζήτηση και το κατέβασμα τραγουδιων από το youtube είναι το mps-youtube. Με αυτό μπορείς μέσω terminal πληκτρολογώντας τον τίτλο του τραγουδιού να βρείς μία λίστα από τραγούδια με τον τίτλο που πληκτρολόγησες. Έτσι, κατεβάζεις το τραγούδι που επιθυμείς. Πάλι είναι αναγκαία η μετατροπή σε .mp3 μετά το download. Μετά το κατέβασμα χρησιμοποιείς το mpv player για να "παίξει" το τραγουδι.  
   <a href="https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0" target="_blank"><img src="https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0.svg" /></a>
+  
+  
+  
+   ## Άσκηση 2 Multimedia (Προθ.3/11)
+   ### download a torrent
+   Για την υλοποίηση της εργασίας εγκατέστησα το <a href="https://en.wikipedia.org/wiki/RTorrent" target="_blank">rTorrent</a>. 
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
