@@ -41,7 +41,7 @@ AM: Π2017202
    
    ### Torque 
     
-   To <a href="https://github.com/dylanaraps/torque target="_blank">Torque</a> είναι TUI client που μας επιτρέπει την καλύτερη οπτική απεικόνιση των αρχείων που κάνουμε download (με χρήση του Transmission). Επίσης δίνει την επιλογή μέσω του δικού του interface να γίνει προσθήκη, διαγραφή, έναρξη, παύση των .torrent αρχείων </br>
+   To <a href="https://github.com/dylanaraps/torque" target="_blank">Torque</a> είναι TUI client που μας επιτρέπει την καλύτερη οπτική απεικόνιση των αρχείων που κάνουμε download (με χρήση του Transmission). Επίσης δίνει την επιλογή μέσω του δικού του interface να γίνει προσθήκη, διαγραφή, έναρξη, παύση των .torrent αρχείων </br>
    
    Το αρχείο asciinema που δίχνει την επιτυχημένη καταγραφή της χρήσης Transmission-Torque
    <a href="https://asciinema.org/a/9t9iMk6tFcMpkZ0tcy5uOyC1D" target="_blank"><img src="https://asciinema.org/a/9t9iMk6tFcMpkZ0tcy5uOyC1D.svg" /></a>
