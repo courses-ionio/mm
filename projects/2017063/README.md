@@ -37,7 +37,7 @@ AM: Π2017063
    ### download a torrent
    Για την υλοποίηση της εργασίας εγκατέστησα το <a href="https://en.wikipedia.org/wiki/RTorrent" target="_blank">rTorrent</a> (text-based ncurses BitTorrent client written in C++, based on the libTorrent libraries for Unix).
    
-  
+  <a href="https://asciinema.org/a/2xc27mSIa1CQmUTlOmtXWbfTE" target="_blank"><img src="https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0.svg" /></a>
   
   
   
