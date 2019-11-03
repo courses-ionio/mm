@@ -54,5 +54,12 @@ AM: Π2017202
   
   Όπως μπορούμε να δούμε γίνεται αναζήτηση μέσω <a href="#we-get">we-get</a> και χρήση του link στο <a href="#Transmission">Transmission</a> για να γίνει download.</br>
   
-  <a href="https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g" target="_blank"><img src="https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g.svg" /></a>
+  <a href="https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g" target="_blank"><img src="https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g.svg" /></a></br>
   
+### Aria2
+
+ Ένα πολύ χρήσιμο <i>multi-protocol & multi-source command-line download utility</i> είναι το <a href="https://aria2.github.io/" target="_blank">Aria2</a> το οποίο υποστηρίζει και BitTorrent 
+ </br>
+ <a href="https://asciinema.org/a/vc8YqIqCLQBaF6lC6Zmpz7DgH" target="_blank"><img src="https://asciinema.org/a/vc8YqIqCLQBaF6lC6Zmpz7DgH.svg" /></a>
+ 
+ 
