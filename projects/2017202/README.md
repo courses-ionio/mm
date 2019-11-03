@@ -46,12 +46,13 @@ AM: Π2017202
    To <a href="https://github.com/dylanaraps/torque" target="_blank">Torque</a> είναι TUI client που μας επιτρέπει την καλύτερη οπτική απεικόνιση των αρχείων που κάνουμε download (με χρήση του Transmission). Επίσης δίνει την επιλογή μέσω του δικού του interface να γίνει προσθήκη, διαγραφή, έναρξη, παύση των .torrent αρχείων </br>
    
    Το αρχείο asciinema που δίχνει την επιτυχημένη καταγραφή της χρήσης Transmission-Torque
-   <a href="https://asciinema.org/a/9t9iMk6tFcMpkZ0tcy5uOyC1D" target="_blank"><img src="https://asciinema.org/a/9t9iMk6tFcMpkZ0tcy5uOyC1D.svg" /></a>
+   <a href="https://asciinema.org/a/9t9iMk6tFcMpkZ0tcy5uOyC1D" target="_blank"><img src="https://asciinema.org/a/9t9iMk6tFcMpkZ0tcy5uOyC1D.svg" /></a></br>
   
   ### we-get
   
   Με το <a href="https://github.com/rachmadaniHaryono/we-get" target="_blank">we-get</a> δίνεται η δυνατότητα για εύρεση .torrent links σε διάφορα site. Καθώς υπάρχει μια πολιτική προστασίας της εκάστοτε χώρας για την προστασία απο κάποια site διακίνησης .torrent η εμφάνιση των links διαφέρει.
   
-  Όπως μπορούμε να δούμε γίνεται αναζήτηση μέσω <a href="#weget">we-get</a> και χρήση του link στο Transmission για να γίνει download.
+  Όπως μπορούμε να δούμε γίνεται αναζήτηση μέσω <a href="#we-get">we-get</a> και χρήση του link στο <a href="#Transmission">Transmission</a> για να γίνει download.</br>
+  
   <a href="https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g" target="_blank"><img src="https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g.svg" /></a>
   
