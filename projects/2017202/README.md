@@ -58,7 +58,7 @@ AM: Π2017202
   
 ### Aria2
 
- Ένα πολύ χρήσιμο <i>multi-protocol & multi-source command-line download utility</i> είναι το <a href="https://aria2.github.io/" target="_blank">Aria2</a> το οποίο υποστηρίζει και BitTorrent 
+ Ένα πολύ χρήσιμο <i>multi-protocol & multi-source command-line download utility</i> είναι το <a href="https://aria2.github.io/" target="_blank">Aria2</a> το οποίο υποστηρίζει και BitTorrent.Στο αρχείο asciinema που ακολουθεί γίνεται εύρεση Link με το <a href="#we-get">we-get</a> και download με το <a href="#Aria2">Aria2</a>
  </br>
  <a href="https://asciinema.org/a/vc8YqIqCLQBaF6lC6Zmpz7DgH" target="_blank"><img src="https://asciinema.org/a/vc8YqIqCLQBaF6lC6Zmpz7DgH.svg" /></a>
  
