@@ -31,6 +31,8 @@ AM: Π2017202
   Με το εργαλείο αυτό γίνεται αναζήτηση και εμφανίζει λίστα με τα διαθέσιμα προς αναπαραγωγή ή αποθήκευση τραγούδια.</br>
   
   <a href="https://asciinema.org/a/zo5gxZeH9cT3VkpLMAaQhCbuo" target="_blank"><img src="https://asciinema.org/a/zo5gxZeH9cT3VkpLMAaQhCbuo.svg" /></a>
+  </br>
+  </br>
    
    ## Άσκηση 2 Multimedia
    ## Download a torrent
@@ -46,4 +48,10 @@ AM: Π2017202
    Το αρχείο asciinema που δίχνει την επιτυχημένη καταγραφή της χρήσης Transmission-Torque
    <a href="https://asciinema.org/a/9t9iMk6tFcMpkZ0tcy5uOyC1D" target="_blank"><img src="https://asciinema.org/a/9t9iMk6tFcMpkZ0tcy5uOyC1D.svg" /></a>
   
+  ### we-get
+  
+  Με το <a href="https://github.com/rachmadaniHaryono/we-get" target="_blank">we-get</a> δίνεται η δυνατότητα για εύρεση .torrent links σε διάφορα site. Καθώς υπάρχει μια πολιτική προστασίας της εκάστοτε χώρας για την προστασία απο κάποια site διακίνησης .torrent η εμφάνιση των links διαφέρει.
+  
+  Όπως μπορούμε να δούμε γίνεται αναζήτηση μέσω <a href="#weget">we-get</a> και χρήση του link στο Transmission για να γίνει download.
+  <a href="https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g" target="_blank"><img src="https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g.svg" /></a>
   
