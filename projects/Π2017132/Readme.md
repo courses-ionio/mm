@@ -3,11 +3,6 @@
 # Α.Μ.: Π2017132
 
 
-
-
-
-
-
 ### Άσκηση 1η: Search, Download and Play your favorite song of the month from youtube
 
 Λινκ του βίντεο: https://asciinema.org/a/278437
@@ -36,4 +31,4 @@
 
 9o Tweet) https://twitter.com/PngtSotiris/status/1190999239847022596
 
-10o Tweet)
+10o Tweet) https://twitter.com/PngtSotiris/status/1191003196929519616
