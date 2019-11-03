@@ -58,7 +58,7 @@ rTorrent
 Πηγή οδηγιών: https://github.com/rakshasa/rtorrent/wiki
 https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZno3KvcBDXpTpHWt3Xhucrx6YR4ym-YHMgDJeMI9AnK22B0
 
-
+  <a href="https://asciinema.org/a/7ZiYkqlX7ZeCjegCKHilJYeqV" target="_blank"><img src="https://asciinema.org/a/7ZiYkqlX7ZeCjegCKHilJYeqV.svg" /></a>
 
 
 
