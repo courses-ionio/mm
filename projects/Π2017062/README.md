@@ -42,8 +42,8 @@
    2) Αντιγράφουμε το link που μας ενδιαφέρει με την εντολή c number_of_link.
    3)Εγκαθιστούμε και χρησιμοποιούμε την τερματική εφαρμογή youtube-dl ώστε να κατεβάσουμε το τραγούδι που επιλέξαμε σε μορφή mp3.
    
-      - sudo apt-get youtube-dl
-      - youtube-dl --extract-audio --audio-format mp3 link_of_choice
+     - sudo apt-get youtube-dl
+     - youtube-dl --extract-audio --audio-format mp3 link_of_choice
         
    4) Με την εφαρμογή mpv ακούμε το τραγούδι που μόλις κατεβάσαμε.
    
