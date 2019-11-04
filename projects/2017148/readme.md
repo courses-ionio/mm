@@ -83,3 +83,40 @@ ctrl+S = start torrent
 ctrl+D = stop torrent
 ctrl+D(x2) = delete torrent
 ```
+
+
+## Παραδοτέο 3
+### edit a spreadsheet - edit values and formulas
+
+Κατέβασα τα δεδομένα απο το ΕΛΣΤΑΤ και τα έβαλα στο sc-im. Άλλαξα τοποθεσία μιας στήλης με τη χρήση του visual mode και yank. Δημιούργισα νεές γραμμές με το ir και έβαλα επικεφαλιδες πανω απο τα δεδομενα με το \"@upper("text"). Βρήκα το μέσο όρο με το =@avg(B3:B6) και το σύνολο με =@sum(B2:G2).
+
+## [Asciinema Recording URL: https://asciinema.org/a/278021](https://asciinema.org/a/278021)
+
+### Εγκατασταση του sc-im
+
+```
+git clone https://github.com/andmarti1424/sc-im.git
+$ cd sc-im/src
+$ make
+$ sudo make install
+```
+
+
+### Keybindings για το sc-im
+```
+v  -> Visual
+y  -> Yank
+p  -> Paste
+u  -> Undo
+x  -> Delete
+> or < or \ -> Write text
+=  -> Write numbers
+aa -> Show the whole text
+fl -> Increase column width
+fh -> Decrease column width
+ir -> Insert row
+dc -> Delete column
+:w  -> Save
+:q  -> Quit
+
+```
