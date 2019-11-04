@@ -11,7 +11,7 @@
 
 ### Άσκηση : single page with name-AM-github and links to your asciinema deliverables
 
-[yekyll](https://asciinema.org/a/278630)
+[jekyll](https://asciinema.org/a/278630)
 
 ### *Τι έχω κάνει* : 
 
