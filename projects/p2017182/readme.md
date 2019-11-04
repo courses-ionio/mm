@@ -21,4 +21,4 @@
 + Πρόσθεσα μιά σύντομη περιγραφή και τίτλο
 + Πρόσθεσα τα deliverables - στοιχεία, ΑΜ, λίνκ προς ασκίνεμα.
 
-![Site Screenshot](csrsht_1.png)
+![Site Screenshot](scrsht_1.png)
