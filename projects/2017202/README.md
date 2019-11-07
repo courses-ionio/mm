@@ -39,7 +39,7 @@ AM: Π2017202
 
 
 
-   ## Άσκηση 2 Multimedia
+  ## Άσκηση 2 Multimedia
    ## Download a torrent
    ### Transmission
    
@@ -70,3 +70,28 @@ AM: Π2017202
  [Link asciinema](https://asciinema.org/a/vc8YqIqCLQBaF6lC6Zmpz7DgH)
  
  
+## Συμμετοχικό Υλικό
+
+
+
+   Μέρος της εργασίας στα Multimedia είναι η χρήση ενός κοινωνικού δικτύου για παρουσίαση του βιβλίου ["O Προγραμματισμός της Διάδρασης"](https://mibook.org/gr/)
+   
+   Για τον σκοπό αυτό χρησιμοποιήθηκε το Twitter.
+   
+   [Link Tweet#1](https://twitter.com/38Alexandros/status/1192544391740702720)
+   
+   [Link Tweet#2](https://twitter.com/38Alexandros/status/1192555364602040320)
+   
+   [Link Tweet#3](https://twitter.com/38Alexandros/status/1192558765591187456)
+   
+   [Link Tweet#4](https://twitter.com/38Alexandros/status/1192585188053786624)
+   
+   [Link Tweet#5](https://twitter.com/38Alexandros/status/1192586315923111936)
+   
+   [Link Tweet#6](https://twitter.com/38Alexandros/status/1192587782000201729)
+   
+   [Link Tweet#7](https://twitter.com/38Alexandros/status/1192588428145287168)
+   
+   [Link Tweet#8](https://twitter.com/38Alexandros/status/1192588998319001602)
+   
+   
