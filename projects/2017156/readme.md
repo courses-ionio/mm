@@ -11,7 +11,9 @@
 Με τη βοήθεια sudo: 
  
 Download mplayer 
+
 Download ffmpeg 
+
 Download mocp 
 
 ~/.local/bin 
