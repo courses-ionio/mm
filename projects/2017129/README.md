@@ -10,7 +10,7 @@
 
 *Deliverables: search, download and play (with the terminal) your favorite song of the month from youtube*
 
-__1ος τρόπος__  Χρήση **MPS-youtube**, εργαλείο τερματικού, το οποίο χρησιμοποιεί το youtube σαν πηγή περιεχομένου και μπορεί να κάνει αναζήτηση, αναπαραγωγή και κατέβασμα τραγουδιών.
+_1ος τρόπος_  Χρήση **MPS-youtube**, εργαλείο τερματικού, το οποίο χρησιμοποιεί το youtube σαν πηγή περιεχομένου και μπορεί να κάνει αναζήτηση, αναπαραγωγή και κατέβασμα τραγουδιών.
  
  
 Βήματα εγκατάστασης MPS-youtube:
@@ -31,7 +31,7 @@ __1ος τρόπος__  Χρήση **MPS-youtube**, εργαλείο τερμα�
 η διαδικασία search, download και play με καταγραφή από το [asciinema. (πρώτος τρόπος)](https://asciinema.org/a/807xgMVNXHJ5q566LV235VMUm)
 
 
-__2ος τρόπος__  , με αναζήτηση του τραγουδιού από την μηχανή αναζήτησης DuckDuckGo (ddgr) και download απευθείας σε μορφή .mp3 με το εργαλείο **youtube-dl** και τις κατάλληλες παραμέτρους.
+_2ος τρόπος_  , με αναζήτηση του τραγουδιού από την μηχανή αναζήτησης DuckDuckGo (ddgr) και download απευθείας σε μορφή .mp3 με το εργαλείο **youtube-dl** και τις κατάλληλες παραμέτρους.
 [asciinema (δεύτερος τρόπος)](https://asciinema.org/a/noN5geRkpXvZ2l2SZSKs0brCT)
 
 
@@ -61,7 +61,7 @@ ________________________________________________________________________________
 [Twitter account](https://twitter.com/Christiana_Kr)
 
 * ## Α
-[1ο tweet](https://twitter.com/Christiana_Kr/status/1188167798184468492)
+[1ο tweet](https://twitter.com/Christiana_Kr/status/1192564387497828352)
 
-[2ο tweet]
+[2ο tweet](
 
