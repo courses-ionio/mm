@@ -49,6 +49,29 @@ AM: Π2017063
   
   
   
+  ## Συμμετοχικό Υλικό- Α'Παραδοτέο
+  
+  [*Link του βιβλίου*](https://mibook.org/gr/)
+  
+  [*Link του αντιγράφου του αποθετηρίου του βιβλίου*](https://github.com/fsofronia/gr/tree/gh-pages)
+  
+  Για την ανάρτηση του περιεχομένου του βιβλίου [mibook/gr](https://mibook.org/gr/) με τρόπο εκπαιδευτικό και ευχάριστο, χρησιμοποίησα το [Twitter](https://twitter.com/sofronia_f). Για το πρώτο παραδοτέο υλοποίησα συνολικά οτκώ δημοσιεύσεις ( 3 για το Β παραδοτέο) στις οποίες προσθάθησα να "εκμεταλλευτώ" όλες τις δυνατότητες του κοινωνικού αυτού δικτύου (text, images, gif, mention, hashtags, etc).
+  
+* [Link πρώτης ανάρτησης/Ορισμός multimedia](https://twitter.com/sofronia_f/status/1192152684075343873)
+  
+* [Link δεύτερης ανάρτησης/Human Computer Interaction](https://twitter.com/sofronia_f/status/1192160128449077248)
+  
+* [Link τρίτης ανάρτησης/Mark I](https://twitter.com/sofronia_f/status/1192173030237179904)
+  
+* [Link τέταρτης ανάρτησης/Github](https://twitter.com/sofronia_f/status/1192527323184214016)
+  
+* [Link πέμπτης ανάρτησης/Street Map](https://twitter.com/sofronia_f/status/1192535161583390720)
+  
+* [Link έκτης ανάρτησης/PhotoEditor](https://twitter.com/sofronia_f/status/1192563914191654912)
+  
+* [Link έβδομης ανάρτησης/Igoefinger](https://twitter.com/sofronia_f/status/1192567747156303873)
+  
+* [Link όγδοης ανάρτησης/Scratch](https://twitter.com/sofronia_f/status/1192573136761425920)
   
   
   
