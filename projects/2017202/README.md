@@ -37,6 +37,8 @@ AM: Π2017202
   [Link asciinema](https://asciinema.org/a/zo5gxZeH9cT3VkpLMAaQhCbuo) 
 
 
+
+
    ## Άσκηση 2 Multimedia
    ## Download a torrent
    ### Transmission
@@ -55,7 +57,7 @@ AM: Π2017202
   
   ### we-get
   
-  Με το [we-get]https://github.com/rachmadaniHaryono/we-get) δίνεται η δυνατότητα για εύρεση .torrent links σε διάφορα site. Καθώς υπάρχει μια πολιτική προστασίας της εκάστοτε χώρας για την προστασία απο κάποια site διακίνησης .torrent η εμφάνιση των links διαφέρει.
+  Με το [we-get](https://github.com/rachmadaniHaryono/we-get) δίνεται η δυνατότητα για εύρεση .torrent links σε διάφορα site. Καθώς υπάρχει μια πολιτική προστασίας της εκάστοτε χώρας για την προστασία απο κάποια site διακίνησης .torrent η εμφάνιση των links διαφέρει.
   
   Όπως μπορούμε να δούμε γίνεται αναζήτηση μέσω [we-get](#we-get) και χρήση του link στο [Transmission](#Transmission) για να γίνει download.
   
