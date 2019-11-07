@@ -19,33 +19,33 @@ AM: Π2017063
    και μετέτρεψα σε audio.mp3.
    
    Για την καταγραφή των εντολών που εκτέλεσα χρησιμοποιήθηκε το asciinema.
+  
+  [Link για την πρώτη άσκηση](https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm)
 
-<a href="https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm" target="_blank"><img src="https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm.svg" /></a>
 
 
-  ### To url που υπάρχει η καταγραφή των εντολών που χρησιμοποίησα (μεσω asciinema) https://asciinema.org/a/7IjvEOkmKvq8ey7zjQ3iXwdLm
   
 
  #### Δευτερος τρόπος που χρησιμοποίηθηκε για αναζήτηση και κατέβασμα
   Επίσης ένας άλλος τρόπος για την αναζήτηση και το κατέβασμα τραγουδιων από το youtube είναι το mps-youtube. Με αυτό μπορείς μέσω terminal πληκτρολογώντας τον τίτλο του τραγουδιού να βρείς μία λίστα από τραγούδια με τον τίτλο που πληκτρολόγησες. Έτσι, κατεβάζεις το τραγούδι που επιθυμείς. Πάλι είναι αναγκαία η μετατροπή σε .mp3 μετά το download. Μετά το κατέβασμα χρησιμοποιείς το mpv player για να "παίξει" το τραγουδι.  
-  <a href="https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0" target="_blank"><img src="https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0.svg" /></a>
+
+[Δεύτερη λύση πρώτης άσκησης](https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0)
   
   
   
   
    ## Άσκηση 2 Multimedia (Προθ.3/11)
    ### download a torrent
-   Για την υλοποίηση της εργασίας χρησιμοποίησα <a href="https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client)" target="_blank">Transmission</a> (BitTorrent client) και το περιβαλλον  <a href="https://github.com/dylanaraps/torque" target="_blank">Torque</a> (TUI/Talkative User Interface client for transmission-daemon).
+   Για την υλοποίηση της εργασίας χρησιμοποίησα [Transmission](https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client)) (BitTorrent client) και το περιβαλλον [Torque](https://github.com/dylanaraps/torque) (TUI/Talkative User Interface client for transmission-daemon).
    
-   <a href="https://asciinema.org/a/mEJFVDFivhxN7KXL7p9qJKEkk" target="_blank"><img src="https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0.svg" /></a>
- 
+   [Link/Download a torrent](https://asciinema.org/a/mEJFVDFivhxN7KXL7p9qJKEkk)
+  
    
    
    #### Δεύτερος τρόπος για το κατέβασμα ενός αρχείου *.torrent 
-   Για την υλοποίηση της εργασίας εγκατέστησα το <a href="https://en.wikipedia.org/wiki/RTorrent" target="_blank">rTorrent</a> (text-based ncurses BitTorrent client written in C++, based on the libTorrent libraries for Unix).
+   Για την υλοποίηση της εργασίας εγκατέστησα το [rTorrent](https://en.wikipedia.org/wiki/RTorrent) (text-based ncurses BitTorrent client written in C++, based on the libTorrent libraries for Unix).
    
-  <a href="https://asciinema.org/a/2xc27mSIa1CQmUTlOmtXWbfTE" target="_blank"><img src="https://asciinema.org/a/jmAK9YM2GckhGSLe3sAoecGZ0.svg" /></a>
-  
+ [Download a torrent file using the rtorrent](https://asciinema.org/a/2xc27mSIa1CQmUTlOmtXWbfTE)
   
   
   
