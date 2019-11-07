@@ -1,9 +1,14 @@
+# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ: ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ 
+# ΜΑΘΗΜΑ:
+## Πολυμέσα: 
+
+
 **1η Ασκηση**:(search, download and play with the terminal your favorite song of the month from youtube) <br/>
  <br/>
  <br/>
 
 
-
+Με τη βοήθεια sudo:  <br/>
 Download mps-youtube <br/>
 Download mplayer <br/>
 Download ffmpeg <br/>
@@ -27,7 +32,12 @@ $pip3 install --user youtube-dl --upgrade <br/>
 
 **ΣYMMETOXIKO EKΠΑΙΔΕΥΤΙΚΟ ΥΛΙΚΟ:**
 
-Link λογαριασμου facebook -> https://www.facebook.com/aggelos.multimedia 
 
-AGGELOS APOSTOLOU  <br/>
-P2017156  <br/>
+Link λογαριασμου facebook με τις αναρτήσες εκπαιδευτικού περιεχομένου -> https://www.facebook.com/aggelos.multimedia <br/>
+<br/>
+ 
+
+## Στοιχεία Φοιτητή: <br/>
+
+ΑΓΓΕΛΟΣ ΑΠΟΣΤΟΛΟΥ  <br/>
+Π2017156  <br/>
