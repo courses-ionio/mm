@@ -61,7 +61,7 @@ ________________________________________________________________________________
 [Twitter account](https://twitter.com/Christiana_Kr)
 
 * ## Α
-[1ο tweet](https://twitter.com/Christiana_Kr/status/1192564387497828352)
+[1ο tweet](https://twitter.com/Christiana_Kr/status/1192574004751716353)
 
 [2ο tweet](
 
