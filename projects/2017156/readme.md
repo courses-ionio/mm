@@ -9,7 +9,7 @@
 
 
 Με τη βοήθεια sudo:  <br/>
-Download mps-youtube <br/>
+ <br/>
 Download mplayer <br/>
 Download ffmpeg <br/>
 Download mocp <br/>
@@ -39,5 +39,5 @@ Link λογαριασμου facebook με τις αναρτήσες εκπαιδ
 
 ## Στοιχεία Φοιτητή: <br/>
 
-ΑΓΓΕΛΟΣ ΑΠΟΣΤΟΛΟΥ  <br/>
-Π2017156  <br/>
+### ΑΓΓΕΛΟΣ ΑΠΟΣΤΟΛΟΥ  <br/>
+### ΑM:Π2017156  <br/>
