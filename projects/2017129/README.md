@@ -1,7 +1,7 @@
 
 ### Ονοματεπώνυμο : Χριστίνα Κρυελέση 
 ### Α.Μ.: Π2017129
-
+### Μάθημα: Πολυμέσα
 
 # ΑΣΚΗΣΕΙΣ
 
@@ -35,6 +35,7 @@ __2ος τρόπος__  , με αναζήτηση του τραγουδιού α
 [asciinema (δεύτερος τρόπος)](https://asciinema.org/a/noN5geRkpXvZ2l2SZSKs0brCT)
 
 
+
 * ## ΑΣΚΗΣΗ 2
 
 **visualize an mp3**
@@ -45,6 +46,7 @@ mpd, mpc, cli-visualizer
 https://asciinema.org/a/iP8f93KDUCty31w0haKJMD67k
 
 references:
+
 [mpd](https://wiki.archlinux.org/index.php/Music_Player_Daemon)
 
 [cli-visualiser](https://github.com/dpayne/cli-visualizer#usage)
@@ -60,5 +62,6 @@ ________________________________________________________________________________
 
 * ## Α
 [1ο tweet](https://twitter.com/Christiana_Kr/status/1188167798184468492)
+
 [2ο tweet]
 
