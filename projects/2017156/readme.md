@@ -10,19 +10,20 @@
 
 Με τη βοήθεια sudo: 
  
-Download mplayer  
-Download ffmpeg  
+Download mplayer 
+Download ffmpeg 
 Download mocp 
 
 ~/.local/bin 
 
-$pip3 install --user mps-youtube 
-$pip3 install --user youtube-dl 
+$pip3 install --user mps-youtube  
+$pip3 install --user youtube-dl  
 $pip3 install --user youtube-dl --upgrade  
 
-Κάλεσα το mps-youtube με την εντολη **mpsyt** 
+Κάλεσα το mps-youtube με την εντολη **mpsyt** .
 
-Έκανα search με το **/song** 
+Έκανα search με το **/song** και το **d 2** για να διαλέξω το κομμάτι μου .  
+
 
 Χρησιμοποίησα το **-T yellow_red_theme** στο **mocp** ωστε να αλλάξω το θέμα του προγράμματος .
 
