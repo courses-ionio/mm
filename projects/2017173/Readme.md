@@ -9,6 +9,7 @@
 
 ### Twitter link : https://twitter.com/P17styl
 
+## Terminal
 ## Πρώτο Παραδοτέο : 
 ###  search, download and play (with the terminal) your favorite song of the month from youtube
 ### Asciinema URL : https://asciinema.org/a/WpyFWm3eNmY5rSkdvfjgvqMKJ
