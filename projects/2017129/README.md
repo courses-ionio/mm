@@ -63,5 +63,5 @@ ________________________________________________________________________________
 * ## Α
 [1ο tweet](https://twitter.com/Christiana_Kr/status/1192574004751716353)
 
-[2ο tweet](
+[2ο tweet](https://twitter.com/Christiana_Kr/status/1192593161513840641)
 
