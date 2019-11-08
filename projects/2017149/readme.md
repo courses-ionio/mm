@@ -6,6 +6,9 @@
 ### Αθανάσης Παπαπέτρου
 ### ΑΜ: Π2017149
 
+## Άσκηση βιβλίου
+## Twitter: https://twitter.com/p17papa5/
+
 ## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 
 ## asciinema URL: https://asciinema.org/a/276971
