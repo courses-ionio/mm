@@ -4,7 +4,10 @@
 ## Στοιχεία φοιτητή  
 ### Χαράλαμπος Στυλιανού
 ### ΑΜ: Π2017173
-https://twitter.com/P17styl
+
+## Συμμετοχικό περιεχόμενο
+
+### Twitter link : https://twitter.com/P17styl
 
 ## Πρώτο Παραδοτέο : 
 ###  search, download and play (with the terminal) your favorite song of the month from youtube
