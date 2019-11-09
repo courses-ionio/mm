@@ -12,7 +12,7 @@
 ## Terminal
 ## Πρώτο Παραδοτέο : 
 ###  search, download and play (with the terminal) your favorite song of the month from youtube
-### Asciinema URL : https://asciinema.org/a/WpyFWm3eNmY5rSkdvfjgvqMKJ
+[Asciinema Link 1](https://asciinema.org/a/WpyFWm3eNmY5rSkdvfjgvqMKJ)
 ### Τα προγράμματα που χρειάζονται
 
 ```
@@ -30,7 +30,7 @@ play 'Song name.mp3'
 ```
 ## Δεύτερο Παραδοτέο : 
 ### youtube video streaming
-### Asciinema URL : https://asciinema.org/a/280073
+[Asciinema Link 1](https://asciinema.org/a/280073)
 
 Ακριβός όπως το πρώτο παραδοτέο έτσι και στο δεύτερο κάνουμε αναζήτηση του βίντεο που θέλουμε και με την πιο κάτω εντολή ανοίγει ένα παράθυρο και παίζει το βίντεο κανονικά χωρίς να χρειάζεται να τα κατεβάσεις.
 ```
