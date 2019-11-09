@@ -5,6 +5,22 @@
 ### Αντρέας Παππούτας
 ### ΑΜ: Π2017148
 
+## Συμμετοχικό Υλικό
+
+## [Twitter Profile : https://twitter.com/p17papp1](https://twitter.com/p17papp1)
+
+#### [Skype](https://twitter.com/p17papp1/status/1193272511997390852)
+#### [Windows 10](https://twitter.com/p17papp1/status/1193269938565369857)
+#### [Linux](https://twitter.com/p17papp1/status/1193270222679093248)
+#### [Eclipse IDE](https://twitter.com/p17papp1/status/1193270675525554182)
+#### [Social Media](https://twitter.com/p17papp1/status/1193270776532733953)
+#### [Google Assistant](https://twitter.com/p17papp1/status/1193270898645708800)
+#### [App](https://twitter.com/p17papp1/status/1193271203148029957)
+#### [Raspberry Pi](https://twitter.com/p17papp1/status/1193271635106811905)
+#### [Google Search Engine](https://twitter.com/p17papp1/status/1193271820763455488)
+#### [Modern mouse](https://twitter.com/p17papp1/status/1193272109776228352)
+
+
 ## Παραδοτέο 1
 ### download mp3 - search, download and play (with the terminal) your favorite song of the month from youtube
 
@@ -82,41 +98,4 @@ sudo apt-get install rtorrent
 ctrl+S = start torrent
 ctrl+D = stop torrent
 ctrl+D(x2) = delete torrent
-```
-
-
-## Παραδοτέο 3
-### edit a spreadsheet - edit values and formulas
-
-Κατέβασα τα δεδομένα απο το ΕΛΣΤΑΤ και τα έβαλα στο sc-im. Άλλαξα τοποθεσία μιας στήλης με τη χρήση του visual mode και yank. Δημιούργισα νεές γραμμές με το ir και έβαλα επικεφαλιδες πανω απο τα δεδομενα με το \"@upper("text"). Βρήκα το μέσο όρο με το =@avg(B3:B6) και το σύνολο με =@sum(B2:G2).
-
-## [Asciinema Recording URL: https://asciinema.org/a/278021](https://asciinema.org/a/278021)
-
-### Εγκατασταση του sc-im
-
-```
-git clone https://github.com/andmarti1424/sc-im.git
-$ cd sc-im/src
-$ make
-$ sudo make install
-```
-
-
-### Keybindings για το sc-im
-```
-v  -> Visual
-y  -> Yank
-p  -> Paste
-u  -> Undo
-x  -> Delete
-> or < or \ -> Write text
-=  -> Write numbers
-aa -> Show the whole text
-fl -> Increase column width
-fh -> Decrease column width
-ir -> Insert row
-dc -> Delete column
-:w  -> Save
-:q  -> Quit
-
 ```
