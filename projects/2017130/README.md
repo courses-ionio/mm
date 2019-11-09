@@ -86,6 +86,10 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
 
 - [Hipmunk](https://twitter.com/tonia_smirliadi/status/1193286703445880832)
 
+- [Uber](https://twitter.com/tonia_smirliadi/status/1193305533995999232)
+
+- [Virtual reality](https://twitter.com/tonia_smirliadi/status/1193312986284335104)
+
 
 
 
