@@ -3,6 +3,23 @@
 ### ONOMA ΦΟΙΤΗΤΗ: Χαράλαμπος Θεοδούλου
 ### ΑΜ: Π2017151
 
+
+
+## Συμμετοχικό Υλικό
+
+##  [Twitter](https://twitter.com/p17theo3)
+
+### [Xerox](https://twitter.com/p17theo3/status/1193280196171964416)
+### [Uber](https://twitter.com/p17theo3/status/1193280727535771653)
+### [Windows10](https://twitter.com/p17theo3/status/1193282212520747008)
+### [Minecraft](https://twitter.com/p17theo3/status/1193285053197029377)
+### [Scratch](https://twitter.com/p17theo3/status/1193285905903214594)
+### [Visual Basic](https://twitter.com/p17theo3/status/1193286574387150849)
+### [Mobile](https://twitter.com/p17theo3/status/1193287740625997824)
+### [Mobile](https://twitter.com/p17theo3/status/1193289442963968000)
+### [Micro-Controller](https://twitter.com/p17theo3/status/1193290234542333953)
+### [Vr Solder Training](https://twitter.com/p17theo3/status/1193292729511489536)
+
 ## Παραδοτέο 1
 ### κατεβάστε και παίξτε μέσο του τέρμιναλ το αγαπημένο σας τραγούδι του μήνα.
 
@@ -78,4 +95,7 @@ ctrl+DD = delete torrent
 Ctrl + k = close a torrent 
 Backspace = Enter the URL of a new torrent to download.
 ```
+
+
+
 
