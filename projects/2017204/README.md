@@ -86,6 +86,7 @@ beet move -d /home/christos title:'Haunted'
 beet remove title:'Haunted'
 ```                       
 
+
 ---
 
 
