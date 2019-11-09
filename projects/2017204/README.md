@@ -8,7 +8,7 @@
 ## Α.Μ.: Π2017204
 
 ## Συμμετοχικό εκπαιδευτικό υλικο:
-## Twitter:https://twitter.com/home
+## Twitter:https://twitter.com/p17chr1
 
 
 ## Παραδοτέο 1:
