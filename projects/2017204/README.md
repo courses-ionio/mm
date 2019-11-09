@@ -1,12 +1,18 @@
 ## ΜΑΘΗΜΑ: Πολυμέσα  
-## Παραδοτέο 1ο
-### download mp3 - search, download and play (with the terminal) your favorite song of the month from youtube.
 
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος
  
 ## Στοιχεία φοιτητή 
 ## Όνομα: Χρήστος Δήμας
 ## Α.Μ.: Π2017204
+
+## Συμμετοχικό εκπαιδευτικό υλικο:
+## Twitter:https://twitter.com/home
+
+
+## Παραδοτέο 1ο
+### download mp3 - search, download and play (with the terminal) your favorite song of the month from youtube.
+
 
 ## Asciinema URL: https://asciinema.org/a/LzIEgPe6Zvtg61N8DdWKWcqy2
 
