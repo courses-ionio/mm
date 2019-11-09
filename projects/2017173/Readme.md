@@ -7,7 +7,7 @@
 
 ## Συμμετοχικό περιεχόμενο
 
-### Twitter link : https://twitter.com/P17styl
+[Twitter Link](https://twitter.com/P17styl)
 
 ## Terminal
 ## Πρώτο Παραδοτέο : 
