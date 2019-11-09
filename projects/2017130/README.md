@@ -64,7 +64,9 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
   <a href="https://asciinema.org/a/7ZiYkqlX7ZeCjegCKHilJYeqV" target="_blank"><img src="https://asciinema.org/a/7ZiYkqlX7ZeCjegCKHilJYeqV.svg" /></a>
 
 # Όνομα εργασίας: Συμμετοχικό υλικό - Α παραδοτέο
-Για να επικοινωνήσω το περιεχόμενο του βιβλίου mibook/gr με τρόπο εκπαιδευτικό, ευχάριστο, και κυρίως συμβατό με την τυπολογία του αντίστοιχου μέσου (Twitter) δημιούργησα αναρτήσεις, οι οποίες συνδέονται τόσο με το περιεχόμενο του (ψηφιακού ή φυσικού) βιβλίου, όσο και με την λειτουργία του αντίστοιχου μέσου (π.χ., follow, tags, groups, mentions, collection, etc).
+### Link του αντίγραφου του βιβλίου: https://github.com/p17smyr/gr
+
+Για να επικοινωνήσω το περιεχόμενο του βιβλίου [mibook/gr](https://mibook.org/gr/) με τρόπο εκπαιδευτικό, ευχάριστο, και κυρίως συμβατό με την τυπολογία του αντίστοιχου μέσου (Twitter) δημιούργησα αναρτήσεις, οι οποίες συνδέονται τόσο με το περιεχόμενο του (ψηφιακού ή φυσικού) βιβλίου, όσο και με την λειτουργία του αντίστοιχου μέσου (π.χ., follow, tags, groups, mentions, collection, etc).
 
 Παρακάτω παραθέτονται οι αναρτήσεις:
 
