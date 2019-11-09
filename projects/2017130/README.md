@@ -55,7 +55,7 @@ asciinema rec -i=0.2
 
 Εγκατάστσαση του rTorrent
 
-Κατέβασμα του torrent file: 
+Κατέβασμα του torrent file: /home/linuxtechi/Downloads/ubuntu-14.04.2-desktop-amd64.isi.torrent
 
 Πηγή οδηγιών: https://github.com/rakshasa/rtorrent/wiki
 
@@ -80,8 +80,9 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
 
 - [Skype, Messenger, Gmail](https://twitter.com/tonia_smirliadi/status/1192797206794981376)
 
+- [Google searching](https://twitter.com/tonia_smirliadi/status/1193280253818474496)
 
-
+- [Hipmunk](https://twitter.com/tonia_smirliadi/status/1193286703445880832)
 
 
 
