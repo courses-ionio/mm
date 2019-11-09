@@ -8,7 +8,7 @@
 ## Όνομα: Χρήστος Δήμας
 ## Α.Μ.: Π2017204
 
-Asciinema URL: https://asciinema.org/a/LzIEgPe6Zvtg61N8DdWKWcqy2
+## Asciinema URL: https://asciinema.org/a/LzIEgPe6Zvtg61N8DdWKWcqy2
 
 ## Για να επιτευχθεί η εργασία χρειάστηκε να γίνει η εγκατάσταση των παρακάτω με τις εξής εντολές:
 
@@ -82,68 +82,3 @@ beet remove title:'Haunted'
 ---
 
 
-## Παραδοτέο 3:
-## Download a torrent
-
-
-## install rtorrent
-```
-sudo apt-get install rtorrent
-```                                             
-### Το επόμενο βήμα ήταν να κατεβάσω το αρχείο .rtorrent.rc από το github:
-```
-https://gist.github.com/bryanjswift/1525912
-```            
-
-### Στο επόμενο βήμα δημιούργησα 3 φακέλους rDownloads, rSessions και rWatch στο /home/christos/. Μετά άλλαξα τον φάκελο αποθήκευσης μέσα στο αρχείο .rtorrent.rc τον φάκελο αποθήκευσης απο unsorted σε /home/christos/Downloads. 
-
-## Asciinema URL: https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi
-
-### Κάποια βασικά keybindings είναι:
-
-```
-Ctrl+S = κατεβάζει το torrent
-Ctrl+D = σταματάει το torrent
-Ctrl+D(2) = διαγράφει το torrent
-```   
-
----
-
-## Παραδοτέο 4:
-## Visualize an mp3: demonstrate album art and visualizations with an mp3 player and various songs.
-
-## install cmus
-```
-sudo apt-get install cmus
-```                       
-### Η χρήση του cmus δίνει τη δυνατότητα στον χρήστη να διαχειριστεί πλήθος αρχείων mp3, να τα ταξινομήσει με βάση τα album και δημιουργήσει playlists της επιλογής του. Η εμφάνιση είναι απλή και είναι χωρισμένο σε 7 διαφορετικές εμφανίσεις (views) όπου η κάθε εμφάνιση επιλέγεται με βάση έναν αριθμό από το 1-7:
-
-```
-1. Library
-2. Sorted Library
-3. Playlist
-4. Play Queue
-5. Browser
-6. Filters
-7. Settings
-```           
-## Εισαγωγή mp3 στο cmus:
-```
-:add ~/Music
-```           
-
-## Asciinema URL: https://asciinema.org/a/rk8NkeNtKJ8s3HKKkeRyCxEv3
-
-
-## Κάποια βασικά keybindings είναι:
-
-```
-x = play song
-c = pause
-v = stop
-z = previous song
-b = next song
-```           
-
-
----
