@@ -11,7 +11,7 @@
 ## Twitter:https://twitter.com/home
 
 
-## Παραδοτέο 1ο
+## Παραδοτέο 1:
 ### download mp3 - search, download and play (with the terminal) your favorite song of the month from youtube.
 
 
