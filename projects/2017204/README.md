@@ -84,7 +84,7 @@ beet move -d /home/christos title:'Haunted'
 ## delete songs
 ```
 beet remove title:'Haunted'
-```                       
+```   
 
 ---
 
