@@ -103,8 +103,7 @@
 #
 #### Αναρτήσεις του περιεχομένου του mibook.org/gr/ με τρόπο εκπαιδευτικό και ευχάριστο! 
 #### Για τις αναρτήσεις έγινε χρήση των κοινωνικών δικτύων facebook και tweeter.
-#### Οι αναρτήσεις φαίνονται παρακάτω:
-
+#
 #### https://www.facebook.com/andreas.kagkelaris/videos/10156381743232414/
 #### https://www.facebook.com/andreas.kagkelaris/videos/10156381702157414/
 #### https://www.facebook.com/andreas.kagkelaris/videos/10156381718967414/
