@@ -18,3 +18,13 @@
 ### youtube-dl -x --audio-format mp3 + link του βίντεο
 ### ls
 ### play + όνομα αρχείου mp3
+
+### Εργασία 2: Youtube video streaming
+
+### Asciinema URL: https://asciinema.org/a/BiVvsIqSvkaPJIDNlcEJhO7US
+
+## Χρησημοποίησα τα εξής προγράμματα:
+### sudo apt install mplayer
+
+## Οι εντολές που χρησιμοποίησα:
+### mplayer -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g --cookies /tmp/cookie.txt "link του βίντεο")
