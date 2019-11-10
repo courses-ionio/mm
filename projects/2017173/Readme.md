@@ -47,7 +47,7 @@ $(youtube-dl -g --cookies /tmp/cookie.txt "video link you want to stream")
 
 ## Τρίτο Παραδοτέο :
 ### download a torrent
-### Asciinema URL : https://asciinema.org/a/280293
+[Asciinema Link 3](https://asciinema.org/a/280293)
 
 ```
 sudo apt-get install rtorrent
@@ -66,7 +66,7 @@ rtorrent
 
 ## Τέταρτο Παραδοτέο :
 ### demonstrate album art and visualizations with an mp3 player and various songs
-### Asciinema URL: 
+[Asciinema Link 4]( )
 
 Tο cmus μας βοηθά στη δημιουργία album τραγουδιών και να κάνουμε δικά μας playlists.
 Είναι χωρισμένο σε 7 views :
