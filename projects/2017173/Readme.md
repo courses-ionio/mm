@@ -66,7 +66,7 @@ rtorrent
 
 ## Τέταρτο Παραδοτέο :
 ### demonstrate album art and visualizations with an mp3 player and various songs
-### Asciinema URL: https://asciinema.org/a/NFhmJ5TYmL44RavqELDUrYogI
+### Asciinema URL: 
 
 Tο cmus μας βοηθά στη δημιουργία album τραγουδιών και να κάνουμε δικά μας playlists.
 Είναι χωρισμένο σε 7 views :
