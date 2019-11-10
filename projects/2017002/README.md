@@ -1,3 +1,8 @@
 2017002 /2ο Παραδοτέο
-Εργασια youtube video streaming
+Εργασία :youtube video streaming
 link διαδικασίας https://asciinema.org/a/278785
+
+
+3ο Παραδοτέο
+Εργασία :download a torrent
+link διαδικασίας https://asciinema.org/a/280364
