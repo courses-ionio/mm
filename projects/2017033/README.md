@@ -5,6 +5,7 @@
 ### Ονοματεπώνυμο: Σωκράτης Καραουστάς
 ### ΑΜ: Π2017033
 
+## Εργασία Περιεχομένου
 ### Εργασία 1: Search, download and play (with the terminal) your favorite song of the month from youtube
 
 ### Asciinema URL: https://asciinema.org/a/F1tLxlPFOJC2VY5uwtj6sj18K
@@ -28,3 +29,6 @@
 
 ## Οι εντολές που χρησιμοποίησα:
 ### mplayer -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g --cookies /tmp/cookie.txt "link του βίντεο")
+
+## Συμμετοχικό Υλικό
+### Twitter Link: https://twitter.com/p17kara
