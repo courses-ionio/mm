@@ -47,7 +47,7 @@ $(youtube-dl -g --cookies /tmp/cookie.txt "video link you want to stream")
 
 ## Τρίτο Παραδοτέο :
 ### download a torrent
-### Asciinema URL : https://asciinema.org/a/glt3cwe9kjMnOCQ4q5chESmsJ
+### Asciinema URL : https://asciinema.org/a/280293
 
 ```
 sudo apt-get install rtorrent
@@ -61,6 +61,7 @@ rtorrent
 Με τα βελάκια διαλέγεις πιο torrent θες να διαλέξεις και εμφανίζονται * διπλά από αυτό πού είναι επιλεγμένο
 Με τη χρήση του CTRL+S ξεκινά να κατεβάζει το torrent και με το CTRL+D το κάνει παύση . 
 Αν κάνεις δυο φορές CTRL+D τότε διαγράφεται to torrent.
+Με τη χρήση του CTRL + Q βγαίνεις απο την εφαρμογή του rtorrent.
 
 
 ## Τέταρτο Παραδοτέο :
