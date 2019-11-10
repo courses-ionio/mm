@@ -65,3 +65,15 @@ ________________________________________________________________________________
 
 [2ο tweet](https://twitter.com/Christiana_Kr/status/1192593161513840641)
 
+[3ο tweet](https://twitter.com/Christiana_Kr/status/1193628815123271683)
+
+[4ο tweet](https://twitter.com/Christiana_Kr/status/1193634239180353536)
+
+[5ο tweet](https://twitter.com/Christiana_Kr/status/1193639859275079680)
+
+[6ο tweet](https://twitter.com/Christiana_Kr/status/1193644214871117831)
+
+[7ο tweet](https://twitter.com/Christiana_Kr/status/1193658457720840193)
+
+[8ο tweet](https://twitter.com/Christiana_Kr/status/1193661775650136066)
+
