@@ -77,3 +77,7 @@ ________________________________________________________________________________
 
 [8ο tweet](https://twitter.com/Christiana_Kr/status/1193661775650136066)
 
+[9ο tweet](https://twitter.com/Christiana_Kr/status/1193824462103367681)
+
+[10ο tweet](https://twitter.com/Christiana_Kr/status/1193861613830496258)
+
