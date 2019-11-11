@@ -65,7 +65,7 @@
  
   1) Εγκατάσταση των MPD, ncmpcpp και MPC (client πρόγραμμα που μπορεί να ελέγχει τον MPD).
           - sudo apt-get install mpd mpc ncmpcpp
-  2) Για να δούμε τι χρειάζεται για το configuration του mpd ανοίγουμε το file mpd.conf που βρίσκεται στο directory /etc. Στην συνέχεια ελέγχουμε αν η εγκατάσταση του προγράμματος δημιούργησε τους αναγκαίους φακέλους στα σωστά αποθετήρια. Στη δική μου περίπτωση έπρεπε να προσθέσω τον φάκελο mpdstate στο var/lib/mpd καθώς και να αλλάξω το όνομα του music directory σε αυτό που υπήρχε στο δικό μου υπολογιστή. Έπειτα δημιουργούμε directories τα οποία χρειάζεται το MPD ώστε να τρέξει σωστά, ένα default configurations directory  και ένα playlist directory. 
+  2) Για να δούμε τι χρειάζεται για το configuration του mpd ανοίγουμε το file mpd.conf που βρίσκεται στο directory /etc. Στην συνέχεια ελέγχουμε αν η εγκατάσταση του προγράμματος δημιούργησε τους αναγκαίους φακέλους στους σωστούς καταλόγους. Στη δική μου περίπτωση έπρεπε να προσθέσω τον φάκελο mpdstate στο var/lib/mpd καθώς και να αλλάξω το όνομα του music directory σε αυτό που υπήρχε στο δικό μου υπολογιστή. Έπειτα δημιουργούμε directories τα οποία χρειάζεται το MPD ώστε να τρέξει σωστά, ένα default configurations directory  και ένα playlist directory. 
   
           - mkdir -p ~/.mpd/playlists/
           - nano ~/.mpd/mpd.conf
@@ -97,7 +97,7 @@
           - mkdir -p ~/.ncmcpp/lyrics
           - nano ~/.ncmpcpp/config
           
- Στο config file που δημιουργήσαμε μέσα στο αποθετήριο ncmpcpp προσθέτουμε:
+ Στο config file που δημιουργήσαμε μέσα στο directory ncmpcpp προσθέτουμε:
         
         mpd_music_dir = "~/Music"  
         lyrics_directory  = ~/.ncmpcpp/lyrics
