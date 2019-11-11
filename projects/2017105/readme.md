@@ -72,4 +72,4 @@ Link έκτης ανάρτησης [Google Assistant] https://twitter.com/Dionis
 
 Link έβδομης ανάρτησης [Windows 1] https://twitter.com/DionisisZervas/status/1193913421751836672
 
-Link όγδοης ανάρτησης [Virtual Reality into Military Training] https://twitter.com/DionisisZervas/status/1193914889502416896
+Link όγδοης ανάρτησης [Virtual Reality into Military Training] https://twitter.com/DionisisZervas/status/1193914889502416896 
