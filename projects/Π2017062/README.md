@@ -129,6 +129,30 @@
    
    
    
-   
-     
- 
+## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ
+
+### A
+
+Για την εργασία αυτή επέλεξα να ποστάρω τις 10 δημοσιεύσεις μου στο Twitter, ένα social media γνωστό για το μικρή έκταση των post, την χρήση #, την αναφορά σε άλλα άτομα χρησιμοποιώντας @ καθώς και την χρήση gif, εικόνων και βίντεο.
+
+[Λογαριασμός Twitter](https://twitter.com/valery_las)
+
+[1o Tweet](https://twitter.com/valery_las/status/1192573181279768576)
+
+[2o Tweet](https://twitter.com/valery_las/status/1192826188089249795)
+
+[3o Tweet](https://twitter.com/valery_las/status/1192845171953733633)
+
+[4o Tweet](https://twitter.com/valery_las/status/1192985622727798784)
+
+[5o Tweet](https://twitter.com/valery_las/status/1193335627141582848)
+
+[6o Tweet](https://twitter.com/valery_las/status/1193550034668867584)
+
+[7o Tweet](https://twitter.com/valery_las/status/1193676728742424576)
+
+[8o Tweet](https://twitter.com/valery_las/status/1193688401653968898)
+
+[9o Tweet](https://twitter.com/valery_las/status/1193696721676705792)
+
+[10o Tweet](https://twitter.com/valery_las/status/1193959652762869764)
