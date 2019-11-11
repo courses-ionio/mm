@@ -4,6 +4,10 @@
 ### Ελευθέριος Ελευθεριάδης
 ### ΑΜ: Π2017166
 
+## Συμμετοχικό Περιεχόμενο
+
+[Twitter](https://twitter.com/SJB8gUqGuj2tQz5)
+
 ## Πρώτο Παραδοτέο
 search, download and play (with the terminal) your favorite song of the month from youtube
 
