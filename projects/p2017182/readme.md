@@ -55,3 +55,5 @@
 
 [math-blaster](https://ktre.tumblr.com/post/189014716598/people-have-been-making-games-since-the-first)
 
+[kidsim](https://ktre.tumblr.com/post/189016745153/shouldnt-just-everyone-be-at-a-position-to?is_related_post=1)
+
