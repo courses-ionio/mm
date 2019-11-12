@@ -45,6 +45,12 @@
 
 ![Deliverable post](screenshots/hugo3.png)
 
+
+# Συμμετοχικό περιεχόμενο
+
+[home programming](https://ktre.tumblr.com/post/189013860368/starting-with-the-first-pcs-when-every-computer)
+[math-blaster](https://ktre.tumblr.com/post/189014716598/people-have-been-making-games-since-the-first)
+
 Και στις δυο ιστοσελίδες τα λίνκ προς τα ασκίνεμα και γκίτχαμπ λειτουργούν κανονικά.
 Εάν χρειάζεται μπορεί να δημηουργηθει καινούριο repo με τον κώδικα και για τις δυο ιστοσελιδες.
 
