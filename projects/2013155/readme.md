@@ -96,6 +96,36 @@ mpc ls|mpc add
 
 ![Screenshot](xming3.png)
 
+## Eργασία 3. Download a torrent
+#### url asciinema: https://asciinema.org/a/0y8cWAVblQtJuCVC9eU6wxle3
+
+Για την χρησιμοποίησα τον deluge https://deluge-torrent.org/. Ευκολο στην εγκατάσταση και δουλεύει out of the box, χωρίς καμία ρύθμιση.
+Η εγκατάσταση έγινε με την εντολή
+
+```
+sudo apt-get install deluge deluged deluge-console
+```
+Αμέσως μετά την εγκατάσταση πρέπει να ξεκινήσει ο daemon με την εντολή
+
+```
+deluged
+```
+Για να ανοιξουμε τον client της κονσόλας πληκτρολογούμε την εντολή
+
+```
+deluge-console
+```
+Προσθέτουμε torrent ορίζοντας και το download path με την εντολή
+
+```
+add -p /path/to/downloads torrent_magnet_link
+```
+
+Επέλεξα να κατεβάσω μια συλλογη με κλασσική μουσική (Vivaldi, Mozart, Strauss) που βρήκα στο pirate bay
+https://piratebay.live/torrent/7369955/[Classical_Music]_The_Best_Of_(Vivaldi__Bethovenn__Mozart__Strau
+
+Βοήθεια σχετικά με την εγκατάσταση και το κατέβασμα του torrent πήρα απο 
+https://askubuntu.com/questions/315113/how-to-run-deluge-from-cli
 
 
 
