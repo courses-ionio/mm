@@ -7,12 +7,12 @@
 
 ## Συμμετοχικό περιεχόμενο
 
-### Twitter link : https://twitter.com/P17styl
+[Twitter Link](https://twitter.com/P17styl)
 
 ## Terminal
 ## Πρώτο Παραδοτέο : 
 ###  search, download and play (with the terminal) your favorite song of the month from youtube
-### Asciinema URL : https://asciinema.org/a/WpyFWm3eNmY5rSkdvfjgvqMKJ
+[Asciinema Link 1](https://asciinema.org/a/WpyFWm3eNmY5rSkdvfjgvqMKJ)
 ### Τα προγράμματα που χρειάζονται
 
 ```
@@ -30,7 +30,7 @@ play 'Song name.mp3'
 ```
 ## Δεύτερο Παραδοτέο : 
 ### youtube video streaming
-### Asciinema URL : https://asciinema.org/a/280073
+[Asciinema Link 2](https://asciinema.org/a/280073)
 
 Ακριβός όπως το πρώτο παραδοτέο έτσι και στο δεύτερο κάνουμε αναζήτηση του βίντεο που θέλουμε και με την πιο κάτω εντολή ανοίγει ένα παράθυρο και παίζει το βίντεο κανονικά χωρίς να χρειάζεται να τα κατεβάσεις.
 ```
@@ -45,3 +45,54 @@ $(youtube-dl -g --cookies /tmp/cookie.txt "video link you want to stream")
 Το -g είναι για να μην κατεβάσει το βίντεο αλλά απλά να μας δώσει το link.
 Το path /tmp/cookie.txt πρέπει να είναι το ίδιο και στα δύο. 
 
+## Τρίτο Παραδοτέο :
+### download a torrent
+[Asciinema Link 3](https://asciinema.org/a/280293)
+
+```
+sudo apt-get install rtorrent
+```
+```
+rtorrent
+```
+Πατάμε τα βελάκια πάνω ή κάτω.
+Κάνουμε αντιγραφή το link του να κατεβάσεις ένα torrent αρχείο και πατάμε enter.
+Μετά θα εμφανιστεί το όνομα του torrent που θέλουμε να κατεβάσουμε.
+Με τα βελάκια διαλέγεις πιο torrent θες να διαλέξεις και εμφανίζονται * διπλά από αυτό πού είναι επιλεγμένο
+Με τη χρήση του CTRL+S ξεκινά να κατεβάζει το torrent και με το CTRL+D το κάνει παύση . 
+Αν κάνεις δυο φορές CTRL+D τότε διαγράφεται to torrent.
+Με τη χρήση του CTRL + Q βγαίνεις απο την εφαρμογή του rtorrent.
+
+
+## Τέταρτο Παραδοτέο :
+### demonstrate album art and visualizations with an mp3 player and various songs
+[Asciinema Link 4]( )
+
+Tο cmus μας βοηθά στη δημιουργία album τραγουδιών και να κάνουμε δικά μας playlists.
+Είναι χωρισμένο σε 7 views :
+
+1 - Library
+
+2 - Sorted library
+
+3 - Playlist
+
+4 - Play Queue
+
+5 - Browser
+
+6 - Filters
+
+7 - Settings
+
+Αλλάζεις το view σου πιέζοντας τους αριθμούς που βρίσκονται δίπλα από το όνομα του συγκεκριμένου view.Υπάρχουν και keybindings που μας βοήθα να κερδίζουμε χρόνο και επίσης μπορείς να αλλάξεις τα keybindings όπως σε βολεύει.
+Με τη χρήση του :add κανείς προσθήκη τα τραγούδια που βρίσκονται σε εκείνο το αρχείο.
+```
+:add ~/Music
+```
+Μετά με τη χρήση κάποιων keybindings επεξεργαζόμαστε τη σειρά του playlists που έχουμε κάνει.
+```
+e = add to queue
+a = add to playlist
+p = move down the song in playlist or queue
+P = move up the song in playlist or queue
