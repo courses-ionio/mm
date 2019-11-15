@@ -106,5 +106,12 @@ https://gist.github.com/bryanjswift/1525912
 
 ## Asciinema URL: https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi
 
+## Χειρισμός του rtorrent:
 
+```
+1.Ctrl+s = κατεβαίνει το torrent
+2.Ctrl+d = σταματάει το torrent
+3.Ctrl+2d = διαγράφεται το torrent
+4.Ctrl+q = έξοδος από το rtorrent
+```     
 ---
