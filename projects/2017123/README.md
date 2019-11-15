@@ -17,6 +17,18 @@
 Link tou video: https://asciinema.org/a/OnU67ANkosnc8xLdIzLSfdZOh
 
 
+## 2ο Παραδοτέο
+## Άσκηση 6η: download a torrent
+
+Έχοντας κατεβάσει το rtorrent εκτελώ την εντολή "rtorrent" και κάνω paste αυτό το λινκ: http://www.legittorrents.info/download.php?id=b3b258dc66a870f122b9854ecac59f36e310b9d8&f=Alter%20Bridge%20%E2%80%93%20Walk%20the%20Sky%20(2019).torrent.
+Στη συνέχεια με τα βελάκια και πατώντας τον αριθμό 2 επιλέγω το torrent και με την εντολή ctrl+s ξεκινάει η εγκατάστασή του.Με την ctrl+d σταματάω το download και με το 2x ctrl+d διαγράφω το torrent.Με το crtl+q κάνω exit.
+
+Link του βίντεο: https://asciinema.org/a/da6bz9g8Zf0MCa0ObEOjGBPdp
+
+
+
+
+
 # Συμμετοχικό Εκπαιδευτικό Υλικό:
 # A) Ενδιάμεση αναφορά:
 
