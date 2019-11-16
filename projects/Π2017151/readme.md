@@ -94,7 +94,41 @@ ctrl+D = stop torrent
 ctrl+DD = delete torrent
 Ctrl + k = close a torrent 
 Backspace = Enter the URL of a new torrent to download.
+
+
+
 ```
+
+
+
+
+## Παραδοτέο 3
+### youtube video streaming.
+
+Σε αυτή το παραδοτέο έκανα χρήση του youtube-viewer. Όταν ανοίξεις το youtube-viewer  ψαχνεις το βιντεο που θες  και πατάς enter. στη συνεχεια σου βγαζει μια λιστα με βιντεο που εχουν βρεθει. επιλεγεις τον αριθμο του βιντεο που θες να δεις και πατας enter.
+
+## [Asciinema URL](https://asciinema.org/a/277778)
+
+
+# ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
+
+
+
+
+### youtube-viewer 
+
+```
+sudo apt install youtube-viewer
+```
+
+
+
+### git απο το youtube video streaming  
+
+https://gfycat.com/leafyyearlyatlanticsharpnosepuffer
+
+
+
 
 
 
