@@ -33,3 +33,43 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 ```
 sudo apt-get install mpv
 ```
+
+## Εργασία 2η: Download a torrent
+
+### URL asciinema: https://asciinema.org/a/280050
+Για την εργασία αυτή χρησιμοποίησα το [rTorrent] μέσω του οποίου σου παρέχετε η δυνατότητα να πραγματοποιήσης τη λήψη ενός torrent αρχείου με διάφορους τρόπους (URL link, Magnet link κ.α.) Για τη διεκπεραίωση της εργασίας διάλεξα να χρησιμοποιήσω τον τρόπου του magnet link.
+Έγκατάσταση rTorrent
+```
+sudo apt-get install rtorrent
+```
+Aρχικά καλείς από τον τερματικό το rTorrent με την εντολή
+```
+rTorrent
+```
+Στη συνέχεια εμφανίζεται ενα νέο περιβάλλον στο οποίο καλείται ο χρήστης να εισάγει το torrent που θέλει να κατεβάσει. Για να γίνει αυτο ο χρήστης πρέπει να πατήσει ENTER και στη συνέχεια να προσθέσει το Link το οποιο αντισοιχεί στο αρχείο που θέλει να "κατεβάσει"
+Έπειτα ο χρήστης πρέπει να διαλέξει με τα βελάκια του πληκτρολογίου ποίο αρχείο επιθυμεί να προχωρίσει σε λήψη και στη συνέχεια να πατήσεις CTRL+S έτσι ώστε να αρχίσει η λήψη του αρχείου.
+
+
+## Συμμετοχικό Υλικό- Α'Παραδοτέο
+ 
+ # Link του βιβλίου (https://mibook.org/gr/)
+ 
+  Για την ανάρτηση του περιεχομένου του βιβλίου [mibook/gr](https://mibook.org/gr/) με τρόπο εκπαιδευτικό και ευχάριστο, χρησιμοποίησα το [Twitter] (https://twitter.com/DionisisZervas).
+
+Για το πρώτο παραδοτέο υλοποίησα συνολικά οτκώ δημοσιεύσεις ( 3 για το Β παραδοτέο) στις οποίες προσθάθησα να "εκμεταλλευτώ" όλες τις δυνατότητες του κοινωνικού αυτού δικτύου (text, images, gif, mention, hashtags,polls etc).
+
+Link πρώτης ανάρτησης [Ορισμός multimedia] https://twitter.com/DionisisZervas/status/1193896683807166464
+
+Link δεύτερης ανάρτησης [Street Maps] https://twitter.com/DionisisZervas/status/1193901779962015744
+
+Link τρίτης ανάρτησης [GitHub] https://twitter.com/DionisisZervas/status/1193903829248626693
+
+Link τέταρτης ανάρτησης [Apple-I-Computer] https://twitter.com/DionisisZervas/status/1193905369791246336
+
+Link πέμπτης ανάρτησης [Google Search Engine] https://twitter.com/DionisisZervas/status/1193907509733609474
+
+Link έκτης ανάρτησης [Google Assistant] https://twitter.com/DionisisZervas/status/1193909993571045377
+
+Link έβδομης ανάρτησης [Windows 1] https://twitter.com/DionisisZervas/status/1193913421751836672
+
+Link όγδοης ανάρτησης [Virtual Reality into Military Training] https://twitter.com/DionisisZervas/status/1193914889502416896  
