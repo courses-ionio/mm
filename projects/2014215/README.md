@@ -32,7 +32,7 @@ mpv <filename>
 Οδηγίες σχετικά με τη χρήση του youtube-dl βρηκα απο το παρακάτω url
 https://www.tecmint.com/download-mp3-song-from-youtube-videos/
 
-### Άσκηση 2.Download a torrent
+### Άσκηση 2. Download a torrent
 
 #### url asciinema: https://asciinema.org/a/lkQD9eFiqlLW9CIcghx9ln7KN
 
