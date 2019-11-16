@@ -115,6 +115,41 @@
 #### https://twitter.com/kagelaris3/status/1192928238240194563 
 #### https://twitter.com/kagelaris3/status/1192927744604196864 
 #### https://twitter.com/kagelaris3/status/1192925222904705026
+#
+## Παραδοτέο 3 (Άσκηση 3)
+#### Τίτλος: edit a spreadsheet
+#### Ζητούμενα: 
+#### 1) edit values and formulas
+#
+#### Για την εκπόνηση της άσκησης, ακολουθήσαμε τα εξής βήματα:
+##### α) Εγκατάσταση του S/W 'asciinema', ώστε να γίνει καταγραφή του terminal (χρήση flag -i=0.2 για την αποφυγή καταγραφής κενών διαστημάτων). Για την σκοπό της άσκησης δημιουργήσαμε και λογαριασμό στο www.asciinema.org
+###### sudo apt-get install asciinema
+##### β) Τροποποίηση του .bashrc, ώστε το bash prompt να δείχνει τον Α.Μ. μας.
+###### vi .bashrc
+##### γ) Εγκατάσταση του S/W 'sc' ώστε να επεξεργαστούμε ένα spreadsheed. 
+###### sudo apt install sc
+##### δ) Εκκίνηση του επεξεργαστή 'sc'. Πραγματοποιήθηκαν οι παρακάτω λειτουργίες:
+###### hjkl — keys motion
+###### gX00 - go to cell
+###### ir — insert row
+###### dr — delete row
+###### = — enter a numeric value
+###### = (@sum(A2:A145)) enter a formula
+###### e — edit a numeric value
+###### e — edit a formula
+###### P<ΜΜ.sc> — write an .sc file
+###### q=quite
+#
+#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο παρακάτω link:
+#### https://asciinema.org/a/281721
+#
+#### link στο αποθετήριο του κώδικα:
+#### https://github.com/p17kagk/mm/tree/master
+#### link στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
+#### https://github.com/p17kagk/mm/tree/P2017203
+#### link στο εκτελέσιμο:
+#### https://asciinema.org/a/281721
+#
 
 
 
