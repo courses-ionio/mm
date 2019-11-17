@@ -80,7 +80,7 @@ AM: Π2017063
    ## Άσκηση 3 Multimedia (Προθ.17/11)
    ### Watch video (youtube video streaming)
    
-    
+   Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Googler](https://www.tecmint.com/google-commandline-search-terminal/) το οποίο χρησιμοποίησα για να κάνω αναζήτηση το τραγούδι. Έπειτα χρησιμοποίησα την εντολη c 3 (copy 3) για να αντιγράψω το Link του τρίτου συνδέσμου που μου εμφάνισε. Τέλος, χρησιμοποίησα το [mpv player](https://github.com/mpv-player/mpv) και ξεκίνησε να "παίζει" το video χωρις να το έχω κατεβάσει.( Θα μπορούσα και να το κατεβάσω μεσω του youtube-dl πρώτα (youtude-dl URL)).
    
    [Link για την πρώτη άσκηση](https://asciinema.org/a/5oYQOdzfxVC6DuQS0hCNjLVCe)
    
