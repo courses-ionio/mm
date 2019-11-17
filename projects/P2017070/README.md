@@ -2,7 +2,9 @@
 
 ## First Assignment- Download mp3
 
-Εργαλεία: youtube-dl
+Εργαλεία: 
+          
+          youtube-dl
 
           mpv player
           
@@ -60,6 +62,7 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
 ### Second Assignment- Download a torrent
 
 Εργαλεία: 
+          
           links
 
           rtorrent
