@@ -91,6 +91,25 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
 - [Virtual reality](https://twitter.com/tonia_smirliadi/status/1193312986284335104)
 
 
+# Όνομα εργασίας - 3ο παραδοτέο : watch a video
+ ### Link καταγραφής : https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA
 
+ ### Link αρχείου Youtube: https://www.youtube.com/watch?v=L0MK7qz13bU
 
+Ζητούμενα: youtube video streaming
 
+Οι εργασίες πραγματοποιήθηκαν σε λειτουργικό σύστημα Ubuntu.
+
+Τροποποίηση του .bashrc, ώστε το bash prompt να δείχνει τον Α.Μ. P2017130
+
+Για τις ανάγκες της εργασίας έγιναν οι παρακάτω εγκαταστάσεις και εκτελέστηκαν μέσω terminal τα:
+
+Εγγραφή και διευκόλυνση της παρακολούθησης του βίντεο πιο γρήγορα με την εντολή asciinema rec -i=0.2
+
+Αναζήτηση και κατέβασμα του βίντεο που μας ενδιαφέρει μέσω της εντολής youtubr-dl "[link αρχείου](https://www.youtube.com/watch?v=L0MK7qz13bU)" 
+
+Αναπαραγωγή βίντεο μέσω του mplayer και δημιουργία cook.txt 
+
+Πηγή οδηγιών: https://unix.stackexchange.com/questions/160212/watch-youtube-videos-in-terminal
+
+ <a href="https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA" target="_blank"><img src="https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA" /></a>
