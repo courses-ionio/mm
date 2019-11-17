@@ -57,5 +57,34 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
 [Λινκ για wiki-edit](https://twitter.com/farmaki4/status/1193524594256338946)
 
 
+### Second Assignment- Download a torrent
+
+Εργαλεία: links
+          rtorrent
+          asciinema 
+         
+         
+Για το δεύτερο παραδοτέο τα βήματα που ακολούθησα ήταν τα εξής:
+
+- asciinema rec --idle-time-limit=0.3 για την γρηγορότερη ροή του βίντεο
+
+- PS1="P2017070-> " για να μετατρέψω το όνομα του prompt στο όνομα Α.Μ. 
+
+- Εγκατάσταση της εντολής "links" με στόχο να αναζητήσω το λινκ μέσω command line. (apt-get install links)
+
+- Εγκατάσταση της εντολής "rtorrent".
+
+- Αναζήτηση μέσω του "links" στο site eztv.io, το οποίο περιλαμβάνει αρχεία torrent. (links eztv.io)
+
+- Επιλογή του κατάλληλου λινκ μέσω των πλήκτρων. (Down, Up, Enter)
+
+- Υλοποίηση της εντολής rtorrent
+
+- Ctrl-D για διακοπή του download
+
+- Ctrl-Q για έξοδο
+
+[Link asciinema](https://asciinema.org/a/OMdqkJgfkkp0aFEdJN52VDS7p)
+
 
 
