@@ -60,7 +60,9 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
 ### Second Assignment- Download a torrent
 
 Εργαλεία: links
+
           rtorrent
+          
           asciinema 
          
          
