@@ -77,7 +77,12 @@ AM: Π2017063
   
   
   
-  
+   ## Άσκηση 3 Multimedia (Προθ.17/11)
+   ### Watch video (youtube video streaming)
+   
+   ![image](Screenshot from 2019-11-17 10-56-08.png)
+   
+   
   
   
   
