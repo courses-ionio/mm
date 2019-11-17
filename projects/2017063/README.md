@@ -80,6 +80,11 @@ AM: Π2017063
    ## Άσκηση 3 Multimedia (Προθ.17/11)
    ### Watch video (youtube video streaming)
    
+    
+   
+   [Link για την πρώτη άσκηση](https://asciinema.org/a/5oYQOdzfxVC6DuQS0hCNjLVCe)
+   
+   
    ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot%20from%202019-11-17%2010-56-08.png)
    
    
