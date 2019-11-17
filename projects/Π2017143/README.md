@@ -12,6 +12,12 @@
 Το spotdl παίρνει ένα λινκ απο το spotify ψάχνει για να το βρεί στο youtube και το κατεβάζει με το youtube-dl, μετα προσθέτει τα metadata που πείρε από το spotify. 
 Το cmus είναι ένα απλό music player σε terminal.
 
+### Άσκηση 2
+
+##### link προς asciinema:
+[![asciicast](https://asciinema.org/a/281901.svg)](https://asciinema.org/a/281901)
+
+Στην άσκηση αυτή θα χρησιμοποιήσω το epr για να διαβάσω ένα ebook καθώς να ψάξω σε αυτό και να βάλω σελιδοδείκτη στο σημείο που σταμάτισα το διάβασμα.
 
 ### Συμμετοχικό περιεχόμενο
 ##### links προς twitter:
