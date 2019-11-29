@@ -1,6 +1,6 @@
 # ΠΟΛΥΜΕΣΑ-MULTIMEDIA 
 
-## First Assignment- Download mp3
+### First Assignment- Download mp3
 
 Εργαλεία: 
           
@@ -32,7 +32,7 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
                                https://www.ostechnix.com/hide-modify-usernamelocalhost-part-terminal/
                                Github
                                
-[Link asciinema](https://asciinema.org/a/Y48NlruYBUNCsIg3OtDeOHyDv)                               
+[Link asciinema for the first assignment](https://asciinema.org/a/Y48NlruYBUNCsIg3OtDeOHyDv)                               
                                
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό
@@ -90,7 +90,47 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
 
 - Ctrl-Q για έξοδο
 
-[Link asciinema](https://asciinema.org/a/OMdqkJgfkkp0aFEdJN52VDS7p)
+[Link asciinema of Second assignment](https://asciinema.org/a/OMdqkJgfkkp0aFEdJN52VDS7p)
+
+### Third Assignment- Youtube video streaming with asciiart
+
+Εργαλεία: 
+
+          ddgr
+          
+          mpv player
+          
+          libcaca
+          
+          asciinema
+          
+       
+Για το τρίτο παραδοτέο τα βήματα που ακολούθησα ήταν τα εξής:
+
+- Εγκατάσταση της μηχανής αναζήτησης "ddgr" με την εντολή "apt-get install ddgr".
+
+- Εγκατάσταση της βιβλιοθήκης "libcaca" η οποία μετατρέπει τις εικόνες σε μορφή colored Asciiart μέσω της εντολής "apt-get --yes install caca-utils".
+
+- Εγκατάσταση του mpv player για να παίξει το βίντεο.
+
+- Εκτέλεση εντολής asciinema rec --idle-time-limit=0.3 για την γρηγορότερη ροή του βίντεο.
+
+- PS1="P2017070-> " για να μετατρέψω το όνομα του prompt στο όνομα Α.Μ.
+
+- Εκτέλεση εντολής "ddgr Sometimes james " για την αναζήτηση του τραγουδιού.
+
+- c 1 για την αντιγραφή του επιθυμητού link
+
+- DISPLAY= mpv --quiet -vo caca 'λινκ τραγουδιού'. Το DISPLAY χρησιμοποιείται ετσι ώστε το τραγούδι να μην ανοίξει σε παραθυρικό περιβάλλον αλλά στο ίδιο παράθυρο όπου εκτελούνται οι εντολές. Το caca χρησιμεύει στο να μην είναι ασπρομαυρο το περιβάλλον.
+
+- q για έξοδο από το περιβάλλον ascii
+
+- exit για εξοδο απο asciinema rec.
+
+[Link asciinema for the third assignment](https://asciinema.org/a/pQHmZaSY0yHWkYKv9F2lUkCdw)
+
+Παρατήρηση! Η εργασία μπορεί να δεχτεί διορθώσεις όσο αναφορά την ποιότητα και την εμφάνιση του βίντεο σε ascii , ώστε να φαίνεται πιο καθαρά.
+
 
 
 
