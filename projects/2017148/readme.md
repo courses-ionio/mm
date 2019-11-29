@@ -139,6 +139,8 @@ dc -> Delete column
 ## Παραδοτέο 4
 ### manage your music library	- import your music library, add tags and delete/add songs
 
+## [Asciinema Recording URL: https://asciinema.org/a/277344](https://asciinema.org/a/277344)
+
 Αρχικά έκανα επεξεργασία του αρχείου config.yml όπου έβαλα το φάκελο τις μουσικής και το library για το beets.
 Ακολούθως έβαλα τη μουσική μου μέσα στο φάκελο που είναι το library του beets μέσο της εντολής:
 ```
@@ -153,3 +155,8 @@ beet modify song artists="" tags="" title=""
 beet remove title:""
 beet import
 ```
+Εντολή για να δεις τη λίστα με τα τραγούδια
+```
+beet ls
+```
+
