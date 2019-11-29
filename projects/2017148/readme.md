@@ -135,3 +135,21 @@ dc -> Delete column
 :q  -> Quit
 
 ```
+
+## Παραδοτέο 4
+### manage your music library	- import your music library, add tags and delete/add songs
+
+Αρχικά έκανα επεξεργασία του αρχείου config.yml όπου έβαλα το φάκελο τις μουσικής και το library για το beets.
+Ακολούθως έβαλα τη μουσική μου μέσα στο φάκελο που είναι το library του beets μέσο της εντολής:
+```
+beet import ~/Music/Mousikiold
+```
+Πρόσθεσα tags σε ένα από τα τραγούδια με τη εντολή:
+```
+beet modify song artists="" tags="" title=""
+```
+Για να αφαιρέσεις ή προσθέσεις τραγούδια:
+```
+beet remove title:""
+beet import
+```
