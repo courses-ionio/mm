@@ -115,3 +115,67 @@ https://gist.github.com/bryanjswift/1525912
 4.Ctrl+q = έξοδος από το rtorrent
 ```     
 ---
+
+## Παραδοτέο 4:
+## Visualize an mp3: demonstrate album art and visualizations with an mp3 player and various songs.
+
+## install cmus
+```
+sudo apt-get install cmus
+
+```                       
+### Η χρήση του cmus δίνει τη δυνατότητα στον χρήστη να διαχειριστεί πλήθος αρχείων mp3, να τα ταξινομήσει με βάση τα album και δημιουργήσει playlists της επιλογής του. Η εμφάνιση είναι απλή και είναι χωρισμένο σε 7 διαφορετικές εμφανίσεις (views) όπου η κάθε εμφάνιση επιλέγετα με βάση έναν αριθμό από το 1-7:
+
+```
+1. Library
+2. Sorted Library
+3. Playlist
+4. Play Queue
+5. Browser
+6. Filters
+7. Settings
+```           
+## Εισαγωγή mp3 στο cmus:
+```
+:add ~/Music
+
+```           
+
+## Asciinema URL: https://asciinema.org/a/rk8NkeNtKJ8s3HKKkeRyCxEv3
+
+
+## Κάποια βασικά keybindings είναι:
+
+```
+x = play song
+c = pause
+v = stop
+z = previous song
+b = next song
+
+```           
+
+
+---
+
+## Παραδοτέο 5
+## Watch video: youtube video streaming.
+
+## install mpv
+### Για την εγκαστάσταση του mpv έγινε η χρήση των παρακάτω εντολών:
+
+```
+sudo add-apt-repository ppa:mc3man/mpv-tests
+sudo apt-get update
+sudo apt-get install mpv
+
+```       
+## Asciinema URL:https://asciinema.org/a/3Z7CzQgc2m8EHAwPMtaM2WvsG
+
+### Η εκτέλεση του βίντεο γίνεται με την παρακάτω εντολή:
+
+```
+mpv "link"
+
+```       
+---
