@@ -112,4 +112,4 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
 
 Πηγή οδηγιών: https://unix.stackexchange.com/questions/160212/watch-youtube-videos-in-terminal
 
- <a href="https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA" target="_blank"><img src="https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA" /></a>
+  <a href="https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA" target="_blank"><img src="https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA.svg" /></a>
