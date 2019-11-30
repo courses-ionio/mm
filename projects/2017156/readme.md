@@ -8,7 +8,7 @@
  
 
 
-Με τη βοήθεια sudo: 
+Με τη βοήθεια της εντολης sudo: 
  
 Download mplayer 
 
@@ -32,7 +32,22 @@ $pip3 install --user youtube-dl --upgrade
 **LINK ASCIINEMA**   
 
  https://asciinema.org/a/279878  
-   (asciinema rec -i 0.5)
+   (asciinema rec -i 0.5)  
+   
+   ## 2η ΑΣΚΗΣΗ:  (convert your image files to different sizes and formats)  
+   
+   Κατεβασα το **ImageMagick**: 
+    
+   Με την εντολη **convert** αλλαξα το μεγεθος της εικονας και τη μορφη της.   
+   
+   **LINK ASCIINEMA** 
+   
+   https://asciinema.org/a/284428
+     (asciinema rec -i 0.5)
+   
+    
+   
+   
   
   
   
