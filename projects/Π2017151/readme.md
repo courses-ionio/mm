@@ -26,7 +26,7 @@
 ## [Asciinema URL](http://asciinema.org/a/qxybfXGWa4Pyo4zbJNCgJM01m)
 
 
-# ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
+## ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
 
 
 
@@ -74,7 +74,7 @@ mpv onemoreligh.mp3
 ## [Asciinema URL](https://asciinema.org/a/277311)
 
 
-# ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
+## ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
 
 για την λήψη τορρεντ μέσω του τέρμιναλ χει χρησιμοποιηθεί  το rTorrent. είναι ένας σχετικά εύκολος τρόπος όπου μπορείς να χρησιμοποιήσεις λινκ τορρεντ η directory path. τα τορρεντ που κατεβαίνουν μέσω του rTorrent αποθηκεύονται στο /home/username
 
@@ -110,7 +110,7 @@ Backspace = Enter the URL of a new torrent to download.
 ## [Asciinema URL](https://asciinema.org/a/277778)
 
 
-# ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
+## ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
 
 
 
@@ -126,6 +126,48 @@ sudo apt install youtube-viewer
 ### git απο το youtube video streaming  
 
 https://gfycat.com/leafyyearlyatlanticsharpnosepuffer
+
+
+
+
+## Παραδοτέο 4
+### manage your music library - import your music library, add tags and delete/add songs.
+
+## [Asciinema URL](https://asciinema.org/a/278649)
+
+
+## ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
+
+
+Σε αυτή το παραδοτέο έκανα χρήση του cmus. Το cmus ειναι ενα Music Player για τα  Linux οπου μπορεί  αναπαράγει μουσικά αρχεία αμέσως ακόμα , ακομη και αν  υπάρχουν χιλιάδες αρχεία ήχου. Επισης υποστηρίζει σχεδον ολες τις μορφές. MP3, FLAC, Opus, Musepack, WavPack, WAV, AAC, MP4
+
+###  εγκατασταση cmus
+
+```
+sudo apt-get install cmus
+```
+
+Μπορουμε να ξεκινήσουμε το Cmus πληκτρολογώντας την ακόλουθη εντολή στο Terminal
+
+### cmus start up
+
+```
+cmus 
+```
+
+καθως ανοίγουμε το cmus βλέπουμε πως δεν υπάρχουν αρχεία μουσικής, πρεπει να τα εισάγουμε βάση της τοποθεσίας όπου είναι αποθηκευμένα στον σύστημα. 
+
+### enter media in cmus
+
+```
+ add ~Music/music2
+```
+
+Μπορουμε να χρησιμοποιήσoυμε τα πάνω και κάτω βέλακι για να επιλέξουμε  ένα κομμάτι που θέλουμε να ακούσουμε. παταμε το  Enter για να το παίξει. επισης παταμε το  C  για pause η resume.
+
+
+
+
 
 
 
