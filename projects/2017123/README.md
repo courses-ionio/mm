@@ -47,7 +47,7 @@ Link Βιβλίου: https://mibook.org/gr/
 
 
 ## 3o Παραδοτέο
-##Άσκηση 8η:watch video : youtube video streaming 
+## Άσκηση 8η:watch video : youtube video streaming 
 Έχοντας κατεβάσει το mplayer με το "-cookies" χρησιμοποιώ cookies και δημιουργώ ένα φάκελο που περιέχει την πληροφορία με τα cookies
 βάζοντας το path του φακέλου "/tmp/cookies.txt".Με το esc κάνω exit.
 
