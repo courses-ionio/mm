@@ -113,3 +113,47 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
 Πηγή οδηγιών: https://unix.stackexchange.com/questions/160212/watch-youtube-videos-in-terminal
 
   <a href="https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA" target="_blank"><img src="https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA.svg" /></a>
+
+
+# Όνομα εργασίας - 4ο παραδοτέο : create a simple website with a static generator
+ ### Link καταγραφής : https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA
+
+Ζητούμενα: single page with name-AM-github and links to your asciinema deliverables
+
+Οι εργασίες πραγματοποιήθηκαν σε λειτουργικό σύστημα Ubuntu.
+
+Τροποποίηση του .bashrc, ώστε το bash prompt να δείχνει τον Α.Μ. P2017130
+
+Για τις ανάγκες της εργασίας έγιναν οι παρακάτω εγκαταστάσεις και εκτελέστηκαν μέσω terminal τα:
+
+Ruby και RubyGems: sudo apt-get install ruby-full build-essential και sudo gem install rubygems
+
+Bundler gems: gem install jekyll bundler
+
+Υστερα δημιούργησα το site μέσω του jekyll: jekyll toniasmirliadi-p2017130
+
+Κατευθύνθυκα στο πρωσοπικο directory μέσω του cd toniasmirliadi-p2017130
+
+Δημιούργησα τη στατική σελίδα: jekyll serve (χρειάστηκε να μεταβώ στο  http://localhost:4000)
+
+Στη συνέχεια επεξεργάστηκα το index.html αρχείο για να αλλάξω τα στοιχεία στη στατική μου σελιδα
+
+
+
+
+
+
+Πηγή οδηγιών: https://github.com/jekyll/jekyll
+
+https://jekyllrb.com/docs/step-by-step/01-setup/
+
+
+
+
+
+
+
+
+
+
+
