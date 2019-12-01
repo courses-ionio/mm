@@ -43,3 +43,14 @@ Link Βιβλίου: https://mibook.org/gr/
 4o Link: https://www.facebook.com/permalink.php?story_fbid=1093620214363045&id=100011452307501&notif_id=1573381967959316&notif_t=feedback_reaction_generic
 
 5o Link: https://www.facebook.com/photo.php?fbid=1093635181028215&set=a.1093635261028207&type=3&theater&notif_t=feedback_reaction_generic&notif_id=1573381998483303
+
+
+
+##3o Παραδοτέο
+##Άσκηση 8η:watch video : youtube video streaming 
+Έχοντας κατεβάσει το mplayer με το "-cookies" χρησιμοποιώ cookies και δημιουργώ ένα φάκελο που περιέχει την πληροφορία με τα cookies
+βάζοντας το path του φακέλου "/tmp/cookies.txt".Με το esc κάνω exit.
+
+link: https://asciinema.org/a/578URDHMhlHa8y8pLax1IEqT6
+
+
