@@ -82,7 +82,7 @@ AM: Π2017063
    
    Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Googler](https://www.tecmint.com/google-commandline-search-terminal/) το οποίο χρησιμοποίησα για να κάνω αναζήτηση το τραγούδι. Έπειτα χρησιμοποίησα την εντολη c 3 (copy 3) για να αντιγράψω το Link του τρίτου συνδέσμου που μου εμφάνισε. Τέλος, χρησιμοποίησα το [mpv player](https://github.com/mpv-player/mpv) και ξεκίνησε να "παίζει" το video χωρις να το έχω κατεβάσει.( Θα μπορούσα και να το κατεβάσω μεσω του youtube-dl πρώτα (youtude-dl URL)).
    
-   [Link για την πρώτη άσκηση](https://asciinema.org/a/5oYQOdzfxVC6DuQS0hCNjLVCe)
+   [Link για την άσκηση](https://asciinema.org/a/5oYQOdzfxVC6DuQS0hCNjLVCe)
    
    
    ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot%20from%202019-11-17%2010-56-08.png)
@@ -95,9 +95,16 @@ AM: Π2017063
    ## Άσκηση 4 Multimedia (Προθ.01/12)
    ### Batch image conversion (convert your image files to different sizes and formats)
    
-   Για την υλοποίηση της εργασίας χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/).
+   Για την υλοποίηση της τέταρτης εργασίας χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/). Με την χρήση του συγκεκριμένου εργαλείου άλλαξα format στην εικόνα. Συγκεκριμένα, όπως φαίνεται και στην εικόνα, μετέτρεψα την εικόνα απο image.jpg σε image.png (με αυτόν τον τρόπο δημιουργήθηκε αλλή μία εικονα *png). 
    
-   [Link για την πρώτη άσκηση](https://asciinema.org/a/KaEQpmW2IciHxqLt1gVqm6sfZ)
+   ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot1.png)
+   
+ Έπειτα, άλλαξα τις διαστάσεις των φωτογραφιών.
+ 
+  ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot2.png)
+  
+  
+  [Link για την τέταρτη άσκηση](https://asciinema.org/a/KaEQpmW2IciHxqLt1gVqm6sfZ)
    
    
   
