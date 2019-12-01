@@ -101,19 +101,20 @@ AM: Π2017202
    
    Στόχος της εργασίας είναι με χρήση του Jekyll και του πακέτου εργαλείων του να δημιουργήσουμε ένα στατικό website.
    Κάνουμε εγκατάσταση των Ruby,RubyGems,GCC και Make
-   [code]sudo apt-get install ruby-full build-essential[/code]
-   [code]gem install jekyll bundler[/code]
-   [code]jekyll new politisalexandros-P2017202-github[/code]
+   >sudo apt-get install ruby-full build-essential
+   >gem install jekyll bundler
+   >jekyll new politisalexandros-P2017202-github
    
    ### Jekyll
    
    Στη συνέχεια δημιουργούμε τον χώρο στον υπολογιστή που περιέχει τα αρχεία του site μας
-   [code]bundle exec jekyll build [/code].
+    >bundle exec jekyll build
    Τώρα ανοίγουμε τον server που πλέον δείχνει το site μας μέσα στον browser (http://localhost:4000)
-   [code]jekyll serve[/code].
+    >jekyll serve
    Στο main directory (και οχι στο "sites") δημιουργούμε το αρχείο index.html. Το επεξεργαζόμαστε όπως θέλουμε και το Jekyll κάνει αυτόματα update την σελιδα.Οι αλλαγές που γίνονται φαίνονται και στο terminal log
    
    [Creating and using Jekyll](https://asciinema.org/a/yRdogWHplhe2eRNM5FvYpmhOf)
+   
    [Editing index.html](https://asciinema.org/a/908ma2e88UxrxVa3cTSpDAwRV)
    
    
