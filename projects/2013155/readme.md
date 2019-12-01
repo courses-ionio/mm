@@ -127,7 +127,47 @@ https://piratebay.live/torrent/7369955/[Classical_Music]_The_Best_Of_(Vivaldi__B
 Βοήθεια σχετικά με την εγκατάσταση και το κατέβασμα του torrent πήρα απο 
 https://askubuntu.com/questions/315113/how-to-run-deluge-from-cli
 
+## Eργασία 4. Manage your music library. Import your music library, add tags and delete/add songs.
 
+#### url asciinema: https://asciinema.org/a/pm9SYfadDWOZBAc4DQXUzsrHE
+
+Χρησιμοποίησα το beets https://github.com/beetbox/beets. Πολύ ευκολο και λειτουργικό. Το εγκατέστησα με
+
+```
+sudo apt-get install beets
+```
+
+Για να δουλέψει πρέπει να ορίσει που θα αποθηκέυει τα τραγούδια και την library που δημιουργεί. Αυτό γίνετε απο το αρχείο config.yaml
+το οποίο βρίσκεται στο home directory .config/beets/config.yaml. Αν για κάποιο λόγο δεν είναι εκεί, με την εντολή 
+
+```
+beet config -p
+```
+
+βρίσκουμε που είναι το αρχείο. Ολές οι λείτουργίες γίνοντε με subcommands import, modify και remove
+
+```
+beet import /path
+```
+
+```
+beet modify <artist> artist="new artist"
+```
+
+Η παραπάνω εντολή αλλάζει το όνομα του καλλιτέχνη στη βιβλιοθήκη του beets.Μπορεί να χρησιμοποιηθεί για να αλλάξουμε οποιαδήποτε πληροφορία ακόμα και για να προσθέσουμε tags. Τέλος με την παρακάτω εντολή αφαιρούμε κομμάτι απο τη βιβλιοθήκη.
+
+```
+beet remove title:'title'
+```
+
+Για να δούμε ολα τα τραγούδια στη βιβλιοθήη πληκρολογούμε την εντολή
+
+```
+beet list
+```
+
+Για την υλοποίηση της εργασίας πήρα πληροφορίες απο το παρακάτω βίνετο στο youtube.
+https://www.youtube.com/watch?v=-eVTV3npXZQ
 
 
 
