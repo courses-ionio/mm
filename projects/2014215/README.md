@@ -98,6 +98,31 @@ beet modify <artist> <tag>="new tag"
 beet remove title:'song title'
 ```
 
+### Άσκηση 4. Batch image conversion. Convert your image files to different sizes and formats.
 
+#### url asciinema: https://asciinema.org/a/XD5Pde6qThhZ60h0CjmISTx6l
 
+Για την άσκηση αυτή χρησιμοποίησα το imagemagick. Και μείωσα το μέγεθος όλων των εικόνων μέσα στον φάκελο images κατα 50%. H πρακτική αυτή είναι ιδανική όταν δουλεύεις με περιεχόμενο το οποίο πρέπει να ανέβει σε μια ιστοσελίδα, Θες οι εικόνες να είναι οσο το δυνατόν μικρότερες σε μέγεθος χωρίς να χάσουν αισθητά την ποιότητά τους. Συνήθως η δουλειά αυτή γίνετε με λογισμικά όπως το photoshop. Με το imagemagick είναι πολύ πιο εύκολο. Εγκατέστησα το imagemagick με την εντολή
 
+```
+sudo apt-get install imagemagick
+```
+
+Δημιούργησα νέο φάκελο resized_images μεσα στον φάκελο images, όπου είναι οι εικόνες και χρησιμοποίησα την εντολή mogrify.
+
+```
+mogrify -path resized_images -adaptive-resize 50% -quality 60% *
+```
+Στην παραπάνω εντολή δίνουμε το όνομα του directory που θέλουμε να αποθηκευτούνε ει εικόνες μας, ορίζουμε το ποσοστό του resize και της ποιότητας που θέλουμε (κάτι σαν το save for web and devices του photoshop).
+
+Η διαφορά στα μεγέθη των αρχείων φαίνεται ξεκάθαρα με την εντολή
+
+```
+ls -lh
+```
+
+Τέλος επέλεξα μία εικόνα απο τις νέες εικόνες που δημιουργήθηκαν για να την μετατρέψω απο jpg σε png. Για τον σκοπό αυτό δημιούργησα νέο directory PNG μεσα στο resized_images, και ετρεξα την εντολή
+
+```
+convert name.jpg PNG/name.png
+```
