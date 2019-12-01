@@ -116,7 +116,6 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
 
 
 # Όνομα εργασίας - 4ο παραδοτέο : create a simple website with a static generator
- ### Link καταγραφής : https://asciinema.org/a/jvCUerRJCMrtE5Abdp5v4kZvA
 
 Ζητούμενα: single page with name-AM-github and links to your asciinema deliverables
 
@@ -128,6 +127,8 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
 
 Ruby και RubyGems: sudo apt-get install ruby-full build-essential και sudo gem install rubygems
 
+  <a href="https://asciinema.org/a/AbOVZG35Utuwk9U7ehciYvXnq" target="_blank"><img src="https://asciinema.org/a/AbOVZG35Utuwk9U7ehciYvXnq.svg" /></a>
+
 Bundler gems: gem install jekyll bundler
 
 Υστερα δημιούργησα το site μέσω του jekyll: jekyll toniasmirliadi-p2017130
@@ -136,11 +137,12 @@ Bundler gems: gem install jekyll bundler
 
 Δημιούργησα τη στατική σελίδα: jekyll serve (χρειάστηκε να μεταβώ στο  http://localhost:4000)
 
+  <a href="https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH" target="_blank"><img src="
+https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH.svg" /></a>
+
 Στη συνέχεια επεξεργάστηκα το index.html αρχείο για να αλλάξω τα στοιχεία στη στατική μου σελιδα
 
-
-
-
+  <a href="https://asciinema.org/a/DWYAaaUY4hllqvaNDn8iyYlsA" target="_blank"><img src="https://asciinema.org/a/DWYAaaUY4hllqvaNDn8iyYlsA.svg" /></a>
 
 
 Πηγή οδηγιών: https://github.com/jekyll/jekyll
