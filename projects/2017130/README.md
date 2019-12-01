@@ -131,9 +131,9 @@ Ruby και RubyGems: sudo apt-get install ruby-full build-essential και sudo
 
 Bundler gems: gem install jekyll bundler
 
-Υστερα δημιούργησα το site μέσω του jekyll: jekyll toniasmirliadi-p2017130
+Ύστερα δημιούργησα το site μέσω του jekyll: jekyll toniasmirliadi-p2017130
 
-Κατευθύνθυκα στο πρωσοπικο directory μέσω του cd toniasmirliadi-p2017130
+Κατευθύνθηκα στο προσωπικό μου directory μέσω του cd toniasmirliadi-p2017130
 
 Δημιούργησα τη στατική σελίδα: jekyll serve (χρειάστηκε να μεταβώ στο  http://localhost:4000)
 
