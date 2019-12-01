@@ -110,9 +110,13 @@ AM: Π2017202
    ### Jekyll
    
    Στη συνέχεια δημιουργούμε τον χώρο στον υπολογιστή που περιέχει τα αρχεία του site μας
+   
     >bundle exec jekyll build
+    
    Τώρα ανοίγουμε τον server που πλέον δείχνει το site μας μέσα στον browser (http://localhost:4000)
+   
     >jekyll serve
+    
    Στο main directory (και οχι στο "sites") δημιουργούμε το αρχείο index.html. Το επεξεργαζόμαστε όπως θέλουμε και το Jekyll κάνει αυτόματα update την σελιδα.Οι αλλαγές που γίνονται φαίνονται και στο terminal log
    
    [Creating and using Jekyll](https://asciinema.org/a/yRdogWHplhe2eRNM5FvYpmhOf)
