@@ -137,8 +137,7 @@ Bundler gems: gem install jekyll bundler
 
 Δημιούργησα τη στατική σελίδα: jekyll serve (χρειάστηκε να μεταβώ στο  http://localhost:4000)
 
-  <a href="https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH" target="_blank"><img src="
-https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH.svg" /></a>
+  <a href="https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH" target="_blank"><img src="https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH.svg" /></a>
 
 Στη συνέχεια επεξεργάστηκα το index.html αρχείο για να αλλάξω τα στοιχεία στη στατική μου σελιδα
 
