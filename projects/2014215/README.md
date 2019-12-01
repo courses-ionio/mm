@@ -126,3 +126,6 @@ ls -lh
 ```
 convert name.jpg PNG/name.png
 ```
+
+Πηγές άντλησης δεδομένων και βοήθειας:
+https://www.youtube.com/watch?v=-hPleOyZJr4
