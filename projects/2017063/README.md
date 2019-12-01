@@ -92,5 +92,13 @@ AM: Π2017063
   
   
   
+   ## Άσκηση 4 Multimedia (Προθ.01/12)
+   ### Batch image conversion (convert your image files to different sizes and formats)
+   
+   Για την υλοποίηση της εργασίας χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/).
+   
+   [Link για την πρώτη άσκηση](https://asciinema.org/a/KaEQpmW2IciHxqLt1gVqm6sfZ)
+   
+   
   
   
