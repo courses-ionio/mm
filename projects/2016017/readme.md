@@ -12,6 +12,13 @@ Search, download and play (with the terminal) your favorite song of the month fr
 https://asciinema.org/a/276814 (used mpsyt to search and download a song and cmus to play it)
 
 
+## ΑΣΚΗΣΗ 2:
+
+manage torrent files, search and download a torrent
+
+https://asciinema.org/a/284710 (used to w3m and aria2)
+
+
 ## ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ (Α)
 
 Συμμετοχικό περιεχόμενο:https://www.facebook.com/roman.panch.336
