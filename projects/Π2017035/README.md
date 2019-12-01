@@ -5,3 +5,6 @@ LINK ΣΤΟ ASCIINEMA ΓΙΑ ΑΝΑΠΑΡΑΣΤΑΣ
 
 3ο Παραδοτέο- Άσκηση Download a torrent
 Link asciinema: https://asciinema.org/a/280295
+
+40 Παραδοτέο- Άσκηση Edit a spreadsheet
+Link asciinema: https://asciinema.org/a/284660
