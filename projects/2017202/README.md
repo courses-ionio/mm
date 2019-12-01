@@ -102,7 +102,9 @@ AM: Π2017202
    Στόχος της εργασίας είναι με χρήση του Jekyll και του πακέτου εργαλείων του να δημιουργήσουμε ένα στατικό website.
    Κάνουμε εγκατάσταση των Ruby,RubyGems,GCC και Make
    >sudo apt-get install ruby-full build-essential
+   
    >gem install jekyll bundler
+   
    >jekyll new politisalexandros-P2017202-github
    
    ### Jekyll
