@@ -127,6 +127,8 @@ https://www.youtube.com/watch?v=4YMfQKIh6FQ&feature=share&fbclid=IwAR3wHLcqbdICZ
 
 Ruby και RubyGems: sudo apt-get install ruby-full build-essential και sudo gem install rubygems
 
+- [Εγκατάσταση Ruby packages](https://asciinema.org/a/AbOVZG35Utuwk9U7ehciYvXnq)
+
   <a href="https://asciinema.org/a/AbOVZG35Utuwk9U7ehciYvXnq" target="_blank"><img src="https://asciinema.org/a/AbOVZG35Utuwk9U7ehciYvXnq.svg" /></a>
 
 Bundler gems: gem install jekyll bundler
@@ -137,11 +139,21 @@ Bundler gems: gem install jekyll bundler
 
 Δημιούργησα τη στατική σελίδα: jekyll serve (χρειάστηκε να μεταβώ στο  http://localhost:4000)
 
+- [Δημιουργία στατικής σελίδας](https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH)
+
   <a href="https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH" target="_blank"><img src="https://asciinema.org/a/m4PWI9GKb9hoJDQqE4teewCUH.svg" /></a>
 
 Στη συνέχεια επεξεργάστηκα το index.html αρχείο για να αλλάξω τα στοιχεία στη στατική μου σελιδα
 
+- [Εισαγωγή κειμένου στο index αρχείο](https://asciinema.org/a/DWYAaaUY4hllqvaNDn8iyYlsA)
+
   <a href="https://asciinema.org/a/DWYAaaUY4hllqvaNDn8iyYlsA" target="_blank"><img src="https://asciinema.org/a/DWYAaaUY4hllqvaNDn8iyYlsA.svg" /></a>
+
+- [Εισαγωγή προσωπικών στοιχείων (Όνομα-ΑΜ)](https://asciinema.org/a/Ltb8sp58q8EBOsvoI6K2d9ILR)
+
+  <a href="https://asciinema.org/a/Ltb8sp58q8EBOsvoI6K2d9ILR" target="_blank"><img src="https://asciinema.org/a/Ltb8sp58q8EBOsvoI6K2d9ILR.svg" /></a>
+
+Το αποτέλεσμα του site φαίνεται στη παρακάτω εικόνα:
 
 
 Πηγή οδηγιών: https://github.com/jekyll/jekyll
