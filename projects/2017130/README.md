@@ -155,6 +155,8 @@ Bundler gems: gem install jekyll bundler
 
 Το αποτέλεσμα του site φαίνεται στη παρακάτω εικόνα:
 
+ ![image](https://github.com/p17smyr/mm/blob/P2017130/projects/2017130/static_site.png)
+
 
 Πηγή οδηγιών: https://github.com/jekyll/jekyll
 
