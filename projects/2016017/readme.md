@@ -22,7 +22,7 @@ https://asciinema.org/a/284710 (used w3m and aria2)
 
 create your final presentation
 
-https://asciinema.org/a/285334(used cat,vim and mdp)
+https://asciinema.org/a/285334 (used cat,vim and mdp)
 
 ## ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ (Α)
 
