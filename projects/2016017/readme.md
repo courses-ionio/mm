@@ -16,8 +16,13 @@ https://asciinema.org/a/276814 (used mpsyt to search and download a song and cmu
 
 manage torrent files, search and download a torrent
 
-https://asciinema.org/a/284710 (used to w3m and aria2)
+https://asciinema.org/a/284710 (used w3m and aria2)
 
+## ΑΣΚΗΣΗ 3:
+
+create your final presentation
+
+https://asciinema.org/a/285334(used cat,vim and mdp)
 
 ## ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ (Α)
 
