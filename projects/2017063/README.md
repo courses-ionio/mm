@@ -78,8 +78,14 @@ AM: Π2017063
   
   
    ## Άσκηση 3 Multimedia (Προθ.17/11)
-   ### Watch video (youtube video streaming)
+   ### Watch video streaming with asciiart
    
+   ### [Link για την άσκηση](https://asciinema.org/a/nIVF5kIb3ZaGoKo2FMwM6cX6z)
+   
+   Για την υλοποίηση της εργασίας αναζήτησα ένα [video](https://www.youtube.com/watch?v=Hy3MV7oUuww&t=2s) μέσω του [Googler](https://www.tecmint.com/google-commandline-search-terminal/), το οποίο θεώρησα ότι η προβολή του θα είναι κατανοητή ένω θα προβάλλεται στον τερματικό σε μορφή ascii art. Έπειτα, υλοποίησα την προβολή του video στον τερματικό μου με την χρήση του [mpv player](https://github.com/mpv-player/mpv). Το αρχείο *.mp4 το είχα κατεβάσει από το youtube με τη χρήση του [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+   
+   
+   #### Watch video (youtube video streaming)
    Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Googler](https://www.tecmint.com/google-commandline-search-terminal/) το οποίο χρησιμοποίησα για να κάνω αναζήτηση το τραγούδι. Έπειτα χρησιμοποίησα την εντολη c 3 (copy 3) για να αντιγράψω το Link του τρίτου συνδέσμου που μου εμφάνισε. Τέλος, χρησιμοποίησα το [mpv player](https://github.com/mpv-player/mpv) και ξεκίνησε να "παίζει" το video χωρις να το έχω κατεβάσει.( Θα μπορούσα και να το κατεβάσω μεσω του youtube-dl πρώτα (youtude-dl URL)).
    
    [Link για την άσκηση](https://asciinema.org/a/5oYQOdzfxVC6DuQS0hCNjLVCe)
