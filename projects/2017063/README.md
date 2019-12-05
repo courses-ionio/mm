@@ -82,7 +82,9 @@ AM: Π2017063
    
    ### [Link για την άσκηση](https://asciinema.org/a/nIVF5kIb3ZaGoKo2FMwM6cX6z)
    
-   Για την υλοποίηση της εργασίας αναζήτησα ένα [video](https://www.youtube.com/watch?v=Hy3MV7oUuww&t=2s) μέσω του [Googler](https://www.tecmint.com/google-commandline-search-terminal/), το οποίο θεώρησα ότι η προβολή του θα είναι κατανοητή ένω θα προβάλλεται στον τερματικό σε μορφή ascii art. Έπειτα, υλοποίησα την προβολή του video στον τερματικό μου με την χρήση του [mpv player](https://github.com/mpv-player/mpv). Το αρχείο *.mp4 το είχα κατεβάσει από το youtube με τη χρήση του [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+   Για την υλοποίηση της εργασίας αναζήτησα ένα [video](https://www.youtube.com/watch?v=Hy3MV7oUuww&t=2s) μέσω του [Googler](https://www.tecmint.com/google-commandline-search-terminal/), το οποίο θεώρησα ότι η προβολή του θα είναι κατανοητή ένω θα προβάλλεται στον τερματικό σε μορφή ascii art. Έπειτα, υλοποίησα την προβολή του video στον τερματικό μου με την χρήση του [mpv player](https://github.com/mpv-player/mpv). Το αρχείο *.mp4 το είχα κατεβάσει από το youtube με τη χρήση του [youtube-dl](https://github.com/ytdl-org/youtube-dl).
+   
+   
    
    
    #### Watch video (youtube video streaming)
