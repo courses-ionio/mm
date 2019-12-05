@@ -95,7 +95,7 @@ AM: Π2017063
    ## Άσκηση 4 Multimedia (Προθ.01/12)
    ### Batch image conversion (convert your image files to different sizes and formats)
    
-   [Link για την τέταρτη άσκηση](https://asciinema.org/a/KaEQpmW2IciHxqLt1gVqm6sfZ)
+   [Link για την τέταρτη άσκηση (υλοποίηση αλλαγών σε μία εικόνα)](https://asciinema.org/a/KaEQpmW2IciHxqLt1gVqm6sfZ)
    
    
    Για την υλοποίηση της τέταρτης εργασίας χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/). Με την χρήση του συγκεκριμένου εργαλείου άλλαξα format στην εικόνα. Συγκεκριμένα, όπως φαίνεται και στην εικόνα, μετέτρεψα την εικόνα απο image.jpg σε image.png (με αυτόν τον τρόπο δημιουργήθηκε αλλή μία εικονα *png).
