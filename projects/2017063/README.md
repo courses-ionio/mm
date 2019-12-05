@@ -95,17 +95,18 @@ AM: Π2017063
    ## Άσκηση 4 Multimedia (Προθ.01/12)
    ### Batch image conversion (convert your image files to different sizes and formats)
    
-   [Link για την τέταρτη άσκηση](https://asciinema.org/a/oSRmm2mu14hUiu98tlpBV4cRv)
+   ### [Link για την τέταρτη άσκηση](https://asciinema.org/a/oSRmm2mu14hUiu98tlpBV4cRv)
 
     Για την υλοποίηση της εργασίας χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/). Αρχικά, μετατρέπω το σύνολο των φωτογραφιών από *.jpeg και *.jpg σε *.png και καθώς η εντολή μου δημιουργεί τις εικόνες ενώ υπάρχουν παράλληλα οι προηγούμενες, χρησιμοποιώ την εντολή "mv *.png /root/Pictures/New" για να μεταφέρω τις φωτογραφίες που δημιουργήθηκαν στον καινούριο φάκελο. Έπειτα, χρησιμοποιώ την εντολή "convert *.png -resize 20% *.png" για να μεταβάλω το μέγεθος των φωτογραφιών (όλων των φωτογραφιών που είναι στον φακελο New, αφου όλες οι φωτογραφίες είναι σε *.Png) και, με αυτόν τον τρόπο, δημιουργούνται νέες φωτογραφίες με τις ανάλογες διαστάσεις (σττον φάκελο New έχω 8 φωτογραφίες 4 με τις αρχικές διαστάσεις και 4 με την μετατροπή). Παράλληλα, η χρήση της εντολής "identify *.png" προβάλει όλες τις πληροφορίες για τις εικόνες αυτές (μέγεθος, τύπος κτλ.). Τέλος, με την χρήση της εντολής "montage *.png -geometry +2+2 AllTogether.png" δημιουργώ ένα "κολάζ" με την χρήση όλων αυτών των φωτογραφιών.
     
     
     
    
+   #### Μετατροπή των διαστάσεων και του τύπου φωτογραφίας σε μία φωτογραφία 
    [Link για την τέταρτη άσκηση (υλοποίηση αλλαγών σε μία εικόνα)](https://asciinema.org/a/KaEQpmW2IciHxqLt1gVqm6sfZ)
    
    
-   Για την υλοποίηση της τέταρτης εργασίας χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/). Με την χρήση του συγκεκριμένου εργαλείου άλλαξα format στην εικόνα. Συγκεκριμένα, όπως φαίνεται και στην εικόνα, μετέτρεψα την εικόνα απο image.jpg σε image.png (με αυτόν τον τρόπο δημιουργήθηκε αλλή μία εικονα *png).
+   Για την υλοποίηση χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/). Με την χρήση του συγκεκριμένου εργαλείου άλλαξα format στην εικόνα. Συγκεκριμένα, όπως φαίνεται και στην εικόνα, μετέτρεψα την εικόνα απο image.jpg σε image.png (με αυτόν τον τρόπο δημιουργήθηκε αλλή μία εικονα *png).
    
    ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot1.png)
    
