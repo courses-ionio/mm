@@ -31,8 +31,12 @@ $pip3 install --user youtube-dl --upgrade
 
 **LINK ASCIINEMA**   
 
- https://asciinema.org/a/279878  
-   (asciinema rec -i 0.5)  
+ https://asciinema.org/a/279878 
+   (asciinema rec -i 0.5)
+ 
+   
+ 
+   
    
    ## 2η ΑΣΚΗΣΗ:  (convert your image files to different sizes and formats)  
    
@@ -45,8 +49,22 @@ $pip3 install --user youtube-dl --upgrade
    https://asciinema.org/a/285279 
    
      (asciinema rec -i 0.3)
+     
+   ## 3η ΑΣΚΗΣΗ: (create your final presentation) 
    
-    
+   Install **emacs** : 
+   
+   -nw (no-window) 
+   
+   Install **mdp** 
+   
+   **LINK ASCIINEMA** 
+   
+   https://asciinema.org/a/285914 
+   
+     (asciinema rec -i 0.3)
+   
+   
    
    
   
