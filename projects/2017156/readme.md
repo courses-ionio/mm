@@ -31,8 +31,11 @@ $pip3 install --user youtube-dl --upgrade
 
 **LINK ASCIINEMA**   
 
- https://asciinema.org/a/279878 
-   (asciinema rec -i 0.5)
+ https://asciinema.org/a/279878  
+  
+   (asciinema rec -i 0.5) 
+ 
+  
  
    
  
@@ -62,8 +65,20 @@ $pip3 install --user youtube-dl --upgrade
    
    https://asciinema.org/a/285914 
    
-     (asciinema rec -i 0.3)
+     (asciinema rec -i 0.3) 
+     
    
+   ## 4η ΑΣΚΗΣΗ: (search and download a torrent) 
+   
+   Install **w3m** for searching via terminal and  **rtorrent** to download torrent files. 
+   
+   **LINK ASCIINEMA** 
+   
+   https://asciinema.org/a/285914 
+    
+     (asciinema rec -i 0.3) 
+     
+     
    
    
    
