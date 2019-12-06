@@ -45,7 +45,9 @@ $pip3 install --user youtube-dl --upgrade
    
    Κατεβασα το **ImageMagick**: 
     
-   Με την εντολη **convert** αλλαξα το μεγεθος της εικονας και τη μορφη της.   
+   **mogrify** to change the format and size. 
+   
+   
    
    **LINK ASCIINEMA** 
    
