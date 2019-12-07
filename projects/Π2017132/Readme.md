@@ -9,7 +9,8 @@
 
 ### Άσκηση 2η: Youtube video streaming with asciiart
 
-Λινκ του βίντεο: 
+Λινκ του βίντεο: https://asciinema.org/a/tLMzFDhjpeUkuuJe2hSGMBH11
+
 ## Συμμετοχικό Περιεχόμενο:
    https://twitter.com/PngtSotiris
     
