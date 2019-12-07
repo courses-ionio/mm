@@ -7,7 +7,9 @@
 
 Λινκ του βίντεο: https://asciinema.org/a/278437
 
+### Άσκηση 2η: Youtube video streaming with asciiart
 
+Λινκ του βίντεο: 
 ## Συμμετοχικό Περιεχόμενο:
    https://twitter.com/PngtSotiris
     
