@@ -76,7 +76,7 @@ $pip3 install --user youtube-dl --upgrade
    
    **LINK ASCIINEMA** 
    
-   https://asciinema.org/a/285914 
+   https://asciinema.org/a/285908 
     
      (asciinema rec -i 0.3) 
      
