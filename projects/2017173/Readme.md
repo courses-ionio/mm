@@ -9,6 +9,13 @@
 
 [Twitter Link](https://twitter.com/P17styl)
 
+Ενσωμάτωση Twitter στη ιστοσελίδα :
+
+[Repository](https://github.com/Xaralambos12/gr/tree/gh-pages)
+
+[Twitter.html](https://github.com/Xaralambos12/gr/blob/gh-pages/_includes/twitter.html)
+
+
 ## Terminal
 ## Πρώτο Παραδοτέο : 
 ###  search, download and play (with the terminal) your favorite song of the month from youtube
