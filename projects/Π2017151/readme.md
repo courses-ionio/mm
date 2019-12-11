@@ -131,7 +131,7 @@ https://gfycat.com/leafyyearlyatlanticsharpnosepuffer
 
 
 ## Παραδοτέο 4
-### manage your music library - import your music library, add tags and delete/add songs.
+### Visualize an mp3: demonstrate album art and visualizations with an mp3 player and various songs..
 
 ## [Asciinema URL](https://asciinema.org/a/278649)
 
@@ -165,6 +165,41 @@ cmus
 
 Μπορουμε να χρησιμοποιήσoυμε τα πάνω και κάτω βέλακι για να επιλέξουμε  ένα κομμάτι που θέλουμε να ακούσουμε. παταμε το  Enter για να το παίξει. επισης παταμε το  C  για pause η resume.
 
+## Παραδοτέο 5
+### manage your music library	- import your music library, add tags and delete/add songs..
+
+## [Asciinema URL](https://asciinema.org/a/277347)
+
+
+## ΕΝΤΟΛΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ 
+
+
+ Το beet ειναι μια μουσικη  βιβλιοθήκη για τα linux, μπορει να κάνει σχεδόν οτιδήποτε για την βιβλιοθηκη μας.
+ 
+### install  beet
+
+```
+sudo apt-get install -y beets
+```
+
+
+### List all music in your library:
+```
+ beet ls
+```
+### List all albums in your library:
+```
+ beet ls -a
+```
+
+### Remove track(s) from your library:
+```
+ beet rm <part of name>
+ ```
+### Remove album(s) from your library:
+```
+ beet rm -a <part of name>
+ ```
 
 
 
