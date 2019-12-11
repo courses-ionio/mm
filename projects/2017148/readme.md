@@ -160,3 +160,36 @@ beet import
 beet ls
 ```
 
+
+## Παραδοτέο 5
+### Visualize an mp3: demonstrate album art and visualizations with an mp3 player and various songs.
+
+## [Asciinema Recording URL: https://asciinema.org/a/BldMvAjOoEmS9gvAd1X2XvjJg](https://asciinema.org/a/BldMvAjOoEmS9gvAd1X2XvjJg)
+
+Με τη χρήση του cmus μπορείς να διαχειριστείς μέσα στο linux τεράστιες βιβλιοθήκες μουσικής χωρίς κανένα πρόβλημα. Μπορείς να προσθέσεις και να ταξινομήσεις χιλιάδες τραγούδια γρηγορότερα από άλλα προγράμματα. 
+
+### Το cmus είναι χωρισμένο σε 7 διαφορετικά views:
+
+```
+1. Library
+2. Sorted Library
+3. Playlist
+4. Play Queue
+5. Browser
+6. Filters
+7. Settings
+```
+### Εγκατάσταση cmus
+```
+sudo apt-get install cmus
+```
+### Keybindings:
+```
+x = play song
+c = pause
+v = stop
+```
+### Για να βάλεις μουσική:
+```
+:add ~Music/Library
+```
