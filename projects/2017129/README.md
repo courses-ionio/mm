@@ -53,6 +53,15 @@ references:
 
 [installation for cli-visualiser](https://www.linuxlinks.com/cli-visualizer-command-line-visualizer-mpd-alsa-pulseaudio/)
 
+* ## ΑΣΚΗΣΗ 3
+
+**create a simple website with a static generator**
+
+[jekyll](https://jekyllrb.com/)
+
+[asciinema](https://asciinema.org/a/rEoDgoUj0pHtIpD73jfIo1EZl)
+
+
 
 _________________________________________________________________________________________________________________________________
 
