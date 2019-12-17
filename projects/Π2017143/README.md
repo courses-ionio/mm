@@ -19,6 +19,13 @@
 
 Στην άσκηση αυτή θα χρησιμοποιήσω το epr για να διαβάσω ένα ebook καθώς να ψάξω σε αυτό και να βάλω σελιδοδείκτη στο σημείο που σταμάτισα το διάβασμα.
 
+### Άσκηση 3
+
+##### link προς asciinema:
+[![asciicast](https://asciinema.org/a/288799.svg)](https://asciinema.org/a/288799)
+
+Θα χρησιμοποιήσω τον browser elinks για να βρώ τον magnet και μετα το transmission-cli για να κατεβάσω το αρχείο.
+
 ### Συμμετοχικό περιεχόμενο
 ##### links προς twitter:
 [First Post](https://twitter.com/AlexiouLeuteris/status/1194220796056686593?s=20)  
