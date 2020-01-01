@@ -166,15 +166,11 @@
 #### Αντίστοιχα, για να έχουμε το ίδιο αποτέλεσμα με έγχρωμους ASCII χαρακτήρες, η εντολή που εκτελέσαμε ήταν: 
 ###### mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
 ##### όπου αντικαθιστώντας στην παραπάνω εντολή το "aa" με "caca" πετυχαίνουμε τον χρωματισμό των ASCII χαρακτήρων
-
-
-
-
-#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/275789)
+#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/291335)
 #
 #### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
 #### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-#### [link](https://asciinema.org/a/275789) στο εκτελέσιμο:
+#### [link](https://asciinema.org/a/291335) στο εκτελέσιμο:
 #
 
 
