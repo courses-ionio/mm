@@ -136,6 +136,51 @@
 #### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
 #### [link](https://asciinema.org/a/281721) στο εκτελέσιμο:
 #
+## Άσκηση 4
+#### Τίτλος: watch video
+#### Ζητούμενα: youtube video streaming with asciiart
+#
+#### Για την εκπόνηση της άσκησης, ακολουθήσαμε τα εξής βήματα:
+##### α) Εγκατάσταση του S/W 'asciinema', ώστε να γίνει καταγραφή του terminal (χρήση flag -i=0.2 για την αποφυγή καταγραφής κενών διαστημάτων). Για την σκοπό της άσκησης δημιουργήσαμε και λογαριασμό στο www.asciinema.org
+###### sudo apt-get install asciinema
+##### β) Τροποποίηση του .bashrc, ώστε το bash prompt να δείχνει τον Α.Μ. μας.
+###### vi .bashrc
+##### γ) Εγκατάσταση του S/W 'youtube-dl' ώστε να κάνουμε download το επιθυμητό link με την χρήση terminal. Η εγκατάσταση του πακέτου έγινε απο την σελίδα του δημιουργού και όχι απο τον Ubuntu server, λόγω γνωστού προβλήματος στην έκδοση του Ubuntu Server (https://github.com/ytdl-org/youtube-dl/issues/21952). 
+###### sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+###### sudo chmod a+rx /usr/local/bin/youtube-dl
+##### δ) Εγκατάσταση της βιβλιοθήκης 'libcaca'. Η βιβλιοθήκη αυτή μετατρέπει την έξοδο απο pixels σε ASCII χαρακτήρες.
+###### ./configure && make && sudo make install
+##### ε) Εκτέλεση της εντολής: mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") όπου:
+###### mplayer o player που χρησιμοποιούμε
+###### -vo για να οδηγήσουμε την έξοδο σε περιβάλλον X11 (παράθυρο)
+###### caca για να χρωματίσουμε τους ASCII χαρακτήρες.
+###### -cookies -cookies-file /tmp/cookie.txt για να δηλώσουμε οτι θα χρησιμοποιήσουμε cookies (απαραίτητα για την λειτουργία του youtube). τα οποία και θα βρίσκονται στο δηλωθέν path.
+###### $(youtube-dl) η είσοδος του mpv θα είναι η έξοδος απο την εκτέλεση του youtube-dl
+###### youtube-dl -g για να κανουμε real time streaming και όχι download.
+###### -f best επιλέγουμε βέλτιστη ανάλυση
+###### --cookies /tmp/cookie.txt χρήση cookies
+###### "https://www.youtube.com/watch?v=EKkzbbLYPuI" το url μας.
+
+
+
+
+
+##### ε) Εκτέλεση του mpsyt. Download το βέλτιστο audio αρχείο (και όχι video για οικονομία χρόνου). 
+##### στ) Εγκατάσταση του πακέτου 'ffmpeg', ώστε να μετατρέψουμε το αρχείο που κατεβάσαμε (.m4a) σε μορφή .mp3.
+###### sudo apt-get install ffmpeg
+##### ζ) Μετατροπή του αρχείου σε .mp3
+###### ffmpeg -i 'Dmitri Shostakovich -  Waltz No. 2.m4a' -acodec libmp3lame -aq 2 'Dmitri Shostakovich -  Waltz No. 2.mp3'
+##### η) Εγκατάσταση του S/W 'mpv', ώστε να γίνει απο εκεί η αναπαραγωγή του .mp3 αρχείου.
+###### sudo apt-get install mpvsudo apt-get install mpv
+##### θ) Αναπαραγωγή του .mp3 αρχείου απο terminal. Η αναπαραγωγή τερματίστηκε μετά απο λίγα δευτερόλεπτα, για οικονομία χρόνου.
+###### mpv 'Dmitri Shostakovich -  Waltz No. 2.mp3'
+#
+#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/275789)
+#
+#### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
+#### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
+#### [link](https://asciinema.org/a/275789) στο εκτελέσιμο:
+#
 
 
 
