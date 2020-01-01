@@ -30,13 +30,10 @@
 ##### θ) Αναπαραγωγή του .mp3 αρχείου απο terminal. Η αναπαραγωγή τερματίστηκε μετά απο λίγα δευτερόλεπτα, για οικονομία χρόνου.
 ###### mpv 'Dmitri Shostakovich -  Waltz No. 2.mp3'
 #
-#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο παρακάτω link:
-#### https://asciinema.org/a/275789
+#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/27578)
 #
-#### link στο αποθετήριο του κώδικα:
-#### https://github.com/p17kagk/mm/tree/master
-#### link στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-#### https://github.com/p17kagk/mm/tree/P2017203
+#### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
+#### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
 #### link στο εκτελέσιμο:
 #### https://asciinema.org/a/275789
 #
