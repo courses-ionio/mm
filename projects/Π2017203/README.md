@@ -164,7 +164,8 @@
 ###### "https://www.youtube.com/watch?v=EKkzbbLYPuI": το url μας.
 #
 #### Αντίστοιχα, για να έχουμε το ίδιο αποτέλεσμα με έγχρωμους ASCII χαρακτήρες, η εντολή που εκτελέσαμε ήταν: 
-###### mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") όπου αντικαθιστώντας στην παραπάνω εντολή το "aa" με "caca" πετυχαίονουμε τον χρωματισμό των ASCII χαρακτήρων
+###### mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
+##### όπου αντικαθιστώντας στην παραπάνω εντολή το "aa" με "caca" πετυχαίνουμε τον χρωματισμό των ASCII χαρακτήρων
 
 
 
