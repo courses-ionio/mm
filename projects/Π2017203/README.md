@@ -148,19 +148,26 @@
 ##### γ) Εγκατάσταση του S/W 'youtube-dl' ώστε να κάνουμε download το επιθυμητό link με την χρήση terminal. Η εγκατάσταση του πακέτου έγινε απο την σελίδα του δημιουργού και όχι απο τον Ubuntu server, λόγω γνωστού προβλήματος στην έκδοση του Ubuntu Server (https://github.com/ytdl-org/youtube-dl/issues/21952). 
 ###### sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 ###### sudo chmod a+rx /usr/local/bin/youtube-dl
-##### δ) Εγκατάσταση της βιβλιοθήκης 'libcaca'. Η βιβλιοθήκη αυτή μετατρέπει την έξοδο απο pixels σε ASCII χαρακτήρες.
+##### δ) Εγκατάσταση των βιβλιοθηκών 'libcaca' και 'AAlib'. Η βιβλιοθήκη AAlib μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε ασπρόμαυρους ASCII χαρακτήρες. Αντίστοιχα, η βιβλιοθήκη libcaca μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε έγχρωμους ASCII χαρακτήρες. Και οι 2 βιβλιοθήκες εγκαταστάθηκαν κάνοντας build στο τερματικό μας:
 ###### ./configure && make && sudo make install
-##### ε) Εκτέλεση της εντολής: mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") όπου:
+##### ε) Εκτέλεση της εντολής: 
+###### mplayer -vo aa -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") όπου:
 ###### mplayer: o player που χρησιμοποιούμε
 ###### -vo: για να οδηγήσουμε την έξοδο σε περιβάλλον X11 (παράθυρο)
-###### caca: για να χρωματίσουμε τους ASCII χαρακτήρες.
+###### aa: για να μετατρέψουμε τα pixels σε ASCII χαρακτήρες.
 ###### -cookies -cookies-file /tmp/cookie.txt: για να δηλώσουμε οτι θα χρησιμοποιήσουμε cookies (απαραίτητα για την λειτουργία του youtube). τα οποία και θα βρίσκονται στο δηλωθέν path.
-###### $(youtube-dl): η είσοδος του mpv θα είναι η έξοδος απο την εκτέλεση του youtube-dl
+###### $(youtube-dl): η είσοδος του mplayer θα είναι η έξοδος απο την εκτέλεση του youtube-dl
 ###### youtube-dl -g: για να κανουμε real time streaming και όχι download.
 ###### -f best: επιλέγουμε βέλτιστη ανάλυση
 ###### --cookies /tmp/cookie.txt: χρήση cookies
 ###### "https://www.youtube.com/watch?v=EKkzbbLYPuI": το url μας.
 #
+#### Αντίστοιχα, για να έχουμε το ίδιο αποτέλεσμα με έγχρωμους ASCII χαρακτήρες, η εντολή που εκτελέσαμε ήταν: 
+###### mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") όπου αντικαθιστώντας στην παραπάνω εντολή το "aa" με "caca" πετυχαίονουμε τον χρωματισμό των ASCII χαρακτήρων
+
+
+
+
 #### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/275789)
 #
 #### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
