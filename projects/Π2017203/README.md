@@ -15,7 +15,7 @@
 ###### sudo apt-get install asciinema
 ##### β) Τροποποίηση του .bashrc, ώστε το bash prompt να δείχνει τον Α.Μ. μας.
 ###### vi .bashrc
-##### γ) Εγκατάσταση του S/W 'youtube-dl' ώστε να κάνουμε download το επιθυμητό link με την χρήση terminal. Η εγκατάσταση του πακέτου έγινε απο την σελίδα του δημιουργού και όχι απο τον Ubuntu server, λόγω γνωστού προβλήματος στην έκδοση του Ubuntu Server (https://github.com/ytdl-org/youtube-dl/issues/21952). 
+##### γ) Εγκατάσταση του S/W 'youtube-dl' ώστε να κάνουμε download το επιθυμητό link με την χρήση terminal. Η εγκατάσταση του πακέτου έγινε απο την σελίδα του δημιουργού και όχι απο τον Ubuntu server, λόγω γνωστού προβλήματος στην έκδοση του Ubuntu Server https://github.com/ytdl-org/youtube-dl/issues/21952. 
 ###### sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 ###### sudo chmod a+rx /usr/local/bin/youtube-dl
 ##### δ) Εγκατάσταση του front end 'mps-youtube', ώστε να κάνουμε search και download το αρχείο που θέλουμε.
