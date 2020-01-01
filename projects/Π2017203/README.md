@@ -151,7 +151,8 @@
 ##### δ) Εγκατάσταση των βιβλιοθηκών 'libcaca' και 'AAlib'. Η βιβλιοθήκη AAlib μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε ασπρόμαυρους ASCII χαρακτήρες. Αντίστοιχα, η βιβλιοθήκη libcaca μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε έγχρωμους ASCII χαρακτήρες. Και οι 2 βιβλιοθήκες εγκαταστάθηκαν κάνοντας build στο τερματικό μας:
 ###### ./configure && make && sudo make install
 ##### ε) Εκτέλεση της εντολής: 
-###### mplayer -vo aa -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") όπου:
+###### mplayer -vo aa -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
+##### όπου:
 ###### mplayer: o player που χρησιμοποιούμε
 ###### -vo: για να οδηγήσουμε την έξοδο σε περιβάλλον X11 (παράθυρο)
 ###### aa: για να μετατρέψουμε τα pixels σε ASCII χαρακτήρες.
