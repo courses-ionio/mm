@@ -151,29 +151,15 @@
 ##### δ) Εγκατάσταση της βιβλιοθήκης 'libcaca'. Η βιβλιοθήκη αυτή μετατρέπει την έξοδο απο pixels σε ASCII χαρακτήρες.
 ###### ./configure && make && sudo make install
 ##### ε) Εκτέλεση της εντολής: mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") όπου:
-###### mplayer o player που χρησιμοποιούμε
-###### -vo για να οδηγήσουμε την έξοδο σε περιβάλλον X11 (παράθυρο)
-###### caca για να χρωματίσουμε τους ASCII χαρακτήρες.
-###### -cookies -cookies-file /tmp/cookie.txt για να δηλώσουμε οτι θα χρησιμοποιήσουμε cookies (απαραίτητα για την λειτουργία του youtube). τα οποία και θα βρίσκονται στο δηλωθέν path.
-###### $(youtube-dl) η είσοδος του mpv θα είναι η έξοδος απο την εκτέλεση του youtube-dl
-###### youtube-dl -g για να κανουμε real time streaming και όχι download.
-###### -f best επιλέγουμε βέλτιστη ανάλυση
-###### --cookies /tmp/cookie.txt χρήση cookies
-###### "https://www.youtube.com/watch?v=EKkzbbLYPuI" το url μας.
-
-
-
-
-
-##### ε) Εκτέλεση του mpsyt. Download το βέλτιστο audio αρχείο (και όχι video για οικονομία χρόνου). 
-##### στ) Εγκατάσταση του πακέτου 'ffmpeg', ώστε να μετατρέψουμε το αρχείο που κατεβάσαμε (.m4a) σε μορφή .mp3.
-###### sudo apt-get install ffmpeg
-##### ζ) Μετατροπή του αρχείου σε .mp3
-###### ffmpeg -i 'Dmitri Shostakovich -  Waltz No. 2.m4a' -acodec libmp3lame -aq 2 'Dmitri Shostakovich -  Waltz No. 2.mp3'
-##### η) Εγκατάσταση του S/W 'mpv', ώστε να γίνει απο εκεί η αναπαραγωγή του .mp3 αρχείου.
-###### sudo apt-get install mpvsudo apt-get install mpv
-##### θ) Αναπαραγωγή του .mp3 αρχείου απο terminal. Η αναπαραγωγή τερματίστηκε μετά απο λίγα δευτερόλεπτα, για οικονομία χρόνου.
-###### mpv 'Dmitri Shostakovich -  Waltz No. 2.mp3'
+###### mplayer: o player που χρησιμοποιούμε
+###### -vo: για να οδηγήσουμε την έξοδο σε περιβάλλον X11 (παράθυρο)
+###### caca: για να χρωματίσουμε τους ASCII χαρακτήρες.
+###### -cookies -cookies-file /tmp/cookie.txt: για να δηλώσουμε οτι θα χρησιμοποιήσουμε cookies (απαραίτητα για την λειτουργία του youtube). τα οποία και θα βρίσκονται στο δηλωθέν path.
+###### $(youtube-dl): η είσοδος του mpv θα είναι η έξοδος απο την εκτέλεση του youtube-dl
+###### youtube-dl -g: για να κανουμε real time streaming και όχι download.
+###### -f best: επιλέγουμε βέλτιστη ανάλυση
+###### --cookies /tmp/cookie.txt: χρήση cookies
+###### "https://www.youtube.com/watch?v=EKkzbbLYPuI": το url μας.
 #
 #### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/275789)
 #
