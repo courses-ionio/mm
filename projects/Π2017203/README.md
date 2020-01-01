@@ -34,8 +34,7 @@
 #
 #### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
 #### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-#### link στο εκτελέσιμο:
-#### https://asciinema.org/a/275789
+#### [link](https://asciinema.org/a/275789) στο εκτελέσιμο:
 #
 ## Άσκηση 2
 #### Τίτλος: download a torrent
@@ -81,37 +80,31 @@
 ###### cd /var/lib/transmission-daemon/downloads
 ###### ls 
 #
-#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο παρακάτω link:
-#### https://asciinema.org/a/277131 
+#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/277131 )
 #
-#### link στο αποθετήριο του κώδικα:
-#### https://github.com/p17kagk/mm/tree/master
-#### link στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-#### https://github.com/p17kagk/mm/tree/P2017203
-#### link στο εκτελέσιμο:
-#### https://asciinema.org/a/277131
+#### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
+#### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
+#### [link](https://asciinema.org/a/277131) στο εκτελέσιμο:
 #
 ## Συμμετοχικό εκπαιδευτικό υλικό - 1
 #
-#### Link του mibook.org
-#### https://mibook.org/gr/
-#### Link του προσωπικού αποθετηρίου του βιβλίου
-#### https://github.com/p17kagk/gr
+#### [Link](https://mibook.org/gr/) του mibook.org
+#### [Link](https://github.com/p17kagk/gr) του προσωπικού αποθετηρίου του βιβλίου
 #
 #### Αναρτήσεις του περιεχομένου του mibook.org/gr/ με τρόπο εκπαιδευτικό και ευχάριστο! 
 #### Για τις αναρτήσεις έγινε χρήση των κοινωνικών δικτύων facebook και tweeter.
 #
-#### https://www.facebook.com/andreas.kagkelaris/posts/10156381743652414
-#### https://www.facebook.com/andreas.kagkelaris/videos/10156381702157414/
-#### https://www.facebook.com/andreas.kagkelaris/videos/10156381718967414/
-#### https://www.facebook.com/andreas.kagkelaris/videos/10156381756957414/
-#### https://www.facebook.com/andreas.kagkelaris/videos/10156381726337414/
-#### https://twitter.com/kagelaris3/status/1192932196157468673 
-#### https://twitter.com/kagelaris3/status/1192930702200889344 
-#### https://twitter.com/kagelaris3/status/1192929617251840005 
-#### https://twitter.com/kagelaris3/status/1192928238240194563 
-#### https://twitter.com/kagelaris3/status/1192927744604196864 
-#### https://twitter.com/kagelaris3/status/1192925222904705026
+#### [Ανάρτηση 1](https://www.facebook.com/andreas.kagkelaris/posts/10156381743652414)
+#### [Ανάρτηση 2](https://www.facebook.com/andreas.kagkelaris/videos/10156381702157414/)
+#### [Ανάρτηση 3](https://www.facebook.com/andreas.kagkelaris/videos/10156381718967414/)
+#### [Ανάρτηση 4](https://www.facebook.com/andreas.kagkelaris/videos/10156381756957414/)
+#### [Ανάρτηση 5](https://www.facebook.com/andreas.kagkelaris/videos/10156381726337414/)
+#### [Ανάρτηση 6](https://twitter.com/kagelaris3/status/1192932196157468673)
+#### [Ανάρτηση 7](https://twitter.com/kagelaris3/status/1192930702200889344)
+#### [Ανάρτηση 8](https://twitter.com/kagelaris3/status/1192929617251840005)
+#### [Ανάρτηση 9](https://twitter.com/kagelaris3/status/1192928238240194563)
+#### [Ανάρτηση 10](https://twitter.com/kagelaris3/status/1192927744604196864)
+#### [Ανάρτηση 11](https://twitter.com/kagelaris3/status/1192925222904705026)
 #
 ## Άσκηση 3
 #### Τίτλος: edit a spreadsheet
@@ -137,15 +130,11 @@
 ###### P<ΜΜ.sc> — write an .sc file
 ###### q=quite
 #
-#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο παρακάτω link:
-#### https://asciinema.org/a/281721
+#### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/281721)
 #
-#### link στο αποθετήριο του κώδικα:
-#### https://github.com/p17kagk/mm/tree/master
-#### link στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-#### https://github.com/p17kagk/mm/tree/P2017203
-#### link στο εκτελέσιμο:
-#### https://asciinema.org/a/281721
+#### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
+#### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
+#### [link](https://asciinema.org/a/281721) στο εκτελέσιμο:
 #
 
 
