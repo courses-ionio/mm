@@ -147,7 +147,7 @@
 ##### γ) Εγκατάσταση του S/W 'youtube-dl' ώστε να κάνουμε download το επιθυμητό link με την χρήση terminal. Η εγκατάσταση του πακέτου έγινε απο την σελίδα του δημιουργού και όχι απο τον Ubuntu server, λόγω γνωστού προβλήματος στην έκδοση του Ubuntu Server https://github.com/ytdl-org/youtube-dl/issues/21952. 
 ###### sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 ###### sudo chmod a+rx /usr/local/bin/youtube-dl
-##### δ) Εγκατάσταση των βιβλιοθηκών [link](https://launchpad.net/ubuntu/+source/libcaca)'libcaca' και [link](https://launchpad.net/ubuntu/+source/aalib)'AAlib'. Η βιβλιοθήκη AAlib μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε ασπρόμαυρους ASCII χαρακτήρες. Αντίστοιχα, η βιβλιοθήκη libcaca μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε έγχρωμους ASCII χαρακτήρες. Και οι 2 βιβλιοθήκες εγκαταστάθηκαν κάνοντας build και install στο τερματικό μας:
+##### δ) Εγκατάσταση των βιβλιοθηκών [libcaca](https://launchpad.net/ubuntu/+source/libcaca) και [AAlib](https://launchpad.net/ubuntu/+source/aalib). Η βιβλιοθήκη AAlib μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε ασπρόμαυρους ASCII χαρακτήρες. Αντίστοιχα, η βιβλιοθήκη libcaca μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε έγχρωμους ASCII χαρακτήρες. Και οι 2 βιβλιοθήκες εγκαταστάθηκαν κάνοντας build και install στο τερματικό μας:
 ###### ./configure && make && sudo make install
 ##### ε) Εκτέλεση της εντολής: 
 ###### mplayer -vo aa -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
