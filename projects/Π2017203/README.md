@@ -50,6 +50,7 @@
 ###### pip3 install terminaltables
 ##### δ) Δημιουργία python script με όνομα 'torrent_search', που θα εκτελείται απο κονσόλα, κάνει αναζήτηση σε torrent server και θα επιστρέφει τα αποτελέσματα στο τερματικό. Ο κώδικας προέρχεται απο αναζήτηση στον διαδίκτυο.
 ###### vi torrent_search 
+###### Για ευκολία του αναγνώστη, το script βρίσκεται [εδω](https://github.com/p17kagk/myfiles/blob/master/torrent_search.py)
 ##### Για να μην χρειάζεται κάθε φορά να καλούμε το script μέσα απο το full path της python, δίνουμε το χαρακτηριστικό python στο script, προσθέτοντας στην πρώτη γραμμή του αρχείου το shebang:
 ###### #!/usr/bin/env python3
 ##### ε) Μετατροπή του αρχείου σε εκτελέσιμο. 
