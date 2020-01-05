@@ -151,6 +151,7 @@
 ###### sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 ###### sudo chmod a+rx /usr/local/bin/youtube-dl
 ##### δ) Εγκατάσταση των βιβλιοθηκών [libcaca](https://launchpad.net/ubuntu/+source/libcaca) και [AAlib](https://launchpad.net/ubuntu/+source/aalib). Η βιβλιοθήκη AAlib μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε ασπρόμαυρους ASCII χαρακτήρες. Αντίστοιχα, η βιβλιοθήκη libcaca μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε έγχρωμους ASCII χαρακτήρες. Και οι 2 βιβλιοθήκες εγκαταστάθηκαν κάνοντας build και install στο τερματικό μας:
+###### Για ευκολία του αναγνώστη τα 2 αρχεία lib έχουν ανέβει [εδώ](https://github.com/p17kagk/myfiles)
 ###### ./configure && make && sudo make install
 ##### ε) Εκτέλεση της εντολής: 
 ###### mplayer -vo aa -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
