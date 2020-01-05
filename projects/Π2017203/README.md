@@ -91,7 +91,7 @@
 #
 ## Συμμετοχικό εκπαιδευτικό υλικό - 1
 #
-#### [Link](https://mibook.org/gr/) του mibook.org
+#### [Link](https://mibook.org/) του mibook.org
 #### [Link](https://github.com/p17kagk/gr) του προσωπικού αποθετηρίου του βιβλίου
 #
 #### Αναρτήσεις του περιεχομένου του mibook.org/gr/ με τρόπο εκπαιδευτικό και ευχάριστο! 
