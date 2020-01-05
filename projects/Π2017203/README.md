@@ -51,7 +51,7 @@
 ###### pip3 install terminaltables
 ##### δ) Δημιουργία python script με όνομα 'torrent_search', που θα εκτελείται απο κονσόλα, κάνει αναζήτηση σε torrent server και θα επιστρέφει τα αποτελέσματα στο τερματικό. Ο κώδικας προέρχεται απο αναζήτηση στον διαδίκτυο.
 ###### vi torrent_search 
-##### Για ευκολία του αναγνώστη, το script βρίσκεται [εδω](https://github.com/p17kagk/myfiles/blob/master/torrent_search.py)
+##### Για ευκολία του αναγνώστη, το script βρίσκεται [εδω](https://github.com/p17kagk/myfiles/blob/master/torrent_search.py.gz)
 ##### Για να μην χρειάζεται κάθε φορά να καλούμε το script μέσα απο το full path της python, δίνουμε το χαρακτηριστικό python στο script, προσθέτοντας στην πρώτη γραμμή του αρχείου το shebang:
 ###### #!/usr/bin/env python3
 ##### ε) Μετατροπή του αρχείου σε εκτελέσιμο. 
@@ -151,7 +151,8 @@
 ###### sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 ###### sudo chmod a+rx /usr/local/bin/youtube-dl
 ##### δ) Εγκατάσταση των βιβλιοθηκών [libcaca](https://launchpad.net/ubuntu/+source/libcaca) και [AAlib](https://launchpad.net/ubuntu/+source/aalib). Η βιβλιοθήκη AAlib μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε ασπρόμαυρους ASCII χαρακτήρες. Αντίστοιχα, η βιβλιοθήκη libcaca μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε έγχρωμους ASCII χαρακτήρες. Και οι 2 βιβλιοθήκες εγκαταστάθηκαν κάνοντας build και install στο τερματικό μας:
-##### Για ευκολία του αναγνώστη τα 2 αρχεία lib έχουν ανέβει [εδώ](https://github.com/p17kagk/myfiles)
+##### Για ευκολία του αναγνώστη, το lib ΑΑlib έχει ανέβει [εδώ](https://github.com/p17kagk/myfiles/blob/master/aalib-1.4rc4.tar.gz)
+##### και το lib libcaca [εδώ](https://github.com/p17kagk/myfiles/blob/master/libcaca-0.99.beta19.tar.gz)
 ###### ./configure && make && sudo make install
 ##### ε) Εκτέλεση της εντολής: 
 ###### mplayer -vo aa -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
@@ -168,8 +169,9 @@
 #
 #### Αντίστοιχα, για να έχουμε το ίδιο αποτέλεσμα με έγχρωμους ASCII χαρακτήρες, η εντολή που εκτελέσαμε ήταν: 
 ###### mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
-#### όπου αντικαθιστώντας στην παραπάνω εντολή το "aa" με "caca" πετυχαίνουμε τον χρωματισμό των ASCII χαρακτήρων
+#### όπου αντικαθιστώντας στην παραπάνω εντολή το "aa" με "caca" πετυχαίνουμε τον χρωματισμό των ASCII χαρακτήρων.
 #### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/291335)
+#### Όπως και στην Άσκηση 1, έχουμε το πρόβλημα οτι στην καταγραφή με το asciinema δεν μπορούμε να ακούσουμε τον ήχο. Σε αυτήν την άσκηση δεν μπορούμε να δούμε και το video. Για να έχει ο αναγνώστης μια πιο ολοκληρωμένη εικόνα, υπάρχει ένα μικρό ενδεικτικό video [εδώ](https://github.com/p17kagk/myfiles/blob/master/Askisi_4.mp4)
 #
 #### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
 #### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
