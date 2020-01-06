@@ -7,6 +7,39 @@
 ### Νίκος Ξαντινίδης
 ### ΑΜ: Π2013155
 
+## Εισαγωγή
+Έγιναν 4 ασκήσεις σε linux terminal, καθώς και το πρώτο παραδοτέο της εργασίας περιεχομένου. Οι 4 ασκήσεις έγιναν σε raspberry pi model 3b με λειτουργικό raspbian buster. H προσβαση στο raspberry pi έγινε μέσω ssh με τη βοήθεια του putty https://www.putty.org/. Οι ασκήσεις εκτός απο το url στο asciinema μπορέι να περιέχουν σχετικά video στο youtube απο όπου πήρα βοήθεια σχετικά με την υλοποίηση τους ή link σε σελίδες με σχετικά tutorials, καθώς και screenshots και πηγες σχετικών αρχείων που κατεβάστηκαν για την υλοποίηση. Εκτός απο το url στο asciinema, εχω προσπαθησει να περιγραψω αναλυτικά το πως υλοποίησα την κάθε άσκηση.
+
+## Εργασία περιεχομένου
+### Url βιβλίου μαθήματος https://p13xant.github.io/gr/
+### Url αποθετηρίου κώδικα https://github.com/p13xant/gr
+### Url twitter account https://twitter.com/p13xant
+
+## Παραδοτέο 2A
+Έγιναν δέκα tweets με περιεχόμενο της σελίδας του βιβλίου, τα οποία εκτός απο το url περιέχουν σχόλια, hashtags και εικόνες ή gifs.
+
+#### Παρακάτω τα url για το κάθε tweet
+https://twitter.com/p13xant/status/1185339070161051649
+
+https://twitter.com/p13xant/status/1185340494815154176
+
+https://twitter.com/p13xant/status/1185342858523561987
+
+https://twitter.com/p13xant/status/1185346104717729792
+
+https://twitter.com/p13xant/status/1185348482527309825
+
+https://twitter.com/p13xant/status/1185349810150395905
+
+https://twitter.com/p13xant/status/1185351355927580672
+
+https://twitter.com/p13xant/status/1185353088611295232
+
+https://twitter.com/p13xant/status/1185354880413769729
+
+https://twitter.com/p13xant/status/1185358072417542144
+
+
 ## Eργασία 1 search, download and play (with the terminal) your favorite song of the month from youtube
 
 #### url asciinema to recorded terminal session: https://asciinema.org/a/l8QPkOrJE5PDd5FDg8RZAjfr4
@@ -66,8 +99,81 @@ mpc ls|mpc add
 
 ![Screenshot](xming3.png)
 
+## Eργασία 3. Download a torrent
+#### url asciinema: https://asciinema.org/a/0y8cWAVblQtJuCVC9eU6wxle3
 
+Για την χρησιμοποίησα τον deluge https://deluge-torrent.org/. Ευκολο στην εγκατάσταση και δουλεύει out of the box, χωρίς καμία ρύθμιση.
+Η εγκατάσταση έγινε με την εντολή
 
+```
+sudo apt-get install deluge deluged deluge-console
+```
+Αμέσως μετά την εγκατάσταση πρέπει να ξεκινήσει ο daemon με την εντολή
+
+```
+deluged
+```
+Για να ανοιξουμε τον client της κονσόλας πληκτρολογούμε την εντολή
+
+```
+deluge-console
+```
+Προσθέτουμε torrent ορίζοντας και το download path με την εντολή
+
+```
+add -p /path/to/downloads torrent_magnet_link
+```
+
+Επέλεξα να κατεβάσω μια συλλογη με κλασσική μουσική (Vivaldi, Mozart, Strauss) που βρήκα στο pirate bay
+https://piratebay.live/torrent/7369955/[Classical_Music]_The_Best_Of_(Vivaldi__Bethovenn__Mozart__Strau
+
+Βοήθεια σχετικά με την εγκατάσταση και το κατέβασμα του torrent πήρα απο 
+https://askubuntu.com/questions/315113/how-to-run-deluge-from-cli
+
+## Eργασία 4. Manage your music library. Import your music library, add tags and delete/add songs.
+
+#### url asciinema: https://asciinema.org/a/pm9SYfadDWOZBAc4DQXUzsrHE
+
+Χρησιμοποίησα το beets https://github.com/beetbox/beets. Πολύ ευκολο και λειτουργικό. Το εγκατέστησα με
+
+```
+sudo apt-get install beets
+```
+
+Για να δουλέψει πρέπει να ορίσει που θα αποθηκέυει τα τραγούδια και την library που δημιουργεί. Αυτό γίνετε απο το αρχείο config.yaml
+το οποίο βρίσκεται στο home directory .config/beets/config.yaml. Αν για κάποιο λόγο δεν είναι εκεί, με την εντολή 
+
+```
+beet config -p
+```
+
+βρίσκουμε που είναι το αρχείο. Ολές οι λείτουργίες γίνοντε με subcommands import, modify και remove
+
+```
+beet import /path
+```
+
+```
+beet modify <artist> artist="new artist"
+```
+
+Η παραπάνω εντολή αλλάζει το όνομα του καλλιτέχνη στη βιβλιοθήκη του beets.Μπορεί να χρησιμοποιηθεί για να αλλάξουμε οποιαδήποτε πληροφορία ακόμα και για να προσθέσουμε tags. Τέλος με την παρακάτω εντολή αφαιρούμε κομμάτι απο τη βιβλιοθήκη.
+
+```
+beet remove title:'title'
+```
+
+Για να δούμε ολα τα τραγούδια στη βιβλιοθήκη πληκρολογούμε την εντολή
+
+```
+beet list
+```
+
+Για την υλοποίηση της εργασίας πήρα πληροφορίες απο το παρακάτω βίνετο στο youtube.
+https://www.youtube.com/watch?v=-eVTV3npXZQ
+
+## Συμπεράσματα
+Με την υλοποίηση των ασκήσεων έμαθα τις δυνατότητες των λειτουργικών συστημάτων linux και εξοικειώθηκα με τις εντολές του terminal. Εμαθα για τις δυνατότητες του ssh, και εξοικειώθηκα με τη χρήση διάφορων εργαλείων. Με την εργασία περιεχομένου, απέκτησα γνώση και εμπειρία στο κοινωνικό δικτυο twitter, και κατάλαβα τη δύναμη των social media στην σύγχρονη κοινωνία. Τέλος συνειδητοποίησα  ότι πολλά πράγματα που κάνουμε καθημερινά σε περιβάλλον windows, μπορούν να γίνουν πολύ εύκολα και σε linux μονο απο τη γραμμή εντολών
 
 
 
