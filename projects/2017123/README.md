@@ -1,6 +1,13 @@
 # Ονομα : Αλέξανδρος-Γεώργιος Λουκάς
 # ΑΜ : Π2017123
 ## Μάθημα : Πολυμέσα
+Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος
+
+## Εισαγωγή
+Υλοποιήθηκαν 4 ασκήσεις σε virtualBox με λειτουργικό Ubuntu19 και δημοσιεύθηκαν 5 posts για την ενδιάμεση αναφορά.
+Σε όλες τις ασκήσεις υπάρχει link του βίντεο στο asciinema καθώς και περιγραφή των εντολών που χρησιμοποιώ 
+με σκοπό την καλύτερη κατανόηση.
+
 ## 1ο Παραδοτέο 
 ## Άσκηση 1η: Search, Download and Play your favorite song of the month from youtube
 
@@ -27,8 +34,6 @@ Link του βίντεο: https://asciinema.org/a/da6bz9g8Zf0MCa0ObEOjGBPdp
 
 
 
-
-
 # Συμμετοχικό Εκπαιδευτικό Υλικό:
 # A) Ενδιάμεση αναφορά:
 
@@ -52,5 +57,19 @@ Link Βιβλίου: https://mibook.org/gr/
 βάζοντας το path του φακέλου "/tmp/cookies.txt".Με το esc κάνω exit.
 
 link: https://asciinema.org/a/578URDHMhlHa8y8pLax1IEqT6
+
+## 4ο Παραδοτέο
+## Άσκηση 7η: convert your image files to different sizes and formats
+
+Έχοντας κάνει install το imagemagick φτιάχνω ένα directory μέσα στο directory Pictures το οποίο το ονομάζω resizeImages
+Έπειτα με την εντολή mogrify -path resized_images -adaptive-resize 50% -quality 60% καθορίζω το ποσοστό που θέλω να κάνω
+resize και της ποιότητας της εικόνας.
+Επίσης πληκτρολογώ την εντολή ls-lh για να φανεί η διαφορά στο μέγεθος πριν και μετά το resize.
+Τέλος με την εντολή convert index.jpg index.png δημηιουργώ την ίδια εικόνα αλλα .png αντί για .jpg
+
+link: https://asciinema.org/a/djYHkmhp3Ca79Hqe8hW6LbB2U
+
+## Συμπεράσματα:
+Με την υλοποίηση των ασκήσεων επιτεύχθηκε η εξοικείωσή μου με ένα λειτουργικό σύστημα UNIX. Με αυτόν τον τρόπο θα είμαι προετοιμασμένος για μαθήματα στα επόμενα εξάμηνα που θα ξανακάνουμε χρήση τέτοιων λειτουργικών συστημάτων.
 
 
