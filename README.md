@@ -21,7 +21,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 40% Τελική εξέταση* 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://github.com/courses-ionio/projects/blob/master/social/index.md) + 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey) ή 60% [εργασία ανάπτυξης](https://github.com/courses-ionio/projects/blob/master/dev/index.md)
+**Βαθμολογία:** 40% Τελική εξέταση* 20% [Συμμετοχικό εκπαιδευτικό υλικό*](https://github.com/courses-ionio/projects/blob/master/social/index.md) + 40% [4 ασκήσεις](https://github.com/courses-ionio/dokey) ή 40% [εργασία ανάπτυξης](https://github.com/courses-ionio/projects/blob/master/dev/index.md)
 
 *υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
 
