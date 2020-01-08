@@ -178,8 +178,21 @@
 ##### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
 ##### [link](https://asciinema.org/a/291335) στο εκτελέσιμο:
 #
-
-
+## Συμμετοχικό εκπαιδευτικό υλικό - 2
+#
+#### [Link](https://mibook.org/) του mibook.org
+#### [Link](https://github.com/p17kagk/gr) του προσωπικού αποθετηρίου του βιβλίου
+#### [Link](https://p17kagk.github.io/gr/) στο δικό μου αντίγραφο του βιβλίου
+#### Ακολουθούν τα links με τις αλλαγές στο δικό μας αντίγραφο στην ιστοσελίδα:
+#### [Link](https://p17kagk.github.io/gr/) home page
+#### [Link](https://p17kagk.github.io/gr/case-study/arduino/) Arduino
+#### [Link](https://p17kagk.github.io/gr/case-study/www/) World Wide Web
+#### [Link](https://p17kagk.github.io/gr/case-study/wikipedia/) Wikipedia
+#### [Link](https://p17kagk.github.io/gr/case-study/windows/) Microsoft Windows
+#### [Link](https://p17kagk.github.io/gr/remix/keyboard-input/) Keyboard input
+#### [Link](https://p17kagk.github.io/gr/remix/menu-pie/) Menu pie
+#### [Link](https://p17kagk.github.io/gr/remix/calculator/) Calculator
+#
 
 
 
