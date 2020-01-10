@@ -134,7 +134,9 @@ AM: Π2017063
    
    
    
-    
+   
+   
+   
   ## Συμμετοχικό Υλικό-   Β'Παραδοτέο
   
   [*Link του βιβλίου*](https://www.mibook.org/)
@@ -146,11 +148,11 @@ AM: Π2017063
   
   
 
-* [Link της ένατης ανάρτησης/Google Assistant](https://twitter.com/sofronia_f/status/1209072462543179776)
+  * [Link της ένατης ανάρτησης/Google Assistant](https://twitter.com/sofronia_f/status/1209072462543179776)
 
-* [Link της δέκατης ανάρτησης/mibook](https://twitter.com/sofronia_f/status/1210380897297616896)
+  * [Link της δέκατης ανάρτησης/mibook](https://twitter.com/sofronia_f/status/1210380897297616896)
 
-* [Link της ενδέκατης ανάρτησης/Panorama](https://twitter.com/sofronia_f/status/1215338958323953665)
+  * [Link της ενδέκατης ανάρτησης/Panorama](https://twitter.com/sofronia_f/status/1215338958323953665)
   
 
    
