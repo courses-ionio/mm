@@ -94,6 +94,10 @@ AM: Π2017202
    
    [Link Tweet#8](https://twitter.com/38Alexandros/status/1192588998319001602)
    
+   [Link Tweet#9](https://twitter.com/38Alexandros/status/1215747741239906306)
+   
+   [Link Tweet#10](https://twitter.com/38Alexandros/status/1215748473657667584)
+   
    
    ## Άσκηση 3 Multimedia
    ## Create a simple website with a static generator
