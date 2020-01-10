@@ -193,6 +193,12 @@
 #### [Link](https://p17kagk.github.io/gr/remix/menu-pie/) Menu pie
 #### [Link](https://p17kagk.github.io/gr/remix/calculator/) Calculator
 # 
+######  export CACA_DRIVER=ncurses
+###### https://unix.stackexchange.com/questions/319450/mplayer-vo-caca-with-geometry
+###### https://askubuntu.com/questions/58814/how-do-i-add-environment-variables
+###### https://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/intro.html
+
+
 
 
 
