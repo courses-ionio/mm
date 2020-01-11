@@ -62,8 +62,7 @@ references:
 
 [asciinema](https://asciinema.org/a/rEoDgoUj0pHtIpD73jfIo1EZl)
 
-![image](https://github.com/chrikri/mm/tree/2017129/Screenshot.png)
-
+![image](https://github.com/chrikri/mm/blob/2017129/projects/2017129/Screenshot.png)
 
 * ## ΑΣΚΗΣΗ 4
 
@@ -106,4 +105,4 @@ ________________________________________________________________________________
 * ## Β
 
 [asciinema](https://asciinema.org/a/H1CEudoQjNziEMGLpFpyFk4wp)
-![image](https://github.com/chrikri/mm/tree/2017129/Screenshot1.png)
+![image](https://github.com/chrikri/mm/blob/2017129/projects/2017129/Screenshot1.png)
