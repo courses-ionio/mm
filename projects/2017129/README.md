@@ -53,6 +53,7 @@ references:
 
 [installation for cli-visualiser](https://www.linuxlinks.com/cli-visualizer-command-line-visualizer-mpd-alsa-pulseaudio/)
 
+
 * ## ΑΣΚΗΣΗ 3
 
 **create a simple website with a static generator**
@@ -64,6 +65,14 @@ references:
 ![image](https://github.com/chrikri/mm/tree/2017129/Screenshot.png)
 
 
+* ## ΑΣΚΗΣΗ 4
+
+**three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks**
+
+references:
+
+[patat](https://github.com/jaspervdj/patat#running)
+[asciinema]()
 
 _________________________________________________________________________________________________________________________________
 
@@ -92,3 +101,5 @@ ________________________________________________________________________________
 
 [10ο tweet](https://twitter.com/Christiana_Kr/status/1193861613830496258)
 
+
+* ## Β
