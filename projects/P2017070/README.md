@@ -35,7 +35,7 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
 [Link asciinema for the first assignment](https://asciinema.org/a/Y48NlruYBUNCsIg3OtDeOHyDv)                               
                                
 
-## Συμμετοχικό Εκπαιδευτικό Υλικό
+## Συμμετοχικό Εκπαιδευτικό Υλικό A'
 
 Για να επικοινωνήσω το περιεχόμενο του βιβλίου με τρόπο εκπαιδευτικό, ευχάριστο, χρησιμοποίηθηκε ως κοινωνικό μέσο το Twitter.
 
@@ -174,6 +174,18 @@ Eργαλεία:
 -http://kirste.userpage.fu-berlin.de/chemnet/use/xspread.html
 
 [Link asciinema for the fourth assignment](https://asciinema.org/a/tCfe3l9Z1pbM3lyHEx9C1Cco9)
+
+
+## Συμμετοχικό Εκπαιδευτικό Υλικό Β'
+
+[Google Search Engine/twitter](https://twitter.com/farmaki4/status/1216083483971538944)
+
+[Xanadu/twitter](https://twitter.com/farmaki4/status/1216097707288420353)
+
+[Linux/twitter](https://twitter.com/farmaki4/status/1216335386621939712)
+
+
+
 
 
 
