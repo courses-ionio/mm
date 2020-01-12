@@ -40,7 +40,7 @@
 ## Άσκηση 2
 #### Τίτλος: download a torrent
 #
-##### Σημ 1.: Επιλέξαμε να πραγματοποιήσουμε απο το τερματικό όχι μόνο το downloading του torrent, αλλά και την αναζήτηση του torrent αρχείου. Σε αυτό το βήμα συναντήσαμε τις παρακάτω δυσκολίες:
+##### Σημ 1.: Επιλέξαμε να πραγματοποιήσουμε απο το τερματικό (σαν παραπάνω βήμα )όχι μόνο το downloading του torrent, αλλά και την αναζήτηση του torrent αρχείου. Σε αυτό το βήμα συναντήσαμε τις παρακάτω δυσκολίες:
 ##### Σημ 2.: Διαπιστώθηκε οτι ένας μεγάλος αριθμός απο τα γνωστά cli torrent search λογισμικά (torrench, we-get, rtorrent) έχει σταματήσει να αναπτύσσεται και να υποστηρίζεται απο τα τέλη περίπου του 2017, όπου δηλαδή η πληθώρα των torrent trackers μετέβη σε 'https'. Για τον λόγο αυτό, το κομμάτι της άσκησης που αφορά την αναζήτηση αρχείου δεν υλοποιήθηκε με κάποιο απο αυτα τα εργαλεία, αλλά με την χρήση python script.
 ##### Σημ 3.: Επιλέξαμε η αναζήτηση να "τρέξει" μέσα σε συγκεκριμένο torrent tracker και όχι στο διαδίκτυο γενικά (Δηλαδή το search να μην γίνει κάνοντας χρήση μηχανής αναζήτησης, αλλά μέσα στην αναζήτηση ενός torrent tracker).
 #### Για την εκπόνηση της άσκησης, ακολουθήσαμε τα εξής βήματα:
@@ -154,29 +154,45 @@
 ##### δ) Εγκατάσταση των βιβλιοθηκών [libcaca](https://launchpad.net/ubuntu/+source/libcaca) και [AAlib](https://launchpad.net/ubuntu/+source/aalib). Η βιβλιοθήκη AAlib μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε ασπρόμαυρους ASCII χαρακτήρες. Αντίστοιχα, η βιβλιοθήκη libcaca μετατρέπει την έξοδο του σήματος που δέχεται απο pixels σε έγχρωμους ASCII χαρακτήρες. Και οι 2 βιβλιοθήκες εγκαταστάθηκαν κάνοντας build και install στο τερματικό μας:
 ##### Για ευκολία του αναγνώστη, το lib ΑΑlib έχει ανέβει [εδώ](https://github.com/p17kagk/myfiles/blob/master/aalib-1.4rc4.tar.gz)
 ##### και το lib libcaca [εδώ](https://github.com/p17kagk/myfiles/blob/master/libcaca-0.99.beta19.tar.gz)
+##### Για να κάνω build και install (και τις 2 βιβλιοθήκες) εκτελώ:
 ###### ./configure && make && sudo make install
-##### ε) Εκτέλεση της εντολής: 
-###### mplayer -vo aa -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
+##### ε) εκτέλεση της εντολής:
+###### mplayer -really-quiet -vo aa:driver=curses -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI")
 ##### όπου:
-###### mplayer: o player που χρησιμοποιούμε
-###### -vo: για να οδηγήσουμε την έξοδο σε περιβάλλον X11 (παράθυρο)
-###### aa: για να μετατρέψουμε τα pixels σε ASCII χαρακτήρες.
-###### -cookies -cookies-file /tmp/cookie.txt: για να δηλώσουμε οτι θα χρησιμοποιήσουμε cookies (απαραίτητα για την λειτουργία του youtube). τα οποία και θα βρίσκονται στο δηλωθέν path.
-###### $(youtube-dl): η είσοδος του mplayer θα είναι η έξοδος απο την εκτέλεση του youtube-dl
-###### youtube-dl -g: για να κανουμε real time streaming και όχι download.
-###### -f best: επιλέγουμε βέλτιστη ανάλυση
-###### --cookies /tmp/cookie.txt: χρήση cookies
-###### "https://www.youtube.com/watch?v=EKkzbbLYPuI": το url μας.
+##### mplayer: o player που χρησιμοποιούμε
+##### -really-quite: Make console output less verbose. Particularly useful on slow terminals
+##### -vo: για να οδηγήσουμε την έξοδο σε περιβάλλον X11 (παράθυρο)
+##### aa:driver=curses: για να μετατρέψουμε τα pixels σε ASCII χαρακτήρες. Οδηγώ την έξοδο στο παρόν bash.
+##### -cookies -cookies-file /tmp/cookie.txt: για να δηλώσουμε οτι θα χρησιμοποιήσουμε cookies (απαραίτητα για την λειτουργία του youtube). τα οποία και θα βρίσκονται στο δηλωθέν path.
+##### $(youtube-dl): η είσοδος του mplayer θα είναι η έξοδος απο την εκτέλεση του youtube-dl
+##### youtube-dl -g: για να κανουμε real time streaming και όχι download.
+##### -f best: επιλέγουμε βέλτιστη ανάλυση
+##### --cookies /tmp/cookie.txt: χρήση cookies
+##### "https://www.youtube.com/watch?v=EKkzbbLYPuI": το url μας.
 #
-##### Αντίστοιχα, για να έχουμε το ίδιο αποτέλεσμα με έγχρωμους ASCII χαρακτήρες, η εντολή που εκτελέσαμε ήταν: 
-###### mplayer -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI") 
-##### όπου αντικαθιστώντας στην παραπάνω εντολή το "aa" με "caca" πετυχαίνουμε τον χρωματισμό των ASCII χαρακτήρων.
-##### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/291335)
-##### Όπως και στην Άσκηση 1, έχουμε το πρόβλημα οτι στην καταγραφή με το asciinema δεν μπορούμε να ακούσουμε τον ήχο. Σε αυτήν την άσκηση δεν μπορούμε να δούμε και το video. Για να έχει ο αναγνώστης μια πιο ολοκληρωμένη εικόνα, υπάρχει ένα μικρό ενδεικτικό video [εδώ](https://github.com/p17kagk/myfiles/blob/master/Askisi_4.mp4.gz)
+##### στ) Θα επαναλάβουμε το ίδιο βήμα, αυτήν την φορά όμως η έξοδός μας θα είναι με έγχρωμους ascii. Για να το πετύχουμε αυτό θα κάνουμε χρήση της 'libcaca' αντί της 'AAlib'.
+##### Αυτή τη φορά, για να οδηγήσουμε την έξοδο στο παρόν τερματικό, θα χρησιμοποιήσουμε πρώτα την εντολη:
+###### export CACA_DRIVER=ncurses
+##### ώστε να ρυθμίσουμε την libcaca να χρησιμοποιήσει την ncurses (a library of functions that manages an application's display on character-cell terminals) σαν driver εξόδου.
+##### και στη συνέχεια:
+###### mplayer -really-quiet -vo caca -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI")
+##### όπου:
+##### mplayer: o player που χρησιμοποιούμε
+##### -really-quite: Make console output less verbose. Particularly useful on slow terminals
+##### -vo: για να οδηγήσουμε την έξοδο σε περιβάλλον X11 (παράθυρο)
+##### caca: χρήση lib caca
+##### -cookies -cookies-file /tmp/cookie.txt: για να δηλώσουμε οτι θα χρησιμοποιήσουμε cookies (απαραίτητα για την λειτουργία του youtube). τα οποία και θα βρίσκονται στο δηλωθέν path.
+##### $(youtube-dl): η είσοδος του mplayer θα είναι η έξοδος απο την εκτέλεση του youtube-dl
+##### youtube-dl -g: για να κανουμε real time streaming και όχι download.
+##### -f best: επιλέγουμε βέλτιστη ανάλυση
+##### --cookies /tmp/cookie.txt: χρήση cookies
+##### "https://www.youtube.com/watch?v=EKkzbbLYPuI": το url μας.
+#
+##### όλα τα παραπάνω βήματα φαίνονται αναλυτικά στο [link](https://asciinema.org/a/293148)
 #
 ##### [link](https://github.com/p17kagk/mm/tree/master) στο αποθετήριο του κώδικα:
 ##### [link](https://github.com/p17kagk/mm/tree/P2017203) στο κλαδί του κώδικα που αντιστοιχεί στο κάθε παραδοτέο:
-##### [link](https://asciinema.org/a/291335) στο εκτελέσιμο:
+##### [link](https://asciinema.org/a/293148) στο εκτελέσιμο:
 #
 ## Συμμετοχικό εκπαιδευτικό υλικό - 2
 #
