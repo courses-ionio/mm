@@ -148,7 +148,7 @@ AM: Π2017202
    
    Στη συνέχεια κάνουμε mask το περιεχόμενο του βιβλίου χρησιμοποιώντας το [Word Cloud](http://amueller.github.io/word_cloud/auto_examples/index.html)
    
-   >wordcloud_cli --text wordcloud.txt --imagefile cover.jpg --mask sherlock.jpg
+   >wordcloud_cli --text SherlockBook.txt --imagefile cover.jpg --mask sherlock.jpg
 
   To αποτέλεσμα εμφανίζεται παρακάτω ![Link to image](https://imgur.com/VZxyste.png)
 
