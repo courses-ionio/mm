@@ -82,7 +82,7 @@ ________________________________________________________________________________
 [Twitter account](https://twitter.com/Christiana_Kr)
 
 * ## Α
-[1ο tweet](https://twitter.com/Christiana_Kr/status/1216500036391096320) (with creation of the [VIDEOPLACE] (https://gph.is/g/4VxkKxP) gif)
+[1ο tweet](https://twitter.com/Christiana_Kr/status/1216500036391096320) (with creation of the [VIDEOPLACE](https://gph.is/g/4VxkKxP) gif)
 
 [2ο tweet](https://twitter.com/Christiana_Kr/status/1192593161513840641)
 
@@ -107,4 +107,5 @@ ________________________________________________________________________________
 
 [asciinema](https://asciinema.org/a/iReEeJGsKy7FGsBIRVP75PKjL)
 ![image](https://github.com/chrikri/mm/blob/2017129/projects/2017129/Screenshot1.png)
-![image]()<iframe src="https://giphy.com/embed/Sr2BXEjkslcI0gJ0jl" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Sr2BXEjkslcI0gJ0jl">via GIPHY</a></p>
+![image](https://giphy.com/embed/Sr2BXEjkslcI0gJ0j)
+![image](https://giphy.com/gifs/Sr2BXEjkslcI0gJ0jl)
