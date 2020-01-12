@@ -193,6 +193,17 @@ Eργαλεία:
 [link του βιβλίου mibook](https://www.mibook.org/)
 
 
+Στη συνέχεια, για το δεύτερο μέρος του συμμετοχικού υλικού, τροποποίησα καποιες αλλαγές στα αρχεία του mibook και ειδικότερα τον φάκελο index.md όπου εκεί αντικατέστησα μέσα στο div τις δύο τελευταίες εντολές με τις παρακάτω γραμμές κώδικα ώστε να εμφανίζεται η ροή του λογαριασμού του twitter μου αντί για την τρίτη εικόνα:
+
+<a class="twitter-timeline" data-width="230" data-theme="dark" href="https://twitter.com/farmaki4?ref_src=twsrc%5Etfw">Tweets by farmaki4</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+</script>
+
+**Πηγές** 
+
+https://help.twitter.com/en/using-twitter/embed-twitter-feed
+
+
+
 
 
 
