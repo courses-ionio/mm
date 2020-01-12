@@ -158,11 +158,14 @@ AM: Π2017063
   * [Link της ενδέκατης ανάρτησης/Panorama](https://twitter.com/sofronia_f/status/1215338958323953665)
   
 
-    ## Άσκηση 5 Multimedia 
+   
+   
+   ## Άσκηση 5 Multimedia 
    ### Creat a simple website with static generator
    
    ### [Link για την άσκηση](https://asciinema.org/a/6w9lA4K7CC7osA3oN1yyHCJtQ)
    
+   Για την υλοποίηση της συγκεκριμένης εργασίας χρησιμοποιήσα το [Jekyll](https://jekyllrb.com/), με την χρήση του οποίου δημιούργησα τοπικά στον Η/Υ μου ένα website. Στο site, όπως φαίνεται και στην εικόνα παρακάτω, απλά "εκτυπώνεται" το όνομα και το ΑΜ καθώς και η εκφώνηση της εργασίας.
    
    ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot%20from%202020-01-12%2018-46-34.png)
    
