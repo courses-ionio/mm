@@ -46,19 +46,19 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
 
 [Λινκ για την ιστοσελιδα του βιβλιου/twitter](https://twitter.com/farmaki4/status/1192180854409367553)
 
-[Λινκ για το Dynabook του Alan Kay/twitter](https://twitter.com/farmaki4/status/1192473400012353537)
+[Dynabook του Alan Kay/twitter](https://twitter.com/farmaki4/status/1192473400012353537)
 
-[Λινκ για το Google Assistant/twitter](https://twitter.com/farmaki4/status/1193275189028642817)
+[Google Assistant/twitter](https://twitter.com/farmaki4/status/1193275189028642817)
 
-[Λινκ για το home programming/twitter](https://twitter.com/farmaki4/status/1193277159378444289)
+[home programming/twitter](https://twitter.com/farmaki4/status/1193277159378444289)
 
-[Λινκ για το Aspen Movie Map/twitter](https://twitter.com/farmaki4/status/1193352436070731776)
+[Aspen Movie Map/twitter](https://twitter.com/farmaki4/status/1193352436070731776)
 
-[Λινκ για το Sword of Damocles/twitter](https://twitter.com/farmaki4/status/1193496946482335744)
+[Sword of Damocles/twitter](https://twitter.com/farmaki4/status/1193496946482335744)
 
-[Λινκ Videoplace/twitter](https://twitter.com/farmaki4/status/1193507880089145344)
+[Videoplace/twitter](https://twitter.com/farmaki4/status/1193507880089145344)
 
-[Λινκ για wiki-edit](https://twitter.com/farmaki4/status/1193524594256338946)
+[Wiki-edit/twitter](https://twitter.com/farmaki4/status/1193524594256338946)
 
 
 ### Second Assignment- Download a torrent
