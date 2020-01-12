@@ -182,3 +182,23 @@ mpv "link"
 
 ```       
 ---
+
+# Συμμετοχικό εκπαιδευτικό υλικο:
+# Twitter: [Προφίλ](https://twitter.com/p17chr1)
+
+## 1ο tweet: [1o tweet](https://twitter.com/p17chr1/status/1193189008752496644)
+## 2ο tweet: [2o tweet](https://twitter.com/p17chr1/status/1193190716308164609)
+## 3ο tweet: [3o tweet](https://twitter.com/p17chr1/status/1193193040011255808)
+## 4ο tweet: [4o tweet](https://twitter.com/p17chr1/status/1193205364864495618)
+## 5ο tweet: [5o tweet](https://twitter.com/p17chr1/status/1193209204502417409)
+## 6ο tweet: [6o tweet](https://twitter.com/p17chr1/status/1193216082670182400)
+## 7ο tweet: [7o tweet](https://twitter.com/p17chr1/status/1193217986393497600)
+## 8ο tweet: [8o tweet](https://twitter.com/p17chr1/status/1193220791766310914)
+## 9ο tweet: [9o tweet](https://twitter.com/p17chr1/status/1193224890846973952)
+## 10ο tweet: [10o tweet](https://twitter.com/p17chr1/status/1193227821646258183)
+
+
+
+
+
+
