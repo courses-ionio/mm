@@ -173,10 +173,12 @@ Eργαλεία:
 
 -http://kirste.userpage.fu-berlin.de/chemnet/use/xspread.html
 
-[Link asciinema for the fourth assignment](https://asciinema.org/a/tCfe3l9Z1pbM3lyHEx9C1Cco9)
+[Link asciinema- fourth assignment](https://asciinema.org/a/tCfe3l9Z1pbM3lyHEx9C1Cco9)
 
 
 ## Συμμετοχικό Εκπαιδευτικό Υλικό Β'
+
+Για το δεύτερο μέρος του συμμετοχικού υλικού, αρχικα δημοσίευσα τις υπόλοιπες αναρτήσεις στο [λογαριασμό μου στο twitter](https://twitter.com/farmaki4) με τρόπο εκπαιδευτικό, ευχάριστο και με την χρήση μέσων όπως gifs, mentions και tags όπως φαίνεται και στα παρακάτω λινκ.
 
 [Linux/twitter](https://twitter.com/farmaki4/status/1216335386621939712)
 
