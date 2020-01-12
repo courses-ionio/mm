@@ -8,7 +8,7 @@
  
 
 
-Με τη βοήθεια sudo: 
+Με τη βοήθεια της εντολης sudo: 
  
 Download mplayer 
 
@@ -32,7 +32,58 @@ $pip3 install --user youtube-dl --upgrade
 **LINK ASCIINEMA**   
 
  https://asciinema.org/a/279878  
-   (asciinema rec -i 0.5)
+  
+   (asciinema rec -i 0.5) 
+ 
+  
+ 
+   
+ 
+   
+   
+   ## 2η ΑΣΚΗΣΗ:  (convert your image files to different sizes and formats)  
+   
+   Κατεβασα το **ImageMagick**: 
+    
+   **mogrify** to change the format and size. 
+   
+   
+   
+   **LINK ASCIINEMA** 
+   
+   https://asciinema.org/a/285279 
+   
+     (asciinema rec -i 0.3)
+     
+   ## 3η ΑΣΚΗΣΗ: (create your final presentation) 
+   
+   Install **emacs** : 
+   
+   -nw (no-window) 
+   
+   Install **mdp** 
+   
+   **LINK ASCIINEMA** 
+   
+   https://asciinema.org/a/285914 
+   
+     (asciinema rec -i 0.3) 
+     
+   
+   ## 4η ΑΣΚΗΣΗ: (search and download a torrent) 
+   
+   Install **w3m** for searching via terminal and  **rtorrent** to download torrent files. 
+   
+   **LINK ASCIINEMA** 
+   
+   https://asciinema.org/a/285908 
+    
+     (asciinema rec -i 0.3) 
+     
+     
+   
+   
+   
   
   
   
