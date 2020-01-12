@@ -107,5 +107,4 @@ ________________________________________________________________________________
 
 [asciinema](https://asciinema.org/a/iReEeJGsKy7FGsBIRVP75PKjL)
 ![image](https://github.com/chrikri/mm/blob/2017129/projects/2017129/Screenshot1.png)
-![image](https://giphy.com/embed/Sr2BXEjkslcI0gJ0j)
-![image](https://giphy.com/gifs/Sr2BXEjkslcI0gJ0jl)
+[gif](https://giphy.com/gifs/Sr2BXEjkslcI0gJ0jl)
