@@ -141,7 +141,7 @@ AM: Π2017063
   
   [*Link του βιβλίου*](https://www.mibook.org/)
   
-  [*Link του αντιγράφου του αποθετηρίου του βιβλίου*](https://github.com/fsofronia/gr/tree/gh-pages)
+  [*Link του αντιγράφου του αποθετηρίου του βιβλίου*](https://github.com/fsofronia/gr/tree/master)
   
   [*Link στο εκτελέσιμο](https://fsofronia.github.io/gr/)
   
