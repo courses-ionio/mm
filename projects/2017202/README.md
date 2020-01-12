@@ -126,7 +126,7 @@ AM: Π2017202
    
    [Creating and using Jekyll](https://asciinema.org/a/yRdogWHplhe2eRNM5FvYpmhOf)
    
-   [Editing index.html](https://asciinema.org/a/908ma2e88UxrxVa3cTSpDAwRV)
+   [Asciinema Link Editing index.html](https://asciinema.org/a/908ma2e88UxrxVa3cTSpDAwRV)
    
    ## Άσκηση 4 Multimedia
    ## Visualize a large text file with a word cloud
@@ -153,5 +153,5 @@ AM: Π2017202
   To αποτέλεσμα εμφανίζεται παρακάτω ![Link to image](https://imgur.com/VZxyste.png)
 
    
-   [World Cloud](https://asciinema.org/a/grUHQtgWjd7MxmYuFVjZU2Ne3)
+   [Asciinema Link World Cloud](https://asciinema.org/a/grUHQtgWjd7MxmYuFVjZU2Ne3)
    
