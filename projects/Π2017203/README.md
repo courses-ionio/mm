@@ -198,11 +198,13 @@
 #
 ## Συμμετοχικό εκπαιδευτικό υλικό - 2
 #
-#### [Link](https://mibook.org/) του mibook.org
-#### [Link](https://github.com/p17kagk/gr) του προσωπικού αποθετηρίου του βιβλίου
-#### [Link](https://p17kagk.github.io/gr/) στο δικό μου αντίγραφο του βιβλίου
-#### Ακολουθούν τα links με τις αλλαγές στο δικό μας αντίγραφο στην ιστοσελίδα:
-#### [Link](https://p17kagk.github.io/gr/) home page
+#### [Link](https://mibook.org/) του mibook.org.
+#### [Link](https://github.com/p17kagk/gr) του προσωπικού αποθετηρίου του βιβλίου.
+#### [Link](https://p17kagk.github.io/gr/) στο δικό μου αντίγραφο του βιβλίου.
+#### Τροποποιήσαμε το index.md, έτσι ώστε: 
+#### α) Να αφαιρέσουμε μια απο τις 3 αναρτήσεις που είχε στην αρχική σελίδα, και στην θέση της να βάλουμε μια ροή περιεχομένου (χρησιμοποιήσαμε το twitter).
+#### β) Αλλαγή της κεντρικής εικόνας στην αρχική σελίδα.
+#### Στην συνέχεια, κρίθηκε χρήσιμο και σε κάθε ανάρτηση που είχαμε τροποποιήσει στο Παραδοτέο 1, προστέθηκε η αντίστοιχη ροή πληροφορίας απο την ανάρτηση. Ακολουθούν τα links με τις αλλαγές στις αναρτήσεις (στο δικό μας αντίγραφο).
 #### [Link](https://p17kagk.github.io/gr/case-study/arduino/) Arduino
 #### [Link](https://p17kagk.github.io/gr/case-study/www/) World Wide Web
 #### [Link](https://p17kagk.github.io/gr/case-study/wikipedia/) Wikipedia
@@ -211,13 +213,6 @@
 #### [Link](https://p17kagk.github.io/gr/remix/menu-pie/) Menu pie
 #### [Link](https://p17kagk.github.io/gr/remix/calculator/) Calculator
 # 
-######  export CACA_DRIVER=ncurses
-###### https://unix.stackexchange.com/questions/319450/mplayer-vo-caca-with-geometry
-###### https://askubuntu.com/questions/58814/how-do-i-add-environment-variables
-###### https://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/intro.html
-
-
-
 
 
 
