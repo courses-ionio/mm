@@ -128,5 +128,30 @@ AM: Π2017202
    
    [Editing index.html](https://asciinema.org/a/908ma2e88UxrxVa3cTSpDAwRV)
    
+   ## Άσκηση 4 Multimedia
+   ## Visualize a large text file with a word cloud
+   ### Requirements
+   
+   Το Word Cloud επιτρέπει στον χρήστη να οπτικοποιήσει κείμενο δημιουργώντας εικόνες απο text.
+   Για τον σκοπό αυτό εγκαθιστούμε το wordcloud.py 
+   
+   >pip install wordcloud
+   
+   Επίσης θα χρησιμοποίησουμε και το curl ώστε να κατεβάσουμε ένα δωρεάν βιβλίο απο το [Project Gutenberg](https://www.gutenberg.org/)
+   
+   ### Word Cloud
+   
+   To βιβλίο που επιλέξαμε για την εργασία είναι το [The Adventures of Sherlock Holmes](https://www.gutenberg.org/files/1661/1661-0.txt) του Arthur Conan Doyle με τον γνωστό ντετέκτιβ.
+   
+   Κατεβάζουμε το βιβλίο σε μορφή .txt (το Project Gutenberg παρέχει τα βιβλία νόμιμα και δωρεάν) 
+   >curl https://www.gutenberg.org/files/1661/1661-0.txt --output SherlockBook.txt
+   
+   Στη συνέχεια κάνουμε mask το περιεχόμενο του βιβλίου χρησιμοποιώντας το [Word Cloud](http://amueller.github.io/word_cloud/auto_examples/index.html)
+   
+   >wordcloud_cli --text wordcloud.txt --imagefile cover.jpg --mask sherlock.jpg
+
+  To αποτέλεσμα εμφανίζεται στο [Link to image](https://imgur.com/VZxyste)
+
+   
    
    
