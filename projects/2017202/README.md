@@ -150,7 +150,7 @@ AM: Π2017202
    
    >wordcloud_cli --text wordcloud.txt --imagefile cover.jpg --mask sherlock.jpg
 
-  To αποτέλεσμα εμφανίζεται στο ![Link to image](https://imgur.com/VZxyste.png)
+  To αποτέλεσμα εμφανίζεται παρακάτω ![Link to image](https://imgur.com/VZxyste.png)
 
    
    
