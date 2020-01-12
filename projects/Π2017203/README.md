@@ -158,6 +158,7 @@
 ###### ./configure && make && sudo make install
 ##### ε) εκτέλεση της εντολής:
 ###### mplayer -really-quiet -vo aa:driver=curses -cookies -cookies-file /tmp/cookie.txt $(youtube-dl -g -f best --cookies /tmp/cookie.txt "https://www.youtube.com/watch?v=EKkzbbLYPuI")
+##### (επιλέξαμε να γίνει video streaming και όχι download το αρχείο, και απο εκεί εκτέλεση)
 ##### όπου:
 ##### mplayer: o player που χρησιμοποιούμε
 ##### -really-quite: Make console output less verbose. Particularly useful on slow terminals
