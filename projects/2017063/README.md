@@ -58,7 +58,9 @@ AM: Π2017063
   
   [*Link του βιβλίου*](https://www.mibook.org/)
   
-  [*Link του αντιγράφου του αποθετηρίου του βιβλίου*](https://github.com/fsofronia/gr/tree/gh-pages)
+  [*Link του αντιγράφου του αποθετηρίου του βιβλίου*](https://github.com/fsofronia/gr/tree/master)
+  
+  [*Link στο εκτελέσιμο](https://fsofronia.github.io/gr/)
   
   Για την ανάρτηση του περιεχομένου του βιβλίου [mibook/gr](https://mibook.org/gr/) με τρόπο εκπαιδευτικό και ευχάριστο, χρησιμοποίησα το [Twitter](https://twitter.com/sofronia_f). Για το πρώτο παραδοτέο υλοποίησα συνολικά οτκώ δημοσιεύσεις ( 3 για το Β παραδοτέο) στις οποίες προσθάθησα να "εκμεταλλευτώ" όλες τις δυνατότητες του κοινωνικού αυτού δικτύου (text, images, gif, mention, hashtags, etc).
   
