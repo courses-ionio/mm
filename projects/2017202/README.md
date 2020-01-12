@@ -72,6 +72,8 @@ AM: Π2017202
  
 ## Συμμετοχικό Υλικό
 
+[Link σελιδας συμμετοχικου](https://alexandrosp38.github.io/gr/)
+
 [Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/gr)
 
    Μέρος της εργασίας στα Multimedia είναι η χρήση ενός κοινωνικού δικτύου για παρουσίαση του βιβλίου ["O Προγραμματισμός της Διάδρασης"](https://mibook.org/gr/)
@@ -97,6 +99,7 @@ AM: Π2017202
    [Link Tweet#9](https://twitter.com/38Alexandros/status/1215747741239906306)
    
    [Link Tweet#10](https://twitter.com/38Alexandros/status/1215748473657667584)
+   
    
    
    ## Άσκηση 3 Multimedia
