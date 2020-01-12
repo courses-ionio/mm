@@ -42,6 +42,8 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
 Ταυτόχρονα χρησιμοποιήθηκαν τα κατάλληλα tags, mention, giphy κ.α. για πιο ευχάριστο τρόπο επικοινωνίας με το κοινό. 
 Το ύφος των δημοσιεύσεων είναι άμεσο και απεθύνεται στους χρήστες με τέτοιο τρόπο που να τους ωθεί στο να αναζητήσουν και οι ίδιοι το κάθε θέμα εκτενέστερα. Τα λινκ που οδηγούν στις δημοσιεύσεις είναι τα παρακάτω
 
+[Λινκ του βιβλίου mibook](https://www.mibook.org/)
+
 [Λινκ για την ιστοσελιδα του βιβλιου/twitter](https://twitter.com/farmaki4/status/1192180854409367553)
 
 [Λινκ για το Dynabook του Alan Kay/twitter](https://twitter.com/farmaki4/status/1192473400012353537)
@@ -187,6 +189,8 @@ Eργαλεία:
 [Google Search Engine/twitter](https://twitter.com/farmaki4/status/1216083483971538944)
 
 [Xanadu/twitter](https://twitter.com/farmaki4/status/1216097707288420353)
+
+[link του βιβλίου mibook](https://www.mibook.org/)
 
 
 
