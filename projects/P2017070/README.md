@@ -134,6 +134,50 @@ Tέλος για να ξεκινήσει το τραγούδι να "παίζε�
 
 ### Fourth Assignment- Edit a Spreadsheet
 
+Eργαλεία:
+
+          spreadsheet calculator
+          
+          keyboard
+          
+          
+Για το τέταρτο παραδοτέο τα βήματα που ακολούθησα ήταν τα εξής:
+
+- Εγκατάσταση του spreadsheet calculator με την εντολη sudo apt-get install sc
+
+- Δημιουργία ενός spreadsheet και επεξεργασία αυτού.
+
+Μέσα από την εργασία αυτή εξοικειώθηκα με το αντίστοιχο excel του linux και έμαθα διάφορες εντολές τις οποίες δεν ήταν εφικτο να τις χρησιμοποιήσω όλες στο asciinema.
+
+Στο asciinema δημιούργησα μέσω του linux ένα νέο αρχείο "multimediacourse" στο οποίο εισήγαγα χαρακτήρες και αριθμούς και χρησιμοποίησα τις εξής εντολές:
+
+-@sum(r)
+
+-@avg(r)
+
+-@count(r)
+
+-@max(r)
+
+Η πλοήγηση έγινε με τα βελάκια του πληκτρολογίου εφόσον το υποστήριζε. Για την εισαγωγή στοιχείων χρειάστηκαν τα παρακάτω:
+
+- '<text' Εισάγει αριστερά στοιχισμένο το text
+
+- '>text' Εισάγει δεξιά στοιχισμένο το text
+
+- '=number' Εισάγει έναν αριθμό
+
+- "q" για έξοδο
+
+**Πηγή**
+
+-http://kirste.userpage.fu-berlin.de/chemnet/use/xspread.html
+
+[Link asciinema for the fourth assignment](https://asciinema.org/a/tCfe3l9Z1pbM3lyHEx9C1Cco9)
+
+
+
+
 
 
 
