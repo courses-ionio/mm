@@ -1,10 +1,15 @@
-# Multimedia
+# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ, ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ 
+# Multimedia/ Πολυμέσα
 
   ## Αναφορά:
+
+#### Στοιχεία φοιτητή: 
 
 Όνομα: Φουτσιτζή Σοφρονία
 
 AM: Π2017063
+
+#### Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος
 
 
   ## Άσκηση 1 Multimedia (Προθ.20/10)
@@ -46,14 +51,18 @@ AM: Π2017063
    Για την υλοποίηση της εργασίας εγκατέστησα το [rTorrent](https://en.wikipedia.org/wiki/RTorrent) (text-based ncurses BitTorrent client written in C++, based on the libTorrent libraries for Unix).
    
  [Download a torrent file using the rtorrent](https://asciinema.org/a/2xc27mSIa1CQmUTlOmtXWbfTE)
+
+#### [Search and download a torrent file](https://asciinema.org/a/a9atY80lBIU2Bki0aAJ2XTgEb)
   
   
   
   ## Συμμετοχικό Υλικό- Α'Παραδοτέο
   
-  [*Link του βιβλίου*](https://mibook.org/gr/)
+  [*Link του βιβλίου*](https://www.mibook.org/)
   
-  [*Link του αντιγράφου του αποθετηρίου του βιβλίου*](https://github.com/fsofronia/gr/tree/gh-pages)
+  [*Link του αντιγράφου του αποθετηρίου του βιβλίου*](https://github.com/fsofronia/gr/tree/master)
+  
+ #### [*Link της σελίδας μου*](https://fsofronia.github.io/gr/)
   
   Για την ανάρτηση του περιεχομένου του βιβλίου [mibook/gr](https://mibook.org/gr/) με τρόπο εκπαιδευτικό και ευχάριστο, χρησιμοποίησα το [Twitter](https://twitter.com/sofronia_f). Για το πρώτο παραδοτέο υλοποίησα συνολικά οτκώ δημοσιεύσεις ( 3 για το Β παραδοτέο) στις οποίες προσθάθησα να "εκμεταλλευτώ" όλες τις δυνατότητες του κοινωνικού αυτού δικτύου (text, images, gif, mention, hashtags, etc).
   
@@ -77,10 +86,99 @@ AM: Π2017063
   
   
   
+   ## Άσκηση 3 Multimedia (Προθ.17/11)
+   ### Watch video streaming with asciiart
+   
+   ### [Link για την άσκηση](https://asciinema.org/a/nIVF5kIb3ZaGoKo2FMwM6cX6z)
+   
+   Για την υλοποίηση της εργασίας αναζήτησα ένα [video](https://www.youtube.com/watch?v=Hy3MV7oUuww&t=2s) μέσω του [Googler](https://www.tecmint.com/google-commandline-search-terminal/), το οποίο θεώρησα ότι η προβολή του θα είναι κατανοητή ένω θα προβάλλεται στον τερματικό σε μορφή ascii art. Έπειτα, υλοποίησα την προβολή του video στον τερματικό μου με την χρήση του [mpv player](https://github.com/mpv-player/mpv). Το αρχείο *.mp4 το είχα κατεβάσει από το youtube με τη χρήση του [youtube-dl](https://github.com/ytdl-org/youtube-dl).
+   
+   
+   ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/fireplace.png)
+   
+   
+   
+   
+   #### Watch video (youtube video streaming)
+   Για την υλοποίηση της τρίτης εργασίας χρησιμοποίησα το [Googler](https://www.tecmint.com/google-commandline-search-terminal/) το οποίο χρησιμοποίησα για να κάνω αναζήτηση το τραγούδι. Έπειτα χρησιμοποίησα την εντολη c 3 (copy 3) για να αντιγράψω το Link του τρίτου συνδέσμου που μου εμφάνισε. Τέλος, χρησιμοποίησα το [mpv player](https://github.com/mpv-player/mpv) και ξεκίνησε να "παίζει" το video χωρις να το έχω κατεβάσει.( Θα μπορούσα και να το κατεβάσω μεσω του youtube-dl πρώτα (youtude-dl URL)).
+   
+   [Link για την άσκηση](https://asciinema.org/a/5oYQOdzfxVC6DuQS0hCNjLVCe)
+   
+   
+   ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot%20from%202019-11-17%2010-56-08.png)
+   
+   
   
   
   
   
+   ## Άσκηση 4 Multimedia (Προθ.01/12)
+   ### Batch image conversion (convert your image files to different sizes and formats)
+   
+   ### [Link για την τέταρτη άσκηση](https://asciinema.org/a/oSRmm2mu14hUiu98tlpBV4cRv)
+
+    Για την υλοποίηση της εργασίας χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/). Αρχικά, μετατρέπω το σύνολο των φωτογραφιών από *.jpeg και *.jpg σε *.png και καθώς η εντολή μου δημιουργεί τις εικόνες ενώ υπάρχουν παράλληλα οι προηγούμενες, χρησιμοποιώ την εντολή "mv *.png /root/Pictures/New" για να μεταφέρω τις φωτογραφίες που δημιουργήθηκαν στον καινούριο φάκελο. Έπειτα, χρησιμοποιώ την εντολή "convert *.png -resize 20% *.png" για να μεταβάλω το μέγεθος των φωτογραφιών (όλων των φωτογραφιών που είναι στον φακελο New, αφου όλες οι φωτογραφίες είναι σε *.Png) και, με αυτόν τον τρόπο, δημιουργούνται νέες φωτογραφίες με τις ανάλογες διαστάσεις (σττον φάκελο New έχω 8 φωτογραφίες 4 με τις αρχικές διαστάσεις και 4 με την μετατροπή). Παράλληλα, η χρήση της εντολής "identify *.png" προβάλει όλες τις πληροφορίες για τις εικόνες αυτές (μέγεθος, τύπος κτλ.). Τέλος, με την χρήση της εντολής "montage *.png -geometry +2+2 AllTogether.png" δημιουργώ ένα "κολάζ" με την χρήση όλων αυτών των φωτογραφιών.
+    
+    
+    
+   
+   #### Μετατροπή των διαστάσεων και του τύπου φωτογραφίας σε μία φωτογραφία 
+   [Link για την τέταρτη άσκηση (υλοποίηση αλλαγών σε μία εικόνα)](https://asciinema.org/a/KaEQpmW2IciHxqLt1gVqm6sfZ)
+   
+   
+   Για την υλοποίηση χρησιμοποίησα το [Imagemagick](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/). Με την χρήση του συγκεκριμένου εργαλείου άλλαξα format στην εικόνα. Συγκεκριμένα, όπως φαίνεται και στην εικόνα, μετέτρεψα την εικόνα απο image.jpg σε image.png (με αυτόν τον τρόπο δημιουργήθηκε αλλή μία εικονα *png).
+   
+   ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot1.png)
+   
+   
+   Έπειτα, άλλαξα τις διαστάσεις των φωτογραφιών.
+   
+   ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot2.png)
+   
+   
+   
+   
+   
+   
+   
+  ## Συμμετοχικό Υλικό-   Β'Παραδοτέο
   
+  [*Link του βιβλίου*](https://www.mibook.org/)
+  
+  [*Link του αντιγράφου του αποθετηρίου του βιβλίου*](https://github.com/fsofronia/gr/tree/master)
+  
+  [Link στο εκτελέσιμο](https://fsofronia.github.io/gr/)
+  
+  Στο συγκεκριμένο παραδοτέο ξεκίνησα, αρχικά, με κάποιες επιπλέον αναρτήσεις του βιβλίου[mibook/gr](https://www.mibook.org/) με τρόπο εκπαιδευτικό και ευχάριστο, χρησιμοποίησα το [Twitter](https://twitter.com/sofronia_f). 
+  Στην συνέχεια, υλοποιήθηκε προσπάθεια ενσωμάτωσης των αναρτήσεων μου από τον προσωπικό μου λογαριασμό στο Twitter στο αντίγραφο του βιβλίου ως ροή δεδομένων. Για την υλοποίηση του δεύτερου μέρους υλοποιήσα αλλαγές στον κώδικα του αντίγραφου του αποθετηρίου του βιβλίου.
+  
+
+  * [Link της ένατης ανάρτησης/Google Assistant](https://twitter.com/sofronia_f/status/1209072462543179776)
+
+  * [Link της δέκατης ανάρτησης/mibook](https://twitter.com/sofronia_f/status/1210380897297616896)
+
+  * [Link της ενδέκατης ανάρτησης/Panorama](https://twitter.com/sofronia_f/status/1215338958323953665)
+  
+
+   
+   
+   ## Άσκηση 5 Multimedia 
+   ### Creat a simple website with static generator
+   
+   ### [Link για την άσκηση](https://asciinema.org/a/6w9lA4K7CC7osA3oN1yyHCJtQ)
+   
+   Για την υλοποίηση της συγκεκριμένης εργασίας χρησιμοποιήσα το [Jekyll](https://jekyllrb.com/), με την χρήση του οποίου δημιούργησα τοπικά στον Η/Υ μου ένα website. Στο site, όπως φαίνεται και στην εικόνα παρακάτω, απλά "εκτυπώνεται" το όνομα και το ΑΜ καθώς και η εκφώνηση της εργασίας.
+   
+   ![image](https://github.com/fsofronia/mm/blob/P2017063/projects/2017063/Screenshot%20from%202020-01-12%2018-46-34.png)
+   
+   
+   
+   ## Συμπεράσματα
+   
+   Με την υλοποίηση των παραπάνω εργασιών έγινε πιο "φιλική" η χρήση ένος περιβάλον linux. Η συνεχής ενασχόληση αλλά και η χρήση του bash terminal για την επίλυση των εργασιών έκαναν ορατή την χρησιμότητα τους. Παράλληλα, με τη χρήση του terminal και των linux άρχισα  σταδιακά να εξοικειώνομαι με αποτέλεσμα συνεχούς βελτίωσης των εργασιών.
+   
+   
+   
+   
   
   
