@@ -3,9 +3,12 @@
 ### ONOMA ΦΟΙΤΗΤΗ: Χαράλαμπος Θεοδούλου
 ### ΑΜ: Π2017151
 
+### [ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/p17theo3/--TELIKI-ANAFORA)
 
 
-## Συμμετοχικό Υλικό
+
+## Α Συμμετοχικό Υλικό 
+
 
 ##  [Twitter](https://twitter.com/p17theo3)
 
@@ -19,6 +22,8 @@
 ### [Mobile](https://twitter.com/p17theo3/status/1193289442963968000)
 ### [Micro-Controller](https://twitter.com/p17theo3/status/1193290234542333953)
 ### [Vr Solder Training](https://twitter.com/p17theo3/status/1193292729511489536)
+
+### [Β ΣΥΜΜΕΤΟΧΙΚΟ ΥΛΙΚΟ](https://github.com/p17theo3/gr)
 
 ## Παραδοτέο 1
 ### κατεβάστε και παίξτε μέσο του τέρμιναλ το αγαπημένο σας τραγούδι του μήνα.
