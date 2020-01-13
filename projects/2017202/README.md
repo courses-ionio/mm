@@ -72,6 +72,8 @@ AM: Π2017202
  
 ## Συμμετοχικό Υλικό
 
+[Link σελιδας συμμετοχικου](https://alexandrosp38.github.io/gr/)
+
 [Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/gr)
 
    Μέρος της εργασίας στα Multimedia είναι η χρήση ενός κοινωνικού δικτύου για παρουσίαση του βιβλίου ["O Προγραμματισμός της Διάδρασης"](https://mibook.org/gr/)
@@ -94,4 +96,65 @@ AM: Π2017202
    
    [Link Tweet#8](https://twitter.com/38Alexandros/status/1192588998319001602)
    
+   [Link Tweet#9](https://twitter.com/38Alexandros/status/1215747741239906306)
+   
+   [Link Tweet#10](https://twitter.com/38Alexandros/status/1215748473657667584)
+   
+   
+   
+   ## Άσκηση 3 Multimedia
+   ## Create a simple website with a static generator
+   ### Requirements
+   
+   Στόχος της εργασίας είναι με χρήση του Jekyll και του πακέτου εργαλείων του να δημιουργήσουμε ένα στατικό website.
+   Κάνουμε εγκατάσταση των Ruby,RubyGems,GCC και Make
+   >sudo apt-get install ruby-full build-essential
+   
+   >gem install jekyll bundler
+   
+   >jekyll new politisalexandros-P2017202-github
+   
+   ### Jekyll
+   
+   Στη συνέχεια δημιουργούμε τον χώρο στον υπολογιστή που περιέχει τα αρχεία του site μας
+   
+   >bundle exec jekyll build
+    
+   Τώρα ανοίγουμε τον server που πλέον δείχνει το site μας μέσα στον browser (http://localhost:4000)
+   
+   >jekyll serve
+    
+   Στο main directory (και οχι στο "sites") δημιουργούμε το αρχείο index.html. Το επεξεργαζόμαστε όπως θέλουμε και το Jekyll κάνει αυτόματα update την σελιδα.Οι αλλαγές που γίνονται φαίνονται και στο terminal log
+   ![Site Up](https://imgur.com/LO4oruG.png)
+   
+   [Creating and using Jekyll](https://asciinema.org/a/yRdogWHplhe2eRNM5FvYpmhOf)
+   
+   [Asciinema Link Editing index.html](https://asciinema.org/a/908ma2e88UxrxVa3cTSpDAwRV)
+   
+   ## Άσκηση 4 Multimedia
+   ## Visualize a large text file with a word cloud
+   ### Requirements
+   
+   Το Word Cloud επιτρέπει στον χρήστη να οπτικοποιήσει κείμενο δημιουργώντας εικόνες απο text.
+   Για τον σκοπό αυτό εγκαθιστούμε το wordcloud.py 
+   
+   >pip install wordcloud
+   
+   Επίσης θα χρησιμοποίησουμε και το curl ώστε να κατεβάσουμε ένα δωρεάν βιβλίο απο το [Project Gutenberg](https://www.gutenberg.org/)
+   
+   ### Word Cloud
+   
+   To βιβλίο που επιλέξαμε για την εργασία είναι το [The Adventures of Sherlock Holmes](https://www.gutenberg.org/files/1661/1661-0.txt) του Arthur Conan Doyle με τον γνωστό ντετέκτιβ.
+   
+   Κατεβάζουμε το βιβλίο σε μορφή .txt (το Project Gutenberg παρέχει τα βιβλία νόμιμα και δωρεάν) 
+   >curl https://www.gutenberg.org/files/1661/1661-0.txt --output SherlockBook.txt
+   
+   Στη συνέχεια κάνουμε mask το περιεχόμενο του βιβλίου χρησιμοποιώντας το [Word Cloud](http://amueller.github.io/word_cloud/auto_examples/index.html)
+   
+   >wordcloud_cli --text SherlockBook.txt --imagefile cover.jpg --mask sherlock.jpg
+
+  To αποτέλεσμα εμφανίζεται παρακάτω ![Link to image](https://imgur.com/VZxyste.png)
+
+   
+   [Asciinema Link WorldCloud](https://asciinema.org/a/grUHQtgWjd7MxmYuFVjZU2Ne3)
    
