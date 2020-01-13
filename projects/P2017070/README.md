@@ -190,13 +190,20 @@ Eργαλεία:
 
 [Xanadu/twitter](https://twitter.com/farmaki4/status/1216097707288420353)
 
-[link του βιβλίου mibook](https://www.mibook.org/)
 
+Στη συνέχεια, για το δεύτερο μέρος του συμμετοχικού υλικού, τροποποίησα καποιες αλλαγές στα αρχεία του mibook.
 
-Στη συνέχεια, για το δεύτερο μέρος του συμμετοχικού υλικού, τροποποίησα καποιες αλλαγές στα αρχεία του mibook και ειδικότερα τον φάκελο index.md όπου εκεί αντικατέστησα μέσα στο div τις δύο τελευταίες εντολές με τις παρακάτω γραμμές κώδικα ώστε να εμφανίζεται η ροή του λογαριασμού του twitter μου αντί για την τρίτη εικόνα:
+##### [Link της σελίδας](https://eftichiafarmaki.github.io/gr/)
+
+##### [Link eftichiafarmaki/gr (my repository)](https://github.com/eftichiafarmaki/gr)
+
+##### [link του βιβλίου mibook](https://www.mibook.org/)
+
+Eιδικότερα τροποποίησα τον φάκελο index.md όπου αντικατέστησα μέσα στο div τις δύο τελευταίες εντολές με τις παρακάτω γραμμές κώδικα ώστε να εμφανίζεται η ροή του λογαριασμού του twitter μου αντί για την τρίτη εικόνα:
 
 <a class="twitter-timeline" data-width="230" data-theme="dark" href="https://twitter.com/farmaki4?ref_src=twsrc%5Etfw">Tweets by farmaki4</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
 </script>
+
 
 **Πηγές** 
 
