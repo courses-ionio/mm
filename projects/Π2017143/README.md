@@ -26,10 +26,25 @@
 
 Θα χρησιμοποιήσω τον browser elinks για να βρώ τον magnet και μετα το transmission-cli για να κατεβάσω το αρχείο.
 
+### Άσκηση 4
+
+#### link προς κώδικα:
+[jekyll_webpage](https://github.com/leuteris99/jekyll_profile)  
+Έφτιαξα μια σελίδα χρησιμοποιόντας το Jekyll όπου περιέχει τα στοιχία μου τα github, twitter account μου και λινκ προς το asciinema και τον κώδικα του της σελίδας.
+
 ### Συμμετοχικό περιεχόμενο
+#### link προς twitter account:
+[@AlexiouLeuteris](https://twitter.com/AlexiouLeuteris)
 ##### links προς twitter:
 [First Post](https://twitter.com/AlexiouLeuteris/status/1194220796056686593?s=20)  
 [Second Post](https://twitter.com/AlexiouLeuteris/status/1192085568882200577?s=20)  
 [Third Post](https://twitter.com/AlexiouLeuteris/status/1191647316245131264?s=20)  
 [Fourth Post](https://twitter.com/AlexiouLeuteris/status/1191038739864326145?s=20)  
 [Fifth Post](https://twitter.com/AlexiouLeuteris/status/1194227123315191808?s=20)  
+[Sixth Post](https://twitter.com/AlexiouLeuteris/status/1216787303416442880?s=20)  
+[Seventh Post](https://twitter.com/AlexiouLeuteris/status/1216789759768645632?s=20)  
+[Eighth Post](https://twitter.com/AlexiouLeuteris/status/1216791895235538944?s=20)  
+
+#### link προς το αντιγραφο του βιβλίου:
+[mibook](https://github.com/leuteris99/gr-book)  
+Εχει προστεθεί λίστα με τα tweets που ανέβασα.
