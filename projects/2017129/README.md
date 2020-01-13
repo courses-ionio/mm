@@ -54,6 +54,27 @@ references:
 [installation for cli-visualiser](https://www.linuxlinks.com/cli-visualizer-command-line-visualizer-mpd-alsa-pulseaudio/)
 
 
+* ## ΑΣΚΗΣΗ 3
+
+**create a simple website with a static generator**
+
+[jekyll](https://jekyllrb.com/)
+
+[asciinema](https://asciinema.org/a/rEoDgoUj0pHtIpD73jfIo1EZl)
+
+![image](https://github.com/chrikri/mm/blob/2017129/projects/2017129/Screenshot.png)
+* ## ΑΣΚΗΣΗ 4
+
+**three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks**
+
+with tool patat...
+
+references:
+
+[patat](https://github.com/jaspervdj/patat#running)
+
+[asciinema](https://asciinema.org/a/oTHSTUOQLnQLTx1zLrTCVqBBV)
+
 _________________________________________________________________________________________________________________________________
 
 # Συμμετοχικό περιεχόμενο
@@ -61,7 +82,7 @@ ________________________________________________________________________________
 [Twitter account](https://twitter.com/Christiana_Kr)
 
 * ## Α
-[1ο tweet](https://twitter.com/Christiana_Kr/status/1192574004751716353)
+[1ο tweet](https://twitter.com/Christiana_Kr/status/1216500036391096320) (with creation of the [VIDEOPLACE](https://gph.is/g/4VxkKxP) gif)
 
 [2ο tweet](https://twitter.com/Christiana_Kr/status/1192593161513840641)
 
@@ -69,7 +90,7 @@ ________________________________________________________________________________
 
 [4ο tweet](https://twitter.com/Christiana_Kr/status/1193634239180353536)
 
-[5ο tweet](https://twitter.com/Christiana_Kr/status/1193639859275079680)
+[5ο tweet](https://twitter.com/Christiana_Kr/status/1193639859275079680) (with creation of gif memex)
 
 [6ο tweet](https://twitter.com/Christiana_Kr/status/1193644214871117831)
 
@@ -81,3 +102,9 @@ ________________________________________________________________________________
 
 [10ο tweet](https://twitter.com/Christiana_Kr/status/1193861613830496258)
 
+
+* ## Β
+
+[asciinema](https://asciinema.org/a/iReEeJGsKy7FGsBIRVP75PKjL)
+![image](https://github.com/chrikri/mm/blob/2017129/projects/2017129/Screenshot1.png)
+[gif](https://giphy.com/gifs/Sr2BXEjkslcI0gJ0jl)
