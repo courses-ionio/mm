@@ -30,7 +30,7 @@
 
 #### link προς κώδικα:
 [jekyll_webpage](https://github.com/leuteris99/jekyll_profile)  
-Έφτιαξα μια σελίδα χρησιμοποιόντας το Jekyll όπου περιέχει τα στοιχία μου τα github, twitter account μου και λινκ προς το asciinema και τον κώδικα του της σελίδας.
+Έφτιαξα μια σελίδα χρησιμοποιόντας το Jekyll όπου περιέχει τα στοιχία μου ,το github και το twitter account μου και λινκ προς το asciinema και τον κώδικα της σελίδας.
 
 ### Συμμετοχικό περιεχόμενο
 #### link προς twitter account:
