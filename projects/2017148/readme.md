@@ -4,10 +4,15 @@
 ## Στοιχεία φοιτητή  
 ### Αντρέας Παππούτας
 ### ΑΜ: Π2017148
+## ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ [FINAL_REPORT](https://github.com/andreaspappoutas/MM-Final-Report)
+
+
 
 ## Συμμετοχικό Υλικό
 
 ## [Twitter Profile : https://twitter.com/p17papp1](https://twitter.com/p17papp1)
+
+### A-Συμμετοχικό Υλικό
 
 #### [Skype](https://twitter.com/p17papp1/status/1193272511997390852)
 #### [Windows 10](https://twitter.com/p17papp1/status/1193269938565369857)
@@ -19,6 +24,11 @@
 #### [Raspberry Pi](https://twitter.com/p17papp1/status/1193271635106811905)
 #### [Google Search Engine](https://twitter.com/p17papp1/status/1193271820763455488)
 #### [Modern mouse](https://twitter.com/p17papp1/status/1193272109776228352)
+
+### B-Συμμετοχικό Υλικό
+
+## [Λίνκ αποθετηρίου](https://github.com/andreaspappoutas/gr)
+
 
 
 ## Παραδοτέο 1
