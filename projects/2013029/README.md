@@ -8,6 +8,7 @@
 ### ΑΜ: Π2013029
 
 ## Άσκηση 1. Search, download and play (with the terminal) your favorite song of the month from youtube.
+#### asciinema https://asciinema.org/a/QDPfqsqwPdNcsvp21O3DkJXTd
 Χρησιμοποιήθηκε το youtube-dl
 ```
 sudo apt-get install youtube-dl
