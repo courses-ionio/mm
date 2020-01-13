@@ -51,6 +51,8 @@ AM: Π2017063
    Για την υλοποίηση της εργασίας εγκατέστησα το [rTorrent](https://en.wikipedia.org/wiki/RTorrent) (text-based ncurses BitTorrent client written in C++, based on the libTorrent libraries for Unix).
    
  [Download a torrent file using the rtorrent](https://asciinema.org/a/2xc27mSIa1CQmUTlOmtXWbfTE)
+
+#### [Search and download a torrent file](https://asciinema.org/a/a9atY80lBIU2Bki0aAJ2XTgEb)
   
   
   
