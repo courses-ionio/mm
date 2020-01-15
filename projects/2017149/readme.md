@@ -104,11 +104,30 @@ w3m www.google.com
 
 Άνοιξα πρώτη και δεύτερη σελίδα οταν μου άνηξε την σελίδα του βιβλίου, μετά πάτησα Q για να βγω από το w3m.
 
-##Eργασία 4 download a torrent
+## Eργασία 3 read an ebook
+## asciinema URL: https://asciinema.org/a/276978
+## Τα προγράμματα που χρησιμοποίησα:
+# w3m
+```
+sudo apt-get install w3m w3m-img
+```
+Οι εντολές που χρησιμοποίησα για κάνω να search το ebook:
 
-##asciinema URL: https://asciinema.org/a/289242
-##Τα προγράμματα που χρησιμοποίησα:
-#rtorrent
+Χρησιμοποίησα το w3m για να μπω στο google
+```
+w3m www.google.com
+```
+Μετά έγραψα στο search: harry potter ebook online και πάτησα Αναζήτηση
+
+Μέτα βρήκα το Link για το ebook και μπήκα στο site με την εντολή Go Link.
+
+Άνοιξα πρώτη και δεύτερη σελίδα οταν μου άνηξε την σελίδα του βιβλίου, μετά πάτησα Q για να βγω από το w3m.
+
+## Eργασία 4 download a torrent
+
+## asciinema URL: https://asciinema.org/a/289242
+## Τα προγράμματα που χρησιμοποίησα:
+# rtorrent
 ```
 sudo apt-get install rtorrent
 ```
