@@ -138,3 +138,39 @@ https://www.ostechnix.com/search-torrents-command-line-linux/
 https://askubuntu.com/questions/315113/how-to-run-deluge-from-cli
 
 
+## Άσκηση 4. Batch image conversion. Convert your image files to different sizes and formats
+#### asciinema https://asciinema.org/a/2hSTASx15pGnOMpgLSNdxOx6F
+Αρχικά δημιουργησα directory images, όπου έβαλα 4 images που κατέβασα απο https://www.stockvault.net/c/nature/landscape.
+Τις εικόνες της πέρασα απο τον explorer των windows κάνωντας browse το filesystem μου με την εντολή.
+
+```
+exploer.exe .
+```
+Εγκατέστησα το imagemagick.
+
+```
+sudo apt-get install imagemagick
+```
+
+Δημιουργησα directory μεσα στο images με ονομασία resized, και είδα τις εικόνες με το μέγεθός τους
+
+```
+cd images
+mkdir resized
+ls -lh
+```
+Στη συνέχεια έτρεξα το conversion του imagmagick με την εντολή mogrify. Μείωσα το μέγεθος αρχείου όλων των εικόνων και τις μετέτρεψα σε .png απο .jpg
+
+```
+mogrify -path resized -adaptive-resize 50% -quality 60% -format png *
+```
+
+Πάλι επιβεβαίωσα τις αλλαγες
+
+```
+cd resized
+ls -lh
+```
+
+
+
