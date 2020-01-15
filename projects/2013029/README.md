@@ -99,3 +99,42 @@ https://www.youtube.com/watch?v=-eVTV3npXZQ
 https://beets.readthedocs.io/en/v1.3.17/reference/query.html
 
 
+## Άσκηση 3. Manage torrent files. Search and download a torrent.
+#### asciinema https://asciinema.org/a/c3WFsJAatANVYD3Zuw6KUFZZL
+Για την άσκηση αυτή χρησιμοποίησα δύο εργαλεία. Για την αναζήτηση του torrent χρησιμοποίσησα το we-get, και για να κατεβάσω το torrent χρησιμοποίησα το deluge. Η εγκατάσταση του we-get εγινε μέσω pip.
+
+```
+sudo pip3 install git+https://github.com/rachmadaniHaryono/we-get
+```
+
+Αμέσως μετά εγκατέστησα το deluge.
+
+```
+sudo apt-get install deluge deluged deluge-console
+```
+
+Επέλεξα να κατεβάσω το Lubuntu linux οπότε με τη βοήθεια του we-get έψαξα για το Lubuntu στο pirate bay
+
+```
+we-get --search "Lubuntu" --target the_pirate_bay
+```
+
+Στη συνέχεια για να δώ το magnet link απο τα αποτελέσματα αναζήτησης...
+
+```
+show lubuntu-16.10-desktop-i386.iso
+```
+
+Τέλος κλείνοντας το we-get άνοιξα το console to deluge, και προσθεσα το magnet link
+
+```
+deluge-console
+add -p /home/maria/downloads <magnet link>
+```
+
+### Πηγές άσκησης
+https://www.ostechnix.com/search-torrents-command-line-linux/
+
+https://askubuntu.com/questions/315113/how-to-run-deluge-from-cli
+
+
