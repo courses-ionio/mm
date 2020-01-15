@@ -172,5 +172,11 @@ cd resized
 ls -lh
 ```
 
+### Πηγές άσκησης
+https://www.youtube.com/watch?v=-hPleOyZJr4
+
+https://www.imagemagick.org/discourse-server/viewtopic.php?t=21454
+
+http://www.imagemagick.org/Usage/basics/#mogrify
 
 
