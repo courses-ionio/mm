@@ -9,6 +9,13 @@
 
 [Twitter Link](https://twitter.com/P17styl)
 
+Ενσωμάτωση Twitter στη ιστοσελίδα :
+
+[Repository](https://github.com/Xaralambos12/gr/tree/gh-pages)
+
+[Twitter.html](https://github.com/Xaralambos12/gr/blob/gh-pages/_includes/twitter.html)
+
+
 ## Terminal
 ## Πρώτο Παραδοτέο : 
 ###  search, download and play (with the terminal) your favorite song of the month from youtube
@@ -66,7 +73,7 @@ rtorrent
 
 ## Τέταρτο Παραδοτέο :
 ### demonstrate album art and visualizations with an mp3 player and various songs
-[Asciinema Link 4]( )
+[Asciinema Link 4](https://asciinema.org/a/286589)
 
 Tο cmus μας βοηθά στη δημιουργία album τραγουδιών και να κάνουμε δικά μας playlists.
 Είναι χωρισμένο σε 7 views :
