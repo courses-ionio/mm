@@ -7,6 +7,9 @@
 ### Μαρία Δήμα
 ### ΑΜ: Π2013029
 
+## Εισαγωγή
+Χρησιμοποίησα το περιβάλλον wsl2 των windows 10 με ubuntu 18.04 LTS για να κάνω συνολίκά 4 ασκήσεις. Η αναφορά περιέχει code blocks σε κάθε άσκηση url με το recorded session στο λογαριασμό μου στο asciinema, καθώς και πηγές άντλησης πληροφοριών.
+
 ## Άσκηση 1. Search, download and play (with the terminal) your favorite song of the month from youtube.
 #### asciinema https://asciinema.org/a/QDPfqsqwPdNcsvp21O3DkJXTd
 Χρησιμοποιήθηκε το youtube-dl
@@ -178,5 +181,8 @@ https://www.youtube.com/watch?v=-hPleOyZJr4
 https://www.imagemagick.org/discourse-server/viewtopic.php?t=21454
 
 http://www.imagemagick.org/Usage/basics/#mogrify
+
+## Συμπεράσματα
+Μέσα απο την υλοποίηση των 4 παραπάνω ασκήσεων έμαθα να χρησιμοποιώ τα σχετικά εργαλεία του terminal. Έμαθα να κανω search στο youtube και να κατεβάζω τραγούδια σε μορφή mp3, να κάνω αναζήτηση torrent και να το κατεβάζω, να μετατρέπω αρχεία εικόνων και να οργανώνω τη μουσική μου. Εξοικειώθηκα περισσότερο στο λειτουργικό linux και ιδιαίτερα στο command line και στη χρήση (εγκατάσταση και παραμετροποίηση διάφορων εργαλείων).
 
 
