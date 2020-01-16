@@ -24,6 +24,12 @@ create your final presentation
 
 https://asciinema.org/a/285334 (used cat,vim and mdp)
 
+## ΑΣΚΗΣΗ 4:
+
+import your music library, add tags and delete/add songs
+
+https://asciinema.org/a/294125 (used cmus and eyeD3)
+
 ## ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ (Α)
 
 Συμμετοχικό περιεχόμενο:https://www.facebook.com/roman.panch.336
@@ -37,4 +43,7 @@ Facebook post (3):https://www.facebook.com/photo.php?fbid=102598817855862&set=a.
 Facebook post (4):https://www.facebook.com/photo.php?fbid=103454817770262&set=a.102594217856322&type=3&theater 
 
 Facebook post (5):https://www.facebook.com/roman.panch.336/posts/106090004173410
+
+
+##ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
 
