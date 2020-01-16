@@ -85,3 +85,11 @@ hjkl - για να μετακινηθεί σαν να χρησιμοποιεί �
 gA00 - για να βρεθεί σε κάποιο συγκεκριμένο κελί
 = - εισάγει αριθμό στο κελί όπου βρίσκεται
 x - διαγράφει το συγκεκριμένο κελί
+
+
+2o ΠΑΡΑΔΟΤΕΟ
+
+Repository βιβλίου: https://github.com/p17four/gr
+Σελίδα βιβλίου: https://github.com/p17four/gr
+
+Σε αυτή την εργασία άλλαξα το index.md και πρόσθεσα την ενοτλή <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>.
