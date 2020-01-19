@@ -43,3 +43,40 @@ https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtu
 https://askubuntu.com/questions/630134/how-to-specify-a-filename-while-extracting-audio-using-youtube-dl
 
 https://askubuntu.com/questions/643286/can-i-download-videos-from-a-youtube-search-query-using-youtube-dl
+
+
+
+## Άσκηση 2. Manage torrent files. Search and download a torrent.
+#### asciinema: https://asciinema.org/a/BFOukKNf4sCsHCYmr0CaAOnMs
+Χρησιμοποίησα το we-get γαι να κανω αναζήτηση του torrent, και το rtorrent για να κατεβάσω το magnet.
+Η εγκατάσταση του we-get γινετε μέσω pip και απαιτεί python > 3.5.
+
+```
+sudo pip3 install git+https://github.com/rachmadaniHaryono/we-get
+sudo apt-get install rtorrent
+```
+
+Η αναζήτηση με το we-get γινετε με την εντολή:
+
+```
+we-get --search "Thunderstruck" --target  the_pirate_bay
+show <επιλογή όνομα torrent>
+```
+
+ξεκινάμε τον rtorrent
+
+```
+rtorrent
+
+backspace
+paste magnet
+```
+
+## Πηγές
+https://www.ostechnix.com/search-torrents-command-line-linux/
+
+https://www.linuxtechi.com/rtorrent-command-line-bittorrent-client-ubuntu-linux/
+
+
+
+
