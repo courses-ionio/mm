@@ -119,5 +119,36 @@ beet remove title:'you song title'
 https://beets.readthedocs.io/en/v1.3.17/reference/query.html
 
 
+## Άσκηση 4. Batch image conversion. Convert your image files to different sizes and formats.
+#### asciinema: https://asciinema.org/a/nYxoD4BmPgbOKcESSYv0lzcha
+Για την άσκηση αυτή δημιουργησα directory askisi4 και προσθεσα εικόνες που είχα στον υπολογιστή μου. Εγκατέστησα το imagemagick.
+
+```
+sudo apt-get install imagemagick
+```
+
+Δηιούργησα νέο directory για να αποθηκεύσω τις επεξεργασμένες εικόνες.
+
+```
+mkdir new_images
+```
+
+χρησιμοποιόντας την εντολή mogrify του imagemagick μείωσα το μέγεθος των εικόνων και τις μετέτρεψα σε png απο jpg.
+Πετάει κάποιο error, αλλα τρέχει κανονικά.
+
+```
+mogrify -path new_images -adaptive-resize 40% -quality 50% -format png *
+```
+
+Οι αλλαγές επιβεβαιώνονται και στα δύο directories με την εντολή
+
+```
+ls -lh
+```
+
+## Πηγές
+https://imagemagick.org/script/mogrify.php
+
+
 
 
