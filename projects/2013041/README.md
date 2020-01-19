@@ -78,5 +78,46 @@ https://www.ostechnix.com/search-torrents-command-line-linux/
 https://www.linuxtechi.com/rtorrent-command-line-bittorrent-client-ubuntu-linux/
 
 
+## Άσκηση 3. Manage your music library. Import your music library, add tags and delete/add songs.
+#### asciinema: https://asciinema.org/a/XXaSLzm2FOiE8rKUDkzYYjbDt
+
+Εγκατέστησα το beets
+
+```
+sudo apt-get install beets
+```
+
+επεξεργαστηκα το configuration file του για να ορισω τα path
+
+Δημιουργησα directories για το beets
+
+```
+mkdir beets_m
+mkdir beets_l
+```
+
+```
+beet config -p
+sudo nano /home/fivos/.config/beets/config.yaml
+
+directory: ~/beets_m
+library: ~/beets_l/library.blb
+import:
+   move: yes
+   copy: no
+```
+
+Πρόσθεσα μουσική, tags και έσβησα απο τη λιστα του beets.
+```
+beet import music/mymusic
+beet ls
+beet modify <you can modify as you want here>
+beet remove title:'you song title'
+```
+
+## Πηγές
+https://beets.readthedocs.io/en/v1.3.17/reference/query.html
+
+
 
 
