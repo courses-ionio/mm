@@ -17,6 +17,10 @@ use color to improve your cli tools. Print colorized text from a shell script, i
   ### Άσκηση 5
   visualize your data
    Link: https://asciinema.org/a/x4SG0iBPCk4cBjLDVNrx0xYlP
+  ### Άσκηση 6
+  create a simple website with a static generator
+   Link: https://asciinema.org/a/XthiorysWB6E4VQPNClpXgm53
+   
    ## Συμμετοχικό υλικό
    tweets: https://twitter.com/nikosbak1/status/1244622954392100869
    https://twitter.com/nikosbak1/status/1244623646422978560
@@ -28,3 +32,11 @@ use color to improve your cli tools. Print colorized text from a shell script, i
    https://twitter.com/nikosbak1/status/1244626021569245185
    https://twitter.com/nikosbak1/status/1244626776770457602
    https://twitter.com/nikosbak1/status/1244627342334582784
+   
+   Βιογραφίες:
+   
+   Πρώτη βιογραφία: https://github.com/p15baka1/gr/blob/master/_biography/August-Dvorak.md
+   https://github.com/p15baka1/gr/blob/master/_biography/Bio-August-Dvorak.md
+   
+   Δεύτερη βιογραφία: https://github.com/p15baka1/gr/blob/master/_biography/Eric-Migicovsky.md
+   https://github.com/p15baka1/gr/blob/master/_biography/bio-Eric-Migicovsky.md
