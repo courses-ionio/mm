@@ -51,6 +51,14 @@
  
  Link: https://asciinema.org/a/314564
  
+ ## Άσκηση 5:
+ 
+ ### Visualize your data.
+ 
+ Create a simple website with a static generator:
+ 
+ Link: https://asciinema.org/a/344113
+ 
  
 ## Συμμετοχικό υλικό:
 ### Twitter posts:
