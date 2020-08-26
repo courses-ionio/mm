@@ -128,6 +128,16 @@
          - https://www.musicpd.org/doc/html/user.html
    
    
+## ΑΣΚΗΣΗ 2
+### Τίτλος: Manage torrent files
+
+ ##### Links που βοήθησαν στην επίλυση της άσκησης: 
+ 
+          - https://www.youtube.com/watch?v=NVOLRXFhczU
+          - https://www.youtube.com/watch?v=spqTxmr3NHM
+          - https://www.youtube.com/watch?v=ee4XzWuapsE&t=16s
+          - https://www.omgubuntu.co.uk/2017/08/search-google-from-the-command-line
+
    
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ
 
