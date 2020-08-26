@@ -158,3 +158,32 @@ AM: Π2017202
    
    [Asciinema Link WorldCloud](https://asciinema.org/a/grUHQtgWjd7MxmYuFVjZU2Ne3)
    
+ ## Άσκηση 5 Multimedia
+   ## Read an ebook
+   ### $epr, $epy
+   
+   To $ epr είναι ενας απλός και πολύ αποτελεσματικός τρόπος να διαβάσει κανείς τα αγαπημένα του βιβλία σε μορφή epub. Επιλέον θα προσθέσουμε και το ebook reader $ epy το οποίο δίνει επιλέον επιλογές όπως τα αρχεία σε μορφή .fb2 αλλά και bookmarks.
+   
+   Η εγκατάσταση των ebook readers:
+   
+   > pip3 install git+https://github.com/wustho/epr.git
+   
+   >  pip3 install git+https://github.com/wustho/epy
+   
+   Στη συνέχεια κατεβάσαμε ένα βιβλίο απο το Project Gutenberg με τίτλο "Aunt Olive in Bohemia" σε μορφή EPUB και το μετονομασαμε σε ebook.epub στον φάκελο Downloads.
+   
+   Για να διαβάσουμε το βιβλίο χρησιμοποιούμε στο Terminal την εντολή:
+   
+   > epr /Downloads/ebook.epub
+   
+   Αν χρησιμοποιήσουμε απλα την εντολή 
+   
+   > epr
+   
+   τότε θα μας ανοίξει το τελευταίο βιβλίο που διαβάσαμε στην τελευταία σελίδα που είχαμε ανοιχτεί.
+   ![Link to Image](https://imgur.com/wEwJgJa.png)
+   
+   [Asciinema Link $ epr](https://asciinema.org/a/09dDuaglos5hrScxkyhhI8LcH)
+   
+   
+   
