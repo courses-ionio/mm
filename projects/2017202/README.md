@@ -185,5 +185,35 @@ AM: Π2017202
    
    [Asciinema Link $ epr](https://asciinema.org/a/09dDuaglos5hrScxkyhhI8LcH)
    
+     
+ ## Άσκηση 6 Multimedia
+   ## Colorize text
+   ### Pastel
+   
+   Μέσω του πακέτου Pastel δίνεται στον χρήστη η δυνατότητα να "παίξει" με τα χρώματα μέσω του Termnial. Μπορεί να δεί τα δεξαεδικα αντιστοιχα των χρωμάτων που ψάχνει, να δοκιμάσει διάφορα mix αλλά να χρωματίσει και τις διάφορες εντολές που εκτελεί στο Terminal.
+   
+   Η εγκατάσταση του πακέτου:
+   
+   > wget "https://github.com/sharkdp/pastel/releases/download/v0.8.0/pastel_0.8.0_amd64.deb"
+   > sudo dpkg -i pastel_0.8.0_amd64.deb
+   
+   Ανοίγουμε το πακέτο Pastel στο Terminal με την εντολή
+   > pastel
+   
+   Αν θέλουμε να μας εμφανίσει τυχαία χρώματα τότε:
+   
+   > pastel random
+   
+   ενώ με την εντολή mix μπορούμε να ανακατεύσουμε χρώματα στην παλέτα μας και να δούμε το αποτέλεσμα:
+   
+   > pastel color red | pastel mix - blue
+   
+   Επίσης χρωματίζουμε τις εντολές που θέλουμε να τρέξουμε στο Terminal ως εξής:
+   
+   > pastel paint -n blue --on yellow --bold "Success" 
+   > echo "Hello World"
+   
+   [Asciinema Link Pastel](https://asciinema.org/a/3AJZsIRf57hBE9wSN8hJZfvp6)
+   
    
    
