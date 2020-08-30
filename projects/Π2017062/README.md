@@ -202,7 +202,18 @@
 
 [Visualise git commits](https://asciinema.org/a/5pSDePfbaukWwarBVDSh0dVQV)
   
-  
+
+
+## ΑΣΚΗΣΗ 6
+### Τίτλος: Use color to improve your cli tools
+
+Για την ολοκλήρωση αυτής της άσκησης είναι απαραίτητη η εγκατάσταση του εργαλείου γραμμής εντολών [pastel](https://github.com/sharkdp/pastel). To pastel είναι ένα σχετικά εύκολο εργαλείο για κατανόηση αν και όπως το git-bars δεν είναι ιδιαίτερα διαδεδομένο. Όλες οι εντολές που πραγματοποίησα φαίνονται στο παρακάτω link:
+
+  #### Asciinema link:
+
+[Use color to improve your cli tools](https://asciinema.org/a/lExHpUZUjvnS6KRDu8pfNxdVn)
+
+
 ## ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ
 
 ### A
