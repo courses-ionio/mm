@@ -12,9 +12,9 @@
 
 Έκανα δύο νέες βιογραφίες
 
-Η πρωτη για τον: (J.C.R Licklider) https://github.com/fandim4/gr/blob/gh-pages/_biography/J.%20C.%20R.%20Licklider.md https://github.com/fandim4/gr/blob/gh-pages/_biography/bio-J.%20C.%20R.%20Licklider.md
+Η πρωτη για τον: (J.C.R Licklider) https://github.com/fanisdimitriadis/gr/blob/gh-pages/_bibliography/J.%20C.%20R.%20Licklider.md https://github.com/fanisdimitriadis/gr/blob/gh-pages/_bibliography/bio-J.%20C.%20R.%20Licklider.md
 
-Η δεύτερη για τον: (Larry Tesler) https://github.com/fandim4/gr/blob/gh-pages/_biography/bio-Larry%20Tesler.md https://github.com/fandim4/gr/blob/gh-pages/_biography/Larry-Tesler.md
+Η δεύτερη για τον: (Larry Tesler)https://github.com/fanisdimitriadis/gr/blob/gh-pages/_bibliography/Larry-Tesler.md https://github.com/fanisdimitriadis/gr/blob/gh-pages/_bibliography/bio-Larry%20Tesler.md
 
 ΑΣΚΗΣΗ 1: download mp3
 
