@@ -250,5 +250,7 @@
   <a class="twitter-timeline" data-width="400" data-height="600"  href="https://twitter.com/valery_las">Tweets by valery_las</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
 [Link Βιβλίου](https://github.com/pibook/site)
+
 [Link Προσωπικού Αποθετηρίου του Βιβλίου](https://github.com/p17laso/site)
+
 [Εκτελέσιμο Προσωπικό Link Βιβλίου](https://lucid-franklin-28216b.netlify.app/)
