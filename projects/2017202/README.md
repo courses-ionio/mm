@@ -158,6 +158,8 @@ AM: Π2017202
    
    [Asciinema Link WorldCloud](https://asciinema.org/a/grUHQtgWjd7MxmYuFVjZU2Ne3)
    
+ # Πρόσθετες εργασίες αντί για τελική εξέταση
+ 
  ## Άσκηση 5 Multimedia
    ## Read an ebook
    ### $epr, $epy
@@ -215,6 +217,11 @@ AM: Π2017202
    
    
    [Asciinema Link Pastel](https://asciinema.org/a/3AJZsIRf57hBE9wSN8hJZfvp6)
+   
+   ## Eργασία συμμετοχικού περιεχομένου
+   Για την υλοποίηση της πρόσθετης εργασίας συμμετοχικού περιεχομένου, υλοποίησα την βιογραφία του Robert Noyce, ιδρυτή των Fairchild Semiconductor και Intel αλλά και δημιουργό μιας απο της σημαντικότερες εφευρέσεις, των microchip απο πυριτιο (Silicon)
+
+[Link βιογραφίας/ Robert Noyce](https://alexandrosp38.github.io/gr/biography/robert-noyce/)
    
    
    
