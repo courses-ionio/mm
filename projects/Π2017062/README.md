@@ -274,7 +274,7 @@
   ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/error_correction2.png)
   
   
-  Στη προσωπική μου ιστοσελίδα εμφανίζει μόνο το όνομα της δημοσίευσης μου καθώς και μια σύντομη περιγραφή στο search bar
+  Στη προσωπική μου ιστοσελίδα εμφανίζει μόνο το όνομα της δημοσίευσης μου (εδώ: βιογραφία Tim Berners Lee και interactive tic-tac-toe) καθώς και μια σύντομη περιγραφή στο search bar 
   
   
   ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/search_bar.png)
@@ -287,6 +287,20 @@
  
  
   ### 1B
+  
+  #### Τα διαδραστικά παραδείγματα που επέλεξα να προσθέσω είναι τα εξής:
+  
+  #####  A) [Interactive Tic-Tac-Toe](https://github.com/p17laso/site/blob/master/_remix/interactive_TicTacToe.md)
+  
+  #####  B)
+  
+  ### 1Γ2)
+  
+  #### Επέλεξα να προσθέσω τη βιογραφία του Tim Berners Lee που είναι μια εξέχουσα προσωπικότητα στον κόσμο της πληροφορικής και θεωρείται ο εφευρέτης του Παγκόσμιου Ιστού.
+  
+  ##### [Tim Berners Lee Biography Pt1](https://github.com/p17laso/site/blob/master/_biography/tim-berners-lee.md)
+  ##### [Tim Berners Lee Biography Pt2](https://github.com/p17laso/site/blob/master/_biography/bio-bernerslee.md)  
+  
   
 [Link Βιβλίου](https://github.com/pibook/site)
 
