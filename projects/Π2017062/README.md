@@ -249,30 +249,41 @@
 
   <a class="twitter-timeline" data-width="400" data-height="600"  href="https://twitter.com/valery_las">Tweets by valery_las</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
+  
   ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/twitter_column.png)
   
 
   Παρόλο που δεν συνάντησα προβλήματα στη διεκπεραίωση των 2 προηγούμενων ζητημάτων το github μου έβγαζε συνεχώς σφάλματα (GitHub Pages failed to build your site) όταν προσπαθούσα να προσθέσω τα δικά μου διαδραστικά παραδείγματα και τη βιογραφία. 
   Εμφάνισα την ιστοσελίδα μέσω netlify, όπως ανέφεραν οι οδηγίες και όπως είπα προηγουμένως δεν αντιμετώπισα προβλήματα στην εμφάνιση της στήλης με τις αναρτήσεις μου, ωστόσο μόλις προσπαθούσα να ανεβάσω κάποια δική μου ανάρτηση το github με προειδοποιούσε πως υπάρχουν σφάλματα στην ιστοσελίδα.
   
+  
  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/all_checks_have_failed.png)
+  
   
   Προσπάθησα επιφυλακτικά να τα διορθώσω μιας και ήταν σε φακέλους που υπήρχαν εξαρχής στην σελίδα και δε δημιούργησα εγώ, χωρίς αποτέλεσμα. Μόλις διόρθωνα ένα σφάλμα εμφάνιζε ειδοποίηση πως υπάρχει κάποιο άλλο μέσα στην σελίδα. 
   
+  
   ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/error_correction1.png)
+  
   
   Μετά τη διόρθωση:
   
+  
   ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/error_correction2.png)
+  
   
   Στη προσωπική μου ιστοσελίδα εμφανίζει μόνο το όνομα της δημοσίευσης μου καθώς και μια σύντομη περιγραφή στο search bar
   
+  
   ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/search_bar.png)
+  
   
   ωστόσο όταν προσπαθώ να μπώ στις αντίστοιχες πληροφορίες λέει πως η σελίδα δε μπορεί να βρεθεί. 
  
+ 
  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/loading_error.png)
-  
+ 
+ 
   ### 1B
   
 [Link Βιβλίου](https://github.com/pibook/site)
