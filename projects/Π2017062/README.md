@@ -228,7 +228,9 @@
 
 [3o Tweet](https://twitter.com/valery_las/status/1192845171953733633)
 
-[4o Tweet](https://twitter.com/valery_las/status/1192985622727798784)
+[4o Tweet Pt1](https://twitter.com/valery_las/status/1192985622727798784)
+
+[4o Tweet Pt2](https://twitter.com/valery_las/status/1303791325075120133) (Δικό μου gif που δημιουργήθηκε με το Giphy αλλά δε μπορούσα να εμφανίσω στο Twitter)
 
 [5o Tweet](https://twitter.com/valery_las/status/1193335627141582848)
 
