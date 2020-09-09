@@ -292,7 +292,7 @@
   
   #####  A) [Interactive Tic-Tac-Toe](https://github.com/p17laso/site/blob/master/_remix/interactive_TicTacToe.md)
   
-  #####  B)
+  #####  B) [Interactive HDML5 Web Terminal](https://github.com/p17laso/site/blob/master/_remix/green_terminal_code.md)
   
   ### 1Γ2)
   
