@@ -219,9 +219,12 @@ AM: Π2017202
    [Asciinema Link Pastel](https://asciinema.org/a/3AJZsIRf57hBE9wSN8hJZfvp6)
    
    ## Eργασία συμμετοχικού περιεχομένου
-   Για την υλοποίηση της πρόσθετης εργασίας συμμετοχικού περιεχομένου, υλοποίησα την βιογραφία του Robert Noyce, ιδρυτή των Fairchild Semiconductor και Intel αλλά και δημιουργό μιας απο της σημαντικότερες εφευρέσεις, των microchip απο πυριτιο (Silicon)
+   Για την υλοποίηση της πρόσθετης εργασίας συμμετοχικού περιεχομένου, υλοποίησα την βιογραφία του Robert Noyce, ιδρυτή των Fairchild Semiconductor και Intel αλλά και δημιουργό μιας απο της σημαντικότερες εφευρέσεις, των microchip απο πυριτιο (Silicon). 
+   Επίσης προστέθηκε η βιογραφία του Carl Sassenrath, πρωτοπόρος δημιουργός λειτουργικών συστημάτων και γλωσσών υπολογιστών. Έφερε το multitasking σε προσωπικούς υπολογιστές το 1985 με τη δημιουργία του πυρήνα του λειτουργικού συστήματος Amiga Computer και είναι ο σχεδιαστής της γλώσσας υπολογιστών REBOL.
 
 [Link βιογραφίας/ Robert Noyce](https://alexandrosp38.github.io/gr/biography/robert-noyce/)
+
+[Link βιογραφίας/ Carl Sassenrath](https://alexandrosp38.github.io/gr/biography/carl-sassenrath/)
    
    
    
