@@ -10,9 +10,17 @@
 
 Έκανα δύο νέες βιογραφίες
 
-Η πρωτη για τον: (J.C.R Licklider) https://github.com/fanisdimitriadis/mm/blob/master/gr/_biography/J.%20C.%20R.%20Licklider.md https://github.com/fanisdimitriadis/mm/blob/master/gr/_biography/bio-J.%20C.%20R.%20Licklider.md
+Η πρωτη για τον: (J.C.R Licklider)https://github.com/fanisdimitriadis/gr/blob/gh-pages/_bibliography/J.%20C.%20R.%20Licklider.md
+https://github.com/fanisdimitriadis/gr/blob/gh-pages/_bibliography/bio-J.%20C.%20R.%20Licklider.md
 
-Η δεύτερη για τον: (Larry Tesler) https://github.com/fanisdimitriadis/mm/blob/master/gr/_biography/Larry-Tesler.md https://github.com/fanisdimitriadis/mm/blob/master/gr/_biography/bio-Larry%20Tesler.md
+Η δεύτερη για τον: (Larry Tesler) https://github.com/fanisdimitriadis/gr/blob/gh-pages/_bibliography/Larry-Tesler.md
+https://github.com/fanisdimitriadis/gr/blob/gh-pages/_bibliography/bio-Larry%20Tesler.md
+
+Πηγές:
+https://www.forbes.com/sites/johnwebster/2019/10/29/jcr-licklider--the-early-computing-visionary-youve-probably-never-heard-of/#466163da25cf
+https://internethalloffame.org/inductees/jcr-licklider
+https://www.cultofmac.com/685669/larry-tesler-the-apple-employee-who-invented-cut-copy-paste-dies-at-74/
+https://www.theverge.com/2020/2/19/21144516/larry-tesler-cut-copy-paste-dies-at-74-apple-xerox-amazon-obituary
 
 ΑΣΚΗΣΗ 1: download mp3
 
