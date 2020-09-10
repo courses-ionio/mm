@@ -33,7 +33,7 @@ https://www.addictivetips.com/ubuntu-linux-tips/download-torrents-from-the-comma
   
   manage your music library	import your music library, add tags and delete/add songs
   
-  Link: https://asciinema.org/a/muzfdFeCPbEe5OPJgEvi3jSqf/edit
+  Link: https://asciinema.org/a/muzfdFeCPbEe5OPJgEvi3jSqf
  
  Άσκηση 5
  batch image conversion	convert your image files to different sizes and formats
