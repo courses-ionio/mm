@@ -63,18 +63,18 @@ AM: Π2017202
   
   [Link asciinema](https://asciinema.org/a/EkzTDiStqqrRM1AUuE7I5qW9g)
   
-### Aria2
+  ### Aria2
 
  Ένα πολύ χρήσιμο *multi-protocol & multi-source command-line download utility* είναι το [Aria2](https://aria2.github.io/) το οποίο υποστηρίζει και BitTorrent.Στο αρχείο asciinema που ακολουθεί γίνεται εύρεση Link με το [we-get](#we-get) και download με το [Aria2](#Aria2)
  
  [Link asciinema](https://asciinema.org/a/vc8YqIqCLQBaF6lC6Zmpz7DgH)
  
  
-## Συμμετοχικό Υλικό
+  ## Συμμετοχικό Υλικό
 
-[Link σελιδας συμμετοχικου](https://alexandrosp38.github.io/gr/)
+  [Link σελιδας συμμετοχικου](https://alexandrosp38.github.io/gr/)
 
-[Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/gr)
+  [Link αντιγράφου αποθετηρίου](https://github.com/AlexandrosP38/gr)
 
    Μέρος της εργασίας στα Multimedia είναι η χρήση ενός κοινωνικού δικτύου για παρουσίαση του βιβλίου ["O Προγραμματισμός της Διάδρασης"](https://mibook.org/gr/)
    
