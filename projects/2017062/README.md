@@ -133,7 +133,7 @@
 
   Για την επίλυση αυτής της άσκησης επέλεξα να εγκαταστήσω τον BitTorrent client [Transmission-Cli](https://cli-ck.io/transmission-cli-user-guide/). Μιας και η άσκηση ζητούσε αναζήτηση και εγκατάσταση torrent file, προσπάθησα να κάνω το search μέσω του τερματικού εγκαθιστώντας το [Googler](https://github.com/jarun/googler) ωστόσο τόσο αυτό όσο και το ddgr που έχω αναφέρει παραπάνω δεν εμφάνιζαν αποτελέσματα, οπότε προχώρησα με την μηχανή αναζήτησης που χρησιμοποιώ σε καθημερινή βάση για να βρω το torrent site και να αντιγράψω τον σύνδεσμο των torrent αρχείων που επιθυμούσα να κατεβάσω. Το Transmission-cli μας παρέχει επίσης ένα web interface στο οποίο μπορούμε να παρακολουθήσουμε την πορεία των αρχείων που κατεβάζουμε.  Σε αυτό μπορούμε να σταματήσουμε και να ξεκινήσουμε τη διαδικασία του κατεβάσματος και να κάνουμε εν ολίγοις ότι θα μπορούσαμε να κάνουμε χρησιμοποιώντας τη γραμμή εντολών.
   
-  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/torrentdownload.png)
+  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/screenshots/torrentdownload.png)
 
   
  ##### Αναλυτικά τα βήματα παρουσιάζονται στο link: https://asciinema.org/a/o1Xg88k1cRTEjc1uaCcjUrioJ
@@ -252,7 +252,7 @@
   <a class="twitter-timeline" data-width="400" data-height="600"  href="https://twitter.com/valery_las">Tweets by valery_las</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   
   
-  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/twitter_column.png)
+  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/screenshots/twitter_column.png)
   
 #
 #
@@ -261,31 +261,31 @@
   Εμφάνισα την ιστοσελίδα μέσω netlify, όπως ανέφεραν οι οδηγίες και όπως είπα προηγουμένως δεν αντιμετώπισα προβλήματα στην εμφάνιση της στήλης με τις αναρτήσεις μου, ωστόσο μόλις προσπαθούσα να ανεβάσω κάποια δική μου ανάρτηση το github με προειδοποιούσε πως υπάρχουν σφάλματα στην ιστοσελίδα.
   
   
- ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/all_checks_have_failed.png)
+ ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/screenshots/all_checks_have_failed.png)
   
   
   Προσπάθησα επιφυλακτικά να τα διορθώσω μιας και ήταν σε φακέλους που υπήρχαν εξαρχής στην σελίδα και δε δημιούργησα εγώ, χωρίς αποτέλεσμα. Μόλις διόρθωνα ένα σφάλμα εμφάνιζε ειδοποίηση πως υπάρχει κάποιο άλλο μέσα στην σελίδα. 
   
   
-  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/error_correction1.png)
+  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/screenshots/error_correction1.png)
   
   
   Μετά τη διόρθωση:
   
   
-  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/error_correction2.png)
+  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/screenshots/error_correction2.png)
   
   
   Στη προσωπική μου ιστοσελίδα εμφανίζει μόνο το όνομα της δημοσίευσης μου (εδώ: βιογραφία Tim Berners Lee και interactive tic-tac-toe) καθώς και μια σύντομη περιγραφή στο search bar 
   
   
-  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/search_bar.png)
+  ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/screenshots/search_bar.png)
   
   
   ωστόσο όταν προσπαθώ να μπώ στις αντίστοιχες πληροφορίες λέει πως η σελίδα δε μπορεί να βρεθεί. 
  
  
- ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/%CE%A02017062/loading_error.png)
+ ![alt text](https://github.com/p17laso/mm/blob/%CE%A02017062/projects/screenshots/loading_error.png)
  
  
   ### 1B
